@@ -1,10 +1,13 @@
 const mongoose = require("mongoose");
 const fs = require("fs");
-const userModel = require("../Models/user.model")
+require("dotenv").config()
+const productModel = require("./models/product.model");
 
 // MongoDB connection
+let URI = process.env.MONGO_DB_URI
+
 mongoose
-  .connect("mongodb://127.0.0.1:27017/ecommerceDB", {
+  .connect(URI, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
@@ -12,12 +15,12 @@ mongoose
   .catch((err) => console.error("MongoDB connection error:", err));
 
 
-// Define a simple product schema (customize as needed)
-const productSchema = new mongoose.Schema({
-  name: String,
+//
+
 const products = JSON.parse(
   fs.readFileSync("./ecommerce_products.json", "utf-8")
-)});
+);
+
 
 productModel.insertMany(products)
   .then(() => {

@@ -1,0 +1,5002 @@
+[
+  {
+    "id":1,
+    "name":"HP Sneakers",
+    "category":"Fashion",
+    "price":1923.59,
+    "rating":3.5,
+    "stock":17,
+    "description":"The HP Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sneakers"
+  },
+  {
+    "id":2,
+    "name":"Nike Smartwatch",
+    "category":"Electronics",
+    "price":903.94,
+    "rating":3.9,
+    "stock":148,
+    "description":"The Nike Smartwatch is a high-quality smartwatch designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartwatch"
+  },
+  {
+    "id":3,
+    "name":"Chanel Dumbbell Set",
+    "category":"Sports & Outdoors",
+    "price":137.8,
+    "rating":3.0,
+    "stock":162,
+    "description":"The Chanel Dumbbell Set is a high-quality dumbbell set designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?DumbbellSet"
+  },
+  {
+    "id":4,
+    "name":"Chanel Men's T-Shirt",
+    "category":"Fashion",
+    "price":1484.81,
+    "rating":3.8,
+    "stock":118,
+    "description":"The Chanel Men's T-Shirt is a high-quality men's t-shirt designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Men'sT-Shirt"
+  },
+  {
+    "id":5,
+    "name":"Generic Wristwatch",
+    "category":"Fashion",
+    "price":1529.18,
+    "rating":4.7,
+    "stock":119,
+    "description":"The Generic Wristwatch is a high-quality wristwatch designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Wristwatch"
+  },
+  {
+    "id":6,
+    "name":"Philips Foundation",
+    "category":"Beauty",
+    "price":186.17,
+    "rating":4.4,
+    "stock":18,
+    "description":"The Philips Foundation is a high-quality foundation designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Foundation"
+  },
+  {
+    "id":7,
+    "name":"Gucci Bluetooth Speaker",
+    "category":"Electronics",
+    "price":1373.0,
+    "rating":4.1,
+    "stock":99,
+    "description":"The Gucci Bluetooth Speaker is a high-quality bluetooth speaker designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BluetoothSpeaker"
+  },
+  {
+    "id":8,
+    "name":"Nike Running Shoes",
+    "category":"Sports & Outdoors",
+    "price":1008.04,
+    "rating":3.0,
+    "stock":100,
+    "description":"The Nike Running Shoes is a high-quality running shoes designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?RunningShoes"
+  },
+  {
+    "id":9,
+    "name":"HP Sunscreen",
+    "category":"Beauty",
+    "price":1646.93,
+    "rating":4.2,
+    "stock":187,
+    "description":"The HP Sunscreen is a high-quality sunscreen designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunscreen"
+  },
+  {
+    "id":10,
+    "name":"Apple Face Serum",
+    "category":"Beauty",
+    "price":138.23,
+    "rating":4.8,
+    "stock":137,
+    "description":"The Apple Face Serum is a high-quality face serum designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?FaceSerum"
+  },
+  {
+    "id":11,
+    "name":"Dell Jeans",
+    "category":"Fashion",
+    "price":1729.47,
+    "rating":3.8,
+    "stock":176,
+    "description":"The Dell Jeans is a high-quality jeans designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Jeans"
+  },
+  {
+    "id":12,
+    "name":"LG Wristwatch",
+    "category":"Fashion",
+    "price":41.15,
+    "rating":4.1,
+    "stock":52,
+    "description":"The LG Wristwatch is a high-quality wristwatch designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Wristwatch"
+  },
+  {
+    "id":13,
+    "name":"HP Water Bottle",
+    "category":"Sports & Outdoors",
+    "price":1523.79,
+    "rating":4.6,
+    "stock":134,
+    "description":"The HP Water Bottle is a high-quality water bottle designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WaterBottle"
+  },
+  {
+    "id":14,
+    "name":"Generic Vacuum Cleaner",
+    "category":"Home & Kitchen",
+    "price":941.02,
+    "rating":3.2,
+    "stock":155,
+    "description":"The Generic Vacuum Cleaner is a high-quality vacuum cleaner designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?VacuumCleaner"
+  },
+  {
+    "id":15,
+    "name":"Dell Bicycle Helmet",
+    "category":"Sports & Outdoors",
+    "price":1081.28,
+    "rating":4.3,
+    "stock":39,
+    "description":"The Dell Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BicycleHelmet"
+  },
+  {
+    "id":16,
+    "name":"Adidas Moisturizer",
+    "category":"Beauty",
+    "price":1987.39,
+    "rating":2.6,
+    "stock":63,
+    "description":"The Adidas Moisturizer is a high-quality moisturizer designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Moisturizer"
+  },
+  {
+    "id":17,
+    "name":"Apple Leather Jacket",
+    "category":"Fashion",
+    "price":1480.21,
+    "rating":4.0,
+    "stock":6,
+    "description":"The Apple Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?LeatherJacket"
+  },
+  {
+    "id":18,
+    "name":"Puma Microwave Oven",
+    "category":"Home & Kitchen",
+    "price":1982.28,
+    "rating":3.1,
+    "stock":140,
+    "description":"The Puma Microwave Oven is a high-quality microwave oven designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?MicrowaveOven"
+  },
+  {
+    "id":19,
+    "name":"Gucci Blender",
+    "category":"Home & Kitchen",
+    "price":1058.79,
+    "rating":3.4,
+    "stock":95,
+    "description":"The Gucci Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Blender"
+  },
+  {
+    "id":20,
+    "name":"Gucci Bicycle Helmet",
+    "category":"Sports & Outdoors",
+    "price":1607.98,
+    "rating":2.8,
+    "stock":129,
+    "description":"The Gucci Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BicycleHelmet"
+  },
+  {
+    "id":21,
+    "name":"LG Women's Dress",
+    "category":"Fashion",
+    "price":1259.85,
+    "rating":4.6,
+    "stock":158,
+    "description":"The LG Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Women'sDress"
+  },
+  {
+    "id":22,
+    "name":"Gucci Dumbbell Set",
+    "category":"Sports & Outdoors",
+    "price":527.8,
+    "rating":4.2,
+    "stock":67,
+    "description":"The Gucci Dumbbell Set is a high-quality dumbbell set designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?DumbbellSet"
+  },
+  {
+    "id":23,
+    "name":"Dell Jeans",
+    "category":"Fashion",
+    "price":608.77,
+    "rating":3.0,
+    "stock":114,
+    "description":"The Dell Jeans is a high-quality jeans designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Jeans"
+  },
+  {
+    "id":24,
+    "name":"Gucci Handbag",
+    "category":"Fashion",
+    "price":1893.83,
+    "rating":4.0,
+    "stock":161,
+    "description":"The Gucci Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Handbag"
+  },
+  {
+    "id":25,
+    "name":"Nike Gaming Mouse",
+    "category":"Electronics",
+    "price":1437.31,
+    "rating":2.9,
+    "stock":95,
+    "description":"The Nike Gaming Mouse is a high-quality gaming mouse designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?GamingMouse"
+  },
+  {
+    "id":26,
+    "name":"Sony Water Bottle",
+    "category":"Sports & Outdoors",
+    "price":1521.12,
+    "rating":3.6,
+    "stock":143,
+    "description":"The Sony Water Bottle is a high-quality water bottle designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WaterBottle"
+  },
+  {
+    "id":27,
+    "name":"Philips Moisturizer",
+    "category":"Beauty",
+    "price":106.02,
+    "rating":4.1,
+    "stock":147,
+    "description":"The Philips Moisturizer is a high-quality moisturizer designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Moisturizer"
+  },
+  {
+    "id":28,
+    "name":"Adidas Smartphone",
+    "category":"Electronics",
+    "price":896.48,
+    "rating":3.4,
+    "stock":26,
+    "description":"The Adidas Smartphone is a high-quality smartphone designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartphone"
+  },
+  {
+    "id":29,
+    "name":"Gucci Bicycle Helmet",
+    "category":"Sports & Outdoors",
+    "price":75.29,
+    "rating":4.4,
+    "stock":73,
+    "description":"The Gucci Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BicycleHelmet"
+  },
+  {
+    "id":30,
+    "name":"Chanel Sunscreen",
+    "category":"Beauty",
+    "price":819.54,
+    "rating":4.9,
+    "stock":63,
+    "description":"The Chanel Sunscreen is a high-quality sunscreen designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunscreen"
+  },
+  {
+    "id":31,
+    "name":"Nike Bicycle Helmet",
+    "category":"Sports & Outdoors",
+    "price":775.72,
+    "rating":2.8,
+    "stock":152,
+    "description":"The Nike Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BicycleHelmet"
+  },
+  {
+    "id":32,
+    "name":"Gucci Tablet",
+    "category":"Electronics",
+    "price":990.36,
+    "rating":4.5,
+    "stock":79,
+    "description":"The Gucci Tablet is a high-quality tablet designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Tablet"
+  },
+  {
+    "id":33,
+    "name":"Samsung Perfume",
+    "category":"Beauty",
+    "price":1917.66,
+    "rating":3.0,
+    "stock":189,
+    "description":"The Samsung Perfume is a high-quality perfume designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Perfume"
+  },
+  {
+    "id":34,
+    "name":"Puma Smartphone",
+    "category":"Electronics",
+    "price":1217.39,
+    "rating":3.3,
+    "stock":187,
+    "description":"The Puma Smartphone is a high-quality smartphone designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartphone"
+  },
+  {
+    "id":35,
+    "name":"Philips Leather Jacket",
+    "category":"Fashion",
+    "price":1881.66,
+    "rating":4.9,
+    "stock":54,
+    "description":"The Philips Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?LeatherJacket"
+  },
+  {
+    "id":36,
+    "name":"Nike Cookware Set",
+    "category":"Home & Kitchen",
+    "price":1886.66,
+    "rating":4.7,
+    "stock":79,
+    "description":"The Nike Cookware Set is a high-quality cookware set designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CookwareSet"
+  },
+  {
+    "id":37,
+    "name":"Nike Sneakers",
+    "category":"Fashion",
+    "price":1773.17,
+    "rating":3.0,
+    "stock":119,
+    "description":"The Nike Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sneakers"
+  },
+  {
+    "id":38,
+    "name":"Puma Handbag",
+    "category":"Fashion",
+    "price":1890.97,
+    "rating":3.6,
+    "stock":177,
+    "description":"The Puma Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Handbag"
+  },
+  {
+    "id":39,
+    "name":"Samsung Women's Dress",
+    "category":"Fashion",
+    "price":1483.75,
+    "rating":3.7,
+    "stock":34,
+    "description":"The Samsung Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Women'sDress"
+  },
+  {
+    "id":40,
+    "name":"Samsung Camping Tent",
+    "category":"Sports & Outdoors",
+    "price":911.98,
+    "rating":4.4,
+    "stock":0,
+    "description":"The Samsung Camping Tent is a high-quality camping tent designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CampingTent"
+  },
+  {
+    "id":41,
+    "name":"Sony Face Serum",
+    "category":"Beauty",
+    "price":164.24,
+    "rating":3.3,
+    "stock":33,
+    "description":"The Sony Face Serum is a high-quality face serum designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?FaceSerum"
+  },
+  {
+    "id":42,
+    "name":"Nike Table Lamp",
+    "category":"Home & Kitchen",
+    "price":371.73,
+    "rating":2.9,
+    "stock":39,
+    "description":"The Nike Table Lamp is a high-quality table lamp designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?TableLamp"
+  },
+  {
+    "id":43,
+    "name":"Adidas Coffee Maker",
+    "category":"Home & Kitchen",
+    "price":1032.47,
+    "rating":3.5,
+    "stock":124,
+    "description":"The Adidas Coffee Maker is a high-quality coffee maker designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CoffeeMaker"
+  },
+  {
+    "id":44,
+    "name":"Nike Foundation",
+    "category":"Beauty",
+    "price":1301.34,
+    "rating":3.0,
+    "stock":50,
+    "description":"The Nike Foundation is a high-quality foundation designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Foundation"
+  },
+  {
+    "id":45,
+    "name":"Generic Yoga Mat",
+    "category":"Sports & Outdoors",
+    "price":1017.46,
+    "rating":4.9,
+    "stock":28,
+    "description":"The Generic Yoga Mat is a high-quality yoga mat designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?YogaMat"
+  },
+  {
+    "id":46,
+    "name":"Adidas Electric Kettle",
+    "category":"Home & Kitchen",
+    "price":1937.27,
+    "rating":4.6,
+    "stock":83,
+    "description":"The Adidas Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?ElectricKettle"
+  },
+  {
+    "id":47,
+    "name":"Dell Face Serum",
+    "category":"Beauty",
+    "price":106.69,
+    "rating":2.6,
+    "stock":187,
+    "description":"The Dell Face Serum is a high-quality face serum designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?FaceSerum"
+  },
+  {
+    "id":48,
+    "name":"Puma Leather Jacket",
+    "category":"Fashion",
+    "price":159.58,
+    "rating":4.0,
+    "stock":200,
+    "description":"The Puma Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?LeatherJacket"
+  },
+  {
+    "id":49,
+    "name":"LG Laptop",
+    "category":"Electronics",
+    "price":1883.03,
+    "rating":2.9,
+    "stock":131,
+    "description":"The LG Laptop is a high-quality laptop designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Laptop"
+  },
+  {
+    "id":50,
+    "name":"Philips Moisturizer",
+    "category":"Beauty",
+    "price":1576.77,
+    "rating":4.4,
+    "stock":75,
+    "description":"The Philips Moisturizer is a high-quality moisturizer designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Moisturizer"
+  },
+  {
+    "id":51,
+    "name":"Gucci Leather Jacket",
+    "category":"Fashion",
+    "price":52.26,
+    "rating":3.8,
+    "stock":41,
+    "description":"The Gucci Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?LeatherJacket"
+  },
+  {
+    "id":52,
+    "name":"Apple Football",
+    "category":"Sports & Outdoors",
+    "price":227.22,
+    "rating":3.7,
+    "stock":142,
+    "description":"The Apple Football is a high-quality football designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Football"
+  },
+  {
+    "id":53,
+    "name":"Apple Men's T-Shirt",
+    "category":"Fashion",
+    "price":1577.18,
+    "rating":4.8,
+    "stock":67,
+    "description":"The Apple Men's T-Shirt is a high-quality men's t-shirt designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Men'sT-Shirt"
+  },
+  {
+    "id":54,
+    "name":"Philips Cookware Set",
+    "category":"Home & Kitchen",
+    "price":788.87,
+    "rating":4.9,
+    "stock":119,
+    "description":"The Philips Cookware Set is a high-quality cookware set designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CookwareSet"
+  },
+  {
+    "id":55,
+    "name":"HP Coffee Maker",
+    "category":"Home & Kitchen",
+    "price":917.47,
+    "rating":4.5,
+    "stock":123,
+    "description":"The HP Coffee Maker is a high-quality coffee maker designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CoffeeMaker"
+  },
+  {
+    "id":56,
+    "name":"Gucci Face Serum",
+    "category":"Beauty",
+    "price":673.6,
+    "rating":3.9,
+    "stock":191,
+    "description":"The Gucci Face Serum is a high-quality face serum designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?FaceSerum"
+  },
+  {
+    "id":57,
+    "name":"Adidas Leather Jacket",
+    "category":"Fashion",
+    "price":1196.86,
+    "rating":2.9,
+    "stock":140,
+    "description":"The Adidas Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?LeatherJacket"
+  },
+  {
+    "id":58,
+    "name":"Philips Water Bottle",
+    "category":"Sports & Outdoors",
+    "price":1603.68,
+    "rating":3.4,
+    "stock":186,
+    "description":"The Philips Water Bottle is a high-quality water bottle designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WaterBottle"
+  },
+  {
+    "id":59,
+    "name":"Dell Perfume",
+    "category":"Beauty",
+    "price":1171.52,
+    "rating":2.8,
+    "stock":148,
+    "description":"The Dell Perfume is a high-quality perfume designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Perfume"
+  },
+  {
+    "id":60,
+    "name":"Chanel Mechanical Keyboard",
+    "category":"Electronics",
+    "price":1676.77,
+    "rating":4.0,
+    "stock":121,
+    "description":"The Chanel Mechanical Keyboard is a high-quality mechanical keyboard designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?MechanicalKeyboard"
+  },
+  {
+    "id":61,
+    "name":"Puma Lipstick",
+    "category":"Beauty",
+    "price":58.66,
+    "rating":4.5,
+    "stock":149,
+    "description":"The Puma Lipstick is a high-quality lipstick designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Lipstick"
+  },
+  {
+    "id":62,
+    "name":"Sony Cookware Set",
+    "category":"Home & Kitchen",
+    "price":986.9,
+    "rating":4.7,
+    "stock":154,
+    "description":"The Sony Cookware Set is a high-quality cookware set designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CookwareSet"
+  },
+  {
+    "id":63,
+    "name":"Dell Women's Dress",
+    "category":"Fashion",
+    "price":587.99,
+    "rating":2.6,
+    "stock":17,
+    "description":"The Dell Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Women'sDress"
+  },
+  {
+    "id":64,
+    "name":"LG Smartphone",
+    "category":"Electronics",
+    "price":317.88,
+    "rating":2.7,
+    "stock":153,
+    "description":"The LG Smartphone is a high-quality smartphone designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartphone"
+  },
+  {
+    "id":65,
+    "name":"Adidas Backpack",
+    "category":"Sports & Outdoors",
+    "price":1291.51,
+    "rating":2.5,
+    "stock":3,
+    "description":"The Adidas Backpack is a high-quality backpack designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Backpack"
+  },
+  {
+    "id":66,
+    "name":"Philips Smartwatch",
+    "category":"Electronics",
+    "price":1316.84,
+    "rating":4.8,
+    "stock":174,
+    "description":"The Philips Smartwatch is a high-quality smartwatch designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartwatch"
+  },
+  {
+    "id":67,
+    "name":"Nike Leather Jacket",
+    "category":"Fashion",
+    "price":117.85,
+    "rating":3.4,
+    "stock":144,
+    "description":"The Nike Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?LeatherJacket"
+  },
+  {
+    "id":68,
+    "name":"Adidas Sneakers",
+    "category":"Fashion",
+    "price":1777.19,
+    "rating":2.5,
+    "stock":9,
+    "description":"The Adidas Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sneakers"
+  },
+  {
+    "id":69,
+    "name":"Puma Handbag",
+    "category":"Fashion",
+    "price":1342.72,
+    "rating":2.9,
+    "stock":40,
+    "description":"The Puma Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Handbag"
+  },
+  {
+    "id":70,
+    "name":"Generic Wireless Earbuds",
+    "category":"Electronics",
+    "price":396.15,
+    "rating":3.0,
+    "stock":185,
+    "description":"The Generic Wireless Earbuds is a high-quality wireless earbuds designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WirelessEarbuds"
+  },
+  {
+    "id":71,
+    "name":"Sony Blender",
+    "category":"Home & Kitchen",
+    "price":967.35,
+    "rating":4.6,
+    "stock":147,
+    "description":"The Sony Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Blender"
+  },
+  {
+    "id":72,
+    "name":"Apple Microwave Oven",
+    "category":"Home & Kitchen",
+    "price":1165.38,
+    "rating":4.0,
+    "stock":124,
+    "description":"The Apple Microwave Oven is a high-quality microwave oven designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?MicrowaveOven"
+  },
+  {
+    "id":73,
+    "name":"Chanel Perfume",
+    "category":"Beauty",
+    "price":1217.25,
+    "rating":3.7,
+    "stock":18,
+    "description":"The Chanel Perfume is a high-quality perfume designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Perfume"
+  },
+  {
+    "id":74,
+    "name":"Dell Bicycle Helmet",
+    "category":"Sports & Outdoors",
+    "price":1355.81,
+    "rating":4.5,
+    "stock":195,
+    "description":"The Dell Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BicycleHelmet"
+  },
+  {
+    "id":75,
+    "name":"Samsung Yoga Mat",
+    "category":"Sports & Outdoors",
+    "price":1834.84,
+    "rating":4.4,
+    "stock":126,
+    "description":"The Samsung Yoga Mat is a high-quality yoga mat designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?YogaMat"
+  },
+  {
+    "id":76,
+    "name":"Gucci Conditioner",
+    "category":"Beauty",
+    "price":1329.94,
+    "rating":2.5,
+    "stock":174,
+    "description":"The Gucci Conditioner is a high-quality conditioner designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Conditioner"
+  },
+  {
+    "id":77,
+    "name":"Sony Water Bottle",
+    "category":"Sports & Outdoors",
+    "price":74.63,
+    "rating":4.2,
+    "stock":77,
+    "description":"The Sony Water Bottle is a high-quality water bottle designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WaterBottle"
+  },
+  {
+    "id":78,
+    "name":"Philips Perfume",
+    "category":"Beauty",
+    "price":1122.54,
+    "rating":4.1,
+    "stock":139,
+    "description":"The Philips Perfume is a high-quality perfume designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Perfume"
+  },
+  {
+    "id":79,
+    "name":"Dell Women's Dress",
+    "category":"Fashion",
+    "price":179.68,
+    "rating":3.3,
+    "stock":102,
+    "description":"The Dell Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Women'sDress"
+  },
+  {
+    "id":80,
+    "name":"HP Men's T-Shirt",
+    "category":"Fashion",
+    "price":428.7,
+    "rating":4.9,
+    "stock":9,
+    "description":"The HP Men's T-Shirt is a high-quality men's t-shirt designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Men'sT-Shirt"
+  },
+  {
+    "id":81,
+    "name":"Chanel Laptop",
+    "category":"Electronics",
+    "price":661.75,
+    "rating":3.9,
+    "stock":82,
+    "description":"The Chanel Laptop is a high-quality laptop designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Laptop"
+  },
+  {
+    "id":82,
+    "name":"Gucci Running Shoes",
+    "category":"Sports & Outdoors",
+    "price":1059.97,
+    "rating":3.5,
+    "stock":133,
+    "description":"The Gucci Running Shoes is a high-quality running shoes designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?RunningShoes"
+  },
+  {
+    "id":83,
+    "name":"Apple Wireless Earbuds",
+    "category":"Electronics",
+    "price":1327.66,
+    "rating":4.1,
+    "stock":104,
+    "description":"The Apple Wireless Earbuds is a high-quality wireless earbuds designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WirelessEarbuds"
+  },
+  {
+    "id":84,
+    "name":"Nike Shampoo",
+    "category":"Beauty",
+    "price":1043.1,
+    "rating":3.4,
+    "stock":92,
+    "description":"The Nike Shampoo is a high-quality shampoo designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Shampoo"
+  },
+  {
+    "id":85,
+    "name":"Gucci Camping Tent",
+    "category":"Sports & Outdoors",
+    "price":1886.62,
+    "rating":4.2,
+    "stock":181,
+    "description":"The Gucci Camping Tent is a high-quality camping tent designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CampingTent"
+  },
+  {
+    "id":86,
+    "name":"LG Camping Tent",
+    "category":"Sports & Outdoors",
+    "price":412.12,
+    "rating":2.8,
+    "stock":112,
+    "description":"The LG Camping Tent is a high-quality camping tent designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CampingTent"
+  },
+  {
+    "id":87,
+    "name":"Philips Wireless Earbuds",
+    "category":"Electronics",
+    "price":1140.69,
+    "rating":4.0,
+    "stock":144,
+    "description":"The Philips Wireless Earbuds is a high-quality wireless earbuds designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WirelessEarbuds"
+  },
+  {
+    "id":88,
+    "name":"Chanel Electric Kettle",
+    "category":"Home & Kitchen",
+    "price":138.43,
+    "rating":2.7,
+    "stock":64,
+    "description":"The Chanel Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?ElectricKettle"
+  },
+  {
+    "id":89,
+    "name":"Samsung Laptop",
+    "category":"Electronics",
+    "price":423.87,
+    "rating":2.8,
+    "stock":46,
+    "description":"The Samsung Laptop is a high-quality laptop designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Laptop"
+  },
+  {
+    "id":90,
+    "name":"Gucci Tablet",
+    "category":"Electronics",
+    "price":1561.2,
+    "rating":4.2,
+    "stock":116,
+    "description":"The Gucci Tablet is a high-quality tablet designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Tablet"
+  },
+  {
+    "id":91,
+    "name":"Philips Electric Kettle",
+    "category":"Home & Kitchen",
+    "price":127.75,
+    "rating":2.7,
+    "stock":143,
+    "description":"The Philips Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?ElectricKettle"
+  },
+  {
+    "id":92,
+    "name":"Philips Dumbbell Set",
+    "category":"Sports & Outdoors",
+    "price":430.8,
+    "rating":4.8,
+    "stock":97,
+    "description":"The Philips Dumbbell Set is a high-quality dumbbell set designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?DumbbellSet"
+  },
+  {
+    "id":93,
+    "name":"Gucci Football",
+    "category":"Sports & Outdoors",
+    "price":689.63,
+    "rating":2.9,
+    "stock":17,
+    "description":"The Gucci Football is a high-quality football designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Football"
+  },
+  {
+    "id":94,
+    "name":"Dell Laptop",
+    "category":"Electronics",
+    "price":452.02,
+    "rating":4.6,
+    "stock":194,
+    "description":"The Dell Laptop is a high-quality laptop designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Laptop"
+  },
+  {
+    "id":95,
+    "name":"Apple Coffee Maker",
+    "category":"Home & Kitchen",
+    "price":834.29,
+    "rating":4.2,
+    "stock":150,
+    "description":"The Apple Coffee Maker is a high-quality coffee maker designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CoffeeMaker"
+  },
+  {
+    "id":96,
+    "name":"Chanel Electric Kettle",
+    "category":"Home & Kitchen",
+    "price":1705.62,
+    "rating":3.7,
+    "stock":145,
+    "description":"The Chanel Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?ElectricKettle"
+  },
+  {
+    "id":97,
+    "name":"Chanel Sunscreen",
+    "category":"Beauty",
+    "price":769.87,
+    "rating":4.6,
+    "stock":117,
+    "description":"The Chanel Sunscreen is a high-quality sunscreen designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunscreen"
+  },
+  {
+    "id":98,
+    "name":"Generic Table Lamp",
+    "category":"Home & Kitchen",
+    "price":1049.01,
+    "rating":4.8,
+    "stock":115,
+    "description":"The Generic Table Lamp is a high-quality table lamp designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?TableLamp"
+  },
+  {
+    "id":99,
+    "name":"Gucci Moisturizer",
+    "category":"Beauty",
+    "price":1636.25,
+    "rating":3.9,
+    "stock":27,
+    "description":"The Gucci Moisturizer is a high-quality moisturizer designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Moisturizer"
+  },
+  {
+    "id":100,
+    "name":"Generic Laptop",
+    "category":"Electronics",
+    "price":185.58,
+    "rating":4.5,
+    "stock":173,
+    "description":"The Generic Laptop is a high-quality laptop designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Laptop"
+  },
+  {
+    "id":101,
+    "name":"Adidas Electric Kettle",
+    "category":"Home & Kitchen",
+    "price":1999.77,
+    "rating":3.8,
+    "stock":41,
+    "description":"The Adidas Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?ElectricKettle"
+  },
+  {
+    "id":102,
+    "name":"Samsung Football",
+    "category":"Sports & Outdoors",
+    "price":1441.47,
+    "rating":3.2,
+    "stock":152,
+    "description":"The Samsung Football is a high-quality football designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Football"
+  },
+  {
+    "id":103,
+    "name":"Gucci Sunscreen",
+    "category":"Beauty",
+    "price":1292.02,
+    "rating":4.2,
+    "stock":98,
+    "description":"The Gucci Sunscreen is a high-quality sunscreen designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunscreen"
+  },
+  {
+    "id":104,
+    "name":"LG Leather Jacket",
+    "category":"Fashion",
+    "price":1447.42,
+    "rating":4.5,
+    "stock":162,
+    "description":"The LG Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?LeatherJacket"
+  },
+  {
+    "id":105,
+    "name":"Generic Football",
+    "category":"Sports & Outdoors",
+    "price":593.06,
+    "rating":4.0,
+    "stock":38,
+    "description":"The Generic Football is a high-quality football designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Football"
+  },
+  {
+    "id":106,
+    "name":"LG Perfume",
+    "category":"Beauty",
+    "price":247.26,
+    "rating":3.3,
+    "stock":178,
+    "description":"The LG Perfume is a high-quality perfume designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Perfume"
+  },
+  {
+    "id":107,
+    "name":"Puma Water Bottle",
+    "category":"Sports & Outdoors",
+    "price":491.58,
+    "rating":3.2,
+    "stock":136,
+    "description":"The Puma Water Bottle is a high-quality water bottle designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WaterBottle"
+  },
+  {
+    "id":108,
+    "name":"LG Perfume",
+    "category":"Beauty",
+    "price":1773.25,
+    "rating":4.6,
+    "stock":68,
+    "description":"The LG Perfume is a high-quality perfume designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Perfume"
+  },
+  {
+    "id":109,
+    "name":"Gucci Electric Kettle",
+    "category":"Home & Kitchen",
+    "price":1079.89,
+    "rating":2.6,
+    "stock":178,
+    "description":"The Gucci Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?ElectricKettle"
+  },
+  {
+    "id":110,
+    "name":"Puma Men's T-Shirt",
+    "category":"Fashion",
+    "price":942.34,
+    "rating":2.9,
+    "stock":134,
+    "description":"The Puma Men's T-Shirt is a high-quality men's t-shirt designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Men'sT-Shirt"
+  },
+  {
+    "id":111,
+    "name":"Puma Jeans",
+    "category":"Fashion",
+    "price":852.67,
+    "rating":3.6,
+    "stock":171,
+    "description":"The Puma Jeans is a high-quality jeans designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Jeans"
+  },
+  {
+    "id":112,
+    "name":"Nike Perfume",
+    "category":"Beauty",
+    "price":1234.12,
+    "rating":3.6,
+    "stock":131,
+    "description":"The Nike Perfume is a high-quality perfume designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Perfume"
+  },
+  {
+    "id":113,
+    "name":"Gucci Tablet",
+    "category":"Electronics",
+    "price":1812.41,
+    "rating":4.7,
+    "stock":177,
+    "description":"The Gucci Tablet is a high-quality tablet designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Tablet"
+  },
+  {
+    "id":114,
+    "name":"HP Table Lamp",
+    "category":"Home & Kitchen",
+    "price":601.28,
+    "rating":3.4,
+    "stock":112,
+    "description":"The HP Table Lamp is a high-quality table lamp designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?TableLamp"
+  },
+  {
+    "id":115,
+    "name":"Chanel Table Lamp",
+    "category":"Home & Kitchen",
+    "price":1266.46,
+    "rating":3.1,
+    "stock":41,
+    "description":"The Chanel Table Lamp is a high-quality table lamp designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?TableLamp"
+  },
+  {
+    "id":116,
+    "name":"Generic Sneakers",
+    "category":"Fashion",
+    "price":1679.9,
+    "rating":4.2,
+    "stock":134,
+    "description":"The Generic Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sneakers"
+  },
+  {
+    "id":117,
+    "name":"Samsung Blender",
+    "category":"Home & Kitchen",
+    "price":560.28,
+    "rating":4.9,
+    "stock":173,
+    "description":"The Samsung Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Blender"
+  },
+  {
+    "id":118,
+    "name":"Nike Bicycle Helmet",
+    "category":"Sports & Outdoors",
+    "price":1432.34,
+    "rating":3.6,
+    "stock":74,
+    "description":"The Nike Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BicycleHelmet"
+  },
+  {
+    "id":119,
+    "name":"HP Air Fryer",
+    "category":"Home & Kitchen",
+    "price":1440.03,
+    "rating":4.0,
+    "stock":32,
+    "description":"The HP Air Fryer is a high-quality air fryer designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?AirFryer"
+  },
+  {
+    "id":120,
+    "name":"LG Mechanical Keyboard",
+    "category":"Electronics",
+    "price":226.21,
+    "rating":3.5,
+    "stock":8,
+    "description":"The LG Mechanical Keyboard is a high-quality mechanical keyboard designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?MechanicalKeyboard"
+  },
+  {
+    "id":121,
+    "name":"HP Sneakers",
+    "category":"Fashion",
+    "price":1023.94,
+    "rating":3.0,
+    "stock":160,
+    "description":"The HP Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sneakers"
+  },
+  {
+    "id":122,
+    "name":"Philips Sunscreen",
+    "category":"Beauty",
+    "price":1651.84,
+    "rating":2.6,
+    "stock":34,
+    "description":"The Philips Sunscreen is a high-quality sunscreen designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunscreen"
+  },
+  {
+    "id":123,
+    "name":"Dell Sneakers",
+    "category":"Fashion",
+    "price":1772.04,
+    "rating":3.1,
+    "stock":32,
+    "description":"The Dell Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sneakers"
+  },
+  {
+    "id":124,
+    "name":"Adidas Football",
+    "category":"Sports & Outdoors",
+    "price":613.14,
+    "rating":3.2,
+    "stock":168,
+    "description":"The Adidas Football is a high-quality football designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Football"
+  },
+  {
+    "id":125,
+    "name":"Generic Face Serum",
+    "category":"Beauty",
+    "price":775.61,
+    "rating":4.9,
+    "stock":191,
+    "description":"The Generic Face Serum is a high-quality face serum designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?FaceSerum"
+  },
+  {
+    "id":126,
+    "name":"Samsung Men's T-Shirt",
+    "category":"Fashion",
+    "price":1847.4,
+    "rating":2.6,
+    "stock":76,
+    "description":"The Samsung Men's T-Shirt is a high-quality men's t-shirt designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Men'sT-Shirt"
+  },
+  {
+    "id":127,
+    "name":"Gucci Running Shoes",
+    "category":"Sports & Outdoors",
+    "price":1167.95,
+    "rating":4.0,
+    "stock":13,
+    "description":"The Gucci Running Shoes is a high-quality running shoes designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?RunningShoes"
+  },
+  {
+    "id":128,
+    "name":"Sony Women's Dress",
+    "category":"Fashion",
+    "price":1045.65,
+    "rating":4.5,
+    "stock":145,
+    "description":"The Sony Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Women'sDress"
+  },
+  {
+    "id":129,
+    "name":"Apple Mechanical Keyboard",
+    "category":"Electronics",
+    "price":891.22,
+    "rating":3.4,
+    "stock":112,
+    "description":"The Apple Mechanical Keyboard is a high-quality mechanical keyboard designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?MechanicalKeyboard"
+  },
+  {
+    "id":130,
+    "name":"Philips Yoga Mat",
+    "category":"Sports & Outdoors",
+    "price":487.38,
+    "rating":3.6,
+    "stock":6,
+    "description":"The Philips Yoga Mat is a high-quality yoga mat designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?YogaMat"
+  },
+  {
+    "id":131,
+    "name":"Puma Backpack",
+    "category":"Sports & Outdoors",
+    "price":1913.73,
+    "rating":4.5,
+    "stock":130,
+    "description":"The Puma Backpack is a high-quality backpack designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Backpack"
+  },
+  {
+    "id":132,
+    "name":"HP Electric Kettle",
+    "category":"Home & Kitchen",
+    "price":637.06,
+    "rating":3.6,
+    "stock":3,
+    "description":"The HP Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?ElectricKettle"
+  },
+  {
+    "id":133,
+    "name":"Generic Coffee Maker",
+    "category":"Home & Kitchen",
+    "price":1026.78,
+    "rating":3.9,
+    "stock":112,
+    "description":"The Generic Coffee Maker is a high-quality coffee maker designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CoffeeMaker"
+  },
+  {
+    "id":134,
+    "name":"Generic Tablet",
+    "category":"Electronics",
+    "price":628.83,
+    "rating":3.0,
+    "stock":46,
+    "description":"The Generic Tablet is a high-quality tablet designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Tablet"
+  },
+  {
+    "id":135,
+    "name":"Dell Running Shoes",
+    "category":"Sports & Outdoors",
+    "price":1364.31,
+    "rating":3.3,
+    "stock":55,
+    "description":"The Dell Running Shoes is a high-quality running shoes designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?RunningShoes"
+  },
+  {
+    "id":136,
+    "name":"Gucci Handbag",
+    "category":"Fashion",
+    "price":245.8,
+    "rating":3.6,
+    "stock":174,
+    "description":"The Gucci Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Handbag"
+  },
+  {
+    "id":137,
+    "name":"HP Cookware Set",
+    "category":"Home & Kitchen",
+    "price":800.84,
+    "rating":4.2,
+    "stock":132,
+    "description":"The HP Cookware Set is a high-quality cookware set designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CookwareSet"
+  },
+  {
+    "id":138,
+    "name":"Sony Bicycle Helmet",
+    "category":"Sports & Outdoors",
+    "price":133.04,
+    "rating":3.8,
+    "stock":2,
+    "description":"The Sony Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BicycleHelmet"
+  },
+  {
+    "id":139,
+    "name":"Dell Lipstick",
+    "category":"Beauty",
+    "price":1100.78,
+    "rating":2.9,
+    "stock":146,
+    "description":"The Dell Lipstick is a high-quality lipstick designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Lipstick"
+  },
+  {
+    "id":140,
+    "name":"Sony Cookware Set",
+    "category":"Home & Kitchen",
+    "price":607.62,
+    "rating":3.5,
+    "stock":13,
+    "description":"The Sony Cookware Set is a high-quality cookware set designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CookwareSet"
+  },
+  {
+    "id":141,
+    "name":"Apple Jeans",
+    "category":"Fashion",
+    "price":1671.46,
+    "rating":3.4,
+    "stock":52,
+    "description":"The Apple Jeans is a high-quality jeans designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Jeans"
+  },
+  {
+    "id":142,
+    "name":"Samsung Sneakers",
+    "category":"Fashion",
+    "price":366.3,
+    "rating":2.9,
+    "stock":15,
+    "description":"The Samsung Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sneakers"
+  },
+  {
+    "id":143,
+    "name":"Dell Mechanical Keyboard",
+    "category":"Electronics",
+    "price":283.67,
+    "rating":4.3,
+    "stock":137,
+    "description":"The Dell Mechanical Keyboard is a high-quality mechanical keyboard designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?MechanicalKeyboard"
+  },
+  {
+    "id":144,
+    "name":"Dell Yoga Mat",
+    "category":"Sports & Outdoors",
+    "price":697.25,
+    "rating":2.7,
+    "stock":15,
+    "description":"The Dell Yoga Mat is a high-quality yoga mat designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?YogaMat"
+  },
+  {
+    "id":145,
+    "name":"Puma Smartphone",
+    "category":"Electronics",
+    "price":1279.69,
+    "rating":3.9,
+    "stock":89,
+    "description":"The Puma Smartphone is a high-quality smartphone designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartphone"
+  },
+  {
+    "id":146,
+    "name":"HP Mechanical Keyboard",
+    "category":"Electronics",
+    "price":1379.5,
+    "rating":3.6,
+    "stock":54,
+    "description":"The HP Mechanical Keyboard is a high-quality mechanical keyboard designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?MechanicalKeyboard"
+  },
+  {
+    "id":147,
+    "name":"Gucci Women's Dress",
+    "category":"Fashion",
+    "price":1484.17,
+    "rating":4.1,
+    "stock":117,
+    "description":"The Gucci Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Women'sDress"
+  },
+  {
+    "id":148,
+    "name":"Gucci Water Bottle",
+    "category":"Sports & Outdoors",
+    "price":1216.63,
+    "rating":3.3,
+    "stock":100,
+    "description":"The Gucci Water Bottle is a high-quality water bottle designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WaterBottle"
+  },
+  {
+    "id":149,
+    "name":"Nike Electric Kettle",
+    "category":"Home & Kitchen",
+    "price":1828.19,
+    "rating":4.2,
+    "stock":14,
+    "description":"The Nike Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?ElectricKettle"
+  },
+  {
+    "id":150,
+    "name":"Chanel Backpack",
+    "category":"Sports & Outdoors",
+    "price":119.07,
+    "rating":4.0,
+    "stock":72,
+    "description":"The Chanel Backpack is a high-quality backpack designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Backpack"
+  },
+  {
+    "id":151,
+    "name":"Nike Leather Jacket",
+    "category":"Fashion",
+    "price":1640.25,
+    "rating":3.7,
+    "stock":196,
+    "description":"The Nike Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?LeatherJacket"
+  },
+  {
+    "id":152,
+    "name":"Dell Sunscreen",
+    "category":"Beauty",
+    "price":1760.77,
+    "rating":4.8,
+    "stock":29,
+    "description":"The Dell Sunscreen is a high-quality sunscreen designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunscreen"
+  },
+  {
+    "id":153,
+    "name":"Generic Smartwatch",
+    "category":"Electronics",
+    "price":32.77,
+    "rating":3.1,
+    "stock":146,
+    "description":"The Generic Smartwatch is a high-quality smartwatch designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartwatch"
+  },
+  {
+    "id":154,
+    "name":"Generic Shampoo",
+    "category":"Beauty",
+    "price":226.96,
+    "rating":3.2,
+    "stock":14,
+    "description":"The Generic Shampoo is a high-quality shampoo designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Shampoo"
+  },
+  {
+    "id":155,
+    "name":"Sony Sneakers",
+    "category":"Fashion",
+    "price":742.62,
+    "rating":3.8,
+    "stock":18,
+    "description":"The Sony Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sneakers"
+  },
+  {
+    "id":156,
+    "name":"Dell Sunglasses",
+    "category":"Fashion",
+    "price":245.64,
+    "rating":3.3,
+    "stock":199,
+    "description":"The Dell Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunglasses"
+  },
+  {
+    "id":157,
+    "name":"Nike Vacuum Cleaner",
+    "category":"Home & Kitchen",
+    "price":333.12,
+    "rating":3.4,
+    "stock":158,
+    "description":"The Nike Vacuum Cleaner is a high-quality vacuum cleaner designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?VacuumCleaner"
+  },
+  {
+    "id":158,
+    "name":"Sony Table Lamp",
+    "category":"Home & Kitchen",
+    "price":1560.64,
+    "rating":3.3,
+    "stock":23,
+    "description":"The Sony Table Lamp is a high-quality table lamp designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?TableLamp"
+  },
+  {
+    "id":159,
+    "name":"Generic Vacuum Cleaner",
+    "category":"Home & Kitchen",
+    "price":282.06,
+    "rating":4.1,
+    "stock":90,
+    "description":"The Generic Vacuum Cleaner is a high-quality vacuum cleaner designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?VacuumCleaner"
+  },
+  {
+    "id":160,
+    "name":"Gucci Wristwatch",
+    "category":"Fashion",
+    "price":66.28,
+    "rating":3.8,
+    "stock":144,
+    "description":"The Gucci Wristwatch is a high-quality wristwatch designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Wristwatch"
+  },
+  {
+    "id":161,
+    "name":"Dell Microwave Oven",
+    "category":"Home & Kitchen",
+    "price":1958.23,
+    "rating":4.6,
+    "stock":28,
+    "description":"The Dell Microwave Oven is a high-quality microwave oven designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?MicrowaveOven"
+  },
+  {
+    "id":162,
+    "name":"Nike Wireless Earbuds",
+    "category":"Electronics",
+    "price":742.47,
+    "rating":2.9,
+    "stock":21,
+    "description":"The Nike Wireless Earbuds is a high-quality wireless earbuds designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WirelessEarbuds"
+  },
+  {
+    "id":163,
+    "name":"Philips Women's Dress",
+    "category":"Fashion",
+    "price":1973.04,
+    "rating":3.1,
+    "stock":68,
+    "description":"The Philips Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Women'sDress"
+  },
+  {
+    "id":164,
+    "name":"Dell Sunscreen",
+    "category":"Beauty",
+    "price":1188.85,
+    "rating":2.7,
+    "stock":51,
+    "description":"The Dell Sunscreen is a high-quality sunscreen designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunscreen"
+  },
+  {
+    "id":165,
+    "name":"LG Handbag",
+    "category":"Fashion",
+    "price":1555.82,
+    "rating":4.9,
+    "stock":27,
+    "description":"The LG Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Handbag"
+  },
+  {
+    "id":166,
+    "name":"Dell Water Bottle",
+    "category":"Sports & Outdoors",
+    "price":913.94,
+    "rating":3.5,
+    "stock":70,
+    "description":"The Dell Water Bottle is a high-quality water bottle designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WaterBottle"
+  },
+  {
+    "id":167,
+    "name":"Apple Sunglasses",
+    "category":"Fashion",
+    "price":68.6,
+    "rating":3.6,
+    "stock":16,
+    "description":"The Apple Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunglasses"
+  },
+  {
+    "id":168,
+    "name":"Chanel Tablet",
+    "category":"Electronics",
+    "price":66.77,
+    "rating":3.2,
+    "stock":103,
+    "description":"The Chanel Tablet is a high-quality tablet designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Tablet"
+  },
+  {
+    "id":169,
+    "name":"Generic Foundation",
+    "category":"Beauty",
+    "price":569.42,
+    "rating":4.3,
+    "stock":48,
+    "description":"The Generic Foundation is a high-quality foundation designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Foundation"
+  },
+  {
+    "id":170,
+    "name":"Dell Running Shoes",
+    "category":"Sports & Outdoors",
+    "price":1291.19,
+    "rating":2.7,
+    "stock":5,
+    "description":"The Dell Running Shoes is a high-quality running shoes designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?RunningShoes"
+  },
+  {
+    "id":171,
+    "name":"Chanel Women's Dress",
+    "category":"Fashion",
+    "price":1908.57,
+    "rating":4.8,
+    "stock":133,
+    "description":"The Chanel Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Women'sDress"
+  },
+  {
+    "id":172,
+    "name":"Sony Football",
+    "category":"Sports & Outdoors",
+    "price":1875.23,
+    "rating":3.4,
+    "stock":157,
+    "description":"The Sony Football is a high-quality football designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Football"
+  },
+  {
+    "id":173,
+    "name":"Generic Running Shoes",
+    "category":"Sports & Outdoors",
+    "price":1011.35,
+    "rating":3.3,
+    "stock":156,
+    "description":"The Generic Running Shoes is a high-quality running shoes designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?RunningShoes"
+  },
+  {
+    "id":174,
+    "name":"Nike Electric Kettle",
+    "category":"Home & Kitchen",
+    "price":1102.88,
+    "rating":2.8,
+    "stock":155,
+    "description":"The Nike Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?ElectricKettle"
+  },
+  {
+    "id":175,
+    "name":"LG Men's T-Shirt",
+    "category":"Fashion",
+    "price":1974.7,
+    "rating":4.0,
+    "stock":168,
+    "description":"The LG Men's T-Shirt is a high-quality men's t-shirt designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Men'sT-Shirt"
+  },
+  {
+    "id":176,
+    "name":"Chanel Lipstick",
+    "category":"Beauty",
+    "price":912.58,
+    "rating":3.1,
+    "stock":195,
+    "description":"The Chanel Lipstick is a high-quality lipstick designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Lipstick"
+  },
+  {
+    "id":177,
+    "name":"Adidas Lipstick",
+    "category":"Beauty",
+    "price":1725.57,
+    "rating":3.7,
+    "stock":191,
+    "description":"The Adidas Lipstick is a high-quality lipstick designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Lipstick"
+  },
+  {
+    "id":178,
+    "name":"Samsung Jeans",
+    "category":"Fashion",
+    "price":1029.96,
+    "rating":3.7,
+    "stock":37,
+    "description":"The Samsung Jeans is a high-quality jeans designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Jeans"
+  },
+  {
+    "id":179,
+    "name":"LG Foundation",
+    "category":"Beauty",
+    "price":1420.05,
+    "rating":4.3,
+    "stock":110,
+    "description":"The LG Foundation is a high-quality foundation designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Foundation"
+  },
+  {
+    "id":180,
+    "name":"Philips Sunglasses",
+    "category":"Fashion",
+    "price":74.26,
+    "rating":4.0,
+    "stock":149,
+    "description":"The Philips Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunglasses"
+  },
+  {
+    "id":181,
+    "name":"Dell Sunglasses",
+    "category":"Fashion",
+    "price":1641.07,
+    "rating":2.5,
+    "stock":156,
+    "description":"The Dell Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunglasses"
+  },
+  {
+    "id":182,
+    "name":"Generic Water Bottle",
+    "category":"Sports & Outdoors",
+    "price":1295.86,
+    "rating":4.0,
+    "stock":73,
+    "description":"The Generic Water Bottle is a high-quality water bottle designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WaterBottle"
+  },
+  {
+    "id":183,
+    "name":"LG Smartphone",
+    "category":"Electronics",
+    "price":1756.36,
+    "rating":3.4,
+    "stock":96,
+    "description":"The LG Smartphone is a high-quality smartphone designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartphone"
+  },
+  {
+    "id":184,
+    "name":"Gucci Backpack",
+    "category":"Sports & Outdoors",
+    "price":1888.91,
+    "rating":2.8,
+    "stock":176,
+    "description":"The Gucci Backpack is a high-quality backpack designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Backpack"
+  },
+  {
+    "id":185,
+    "name":"Samsung Shampoo",
+    "category":"Beauty",
+    "price":1171.06,
+    "rating":3.6,
+    "stock":131,
+    "description":"The Samsung Shampoo is a high-quality shampoo designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Shampoo"
+  },
+  {
+    "id":186,
+    "name":"Puma Coffee Maker",
+    "category":"Home & Kitchen",
+    "price":147.47,
+    "rating":4.3,
+    "stock":45,
+    "description":"The Puma Coffee Maker is a high-quality coffee maker designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CoffeeMaker"
+  },
+  {
+    "id":187,
+    "name":"Nike Foundation",
+    "category":"Beauty",
+    "price":547.12,
+    "rating":3.3,
+    "stock":142,
+    "description":"The Nike Foundation is a high-quality foundation designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Foundation"
+  },
+  {
+    "id":188,
+    "name":"Adidas Wireless Earbuds",
+    "category":"Electronics",
+    "price":679.01,
+    "rating":4.0,
+    "stock":103,
+    "description":"The Adidas Wireless Earbuds is a high-quality wireless earbuds designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WirelessEarbuds"
+  },
+  {
+    "id":189,
+    "name":"HP Sunglasses",
+    "category":"Fashion",
+    "price":1121.6,
+    "rating":4.4,
+    "stock":108,
+    "description":"The HP Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunglasses"
+  },
+  {
+    "id":190,
+    "name":"Adidas Blender",
+    "category":"Home & Kitchen",
+    "price":676.77,
+    "rating":4.3,
+    "stock":26,
+    "description":"The Adidas Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Blender"
+  },
+  {
+    "id":191,
+    "name":"Dell Perfume",
+    "category":"Beauty",
+    "price":1015.96,
+    "rating":4.4,
+    "stock":68,
+    "description":"The Dell Perfume is a high-quality perfume designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Perfume"
+  },
+  {
+    "id":192,
+    "name":"Adidas Electric Kettle",
+    "category":"Home & Kitchen",
+    "price":1407.24,
+    "rating":4.9,
+    "stock":7,
+    "description":"The Adidas Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?ElectricKettle"
+  },
+  {
+    "id":193,
+    "name":"Puma Smartphone",
+    "category":"Electronics",
+    "price":656.28,
+    "rating":4.4,
+    "stock":108,
+    "description":"The Puma Smartphone is a high-quality smartphone designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartphone"
+  },
+  {
+    "id":194,
+    "name":"Philips Coffee Maker",
+    "category":"Home & Kitchen",
+    "price":1453.14,
+    "rating":4.4,
+    "stock":72,
+    "description":"The Philips Coffee Maker is a high-quality coffee maker designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CoffeeMaker"
+  },
+  {
+    "id":195,
+    "name":"Generic Smartphone",
+    "category":"Electronics",
+    "price":628.61,
+    "rating":3.0,
+    "stock":109,
+    "description":"The Generic Smartphone is a high-quality smartphone designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartphone"
+  },
+  {
+    "id":196,
+    "name":"Dell Jeans",
+    "category":"Fashion",
+    "price":243.34,
+    "rating":3.7,
+    "stock":164,
+    "description":"The Dell Jeans is a high-quality jeans designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Jeans"
+  },
+  {
+    "id":197,
+    "name":"Dell Water Bottle",
+    "category":"Sports & Outdoors",
+    "price":647.26,
+    "rating":3.6,
+    "stock":87,
+    "description":"The Dell Water Bottle is a high-quality water bottle designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WaterBottle"
+  },
+  {
+    "id":198,
+    "name":"Generic Mechanical Keyboard",
+    "category":"Electronics",
+    "price":1511.89,
+    "rating":4.6,
+    "stock":58,
+    "description":"The Generic Mechanical Keyboard is a high-quality mechanical keyboard designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?MechanicalKeyboard"
+  },
+  {
+    "id":199,
+    "name":"Apple Air Fryer",
+    "category":"Home & Kitchen",
+    "price":440.59,
+    "rating":3.0,
+    "stock":36,
+    "description":"The Apple Air Fryer is a high-quality air fryer designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?AirFryer"
+  },
+  {
+    "id":200,
+    "name":"Philips Water Bottle",
+    "category":"Sports & Outdoors",
+    "price":960.24,
+    "rating":4.1,
+    "stock":173,
+    "description":"The Philips Water Bottle is a high-quality water bottle designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WaterBottle"
+  },
+  {
+    "id":201,
+    "name":"Sony Bluetooth Speaker",
+    "category":"Electronics",
+    "price":441.6,
+    "rating":2.6,
+    "stock":115,
+    "description":"The Sony Bluetooth Speaker is a high-quality bluetooth speaker designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BluetoothSpeaker"
+  },
+  {
+    "id":202,
+    "name":"Adidas Backpack",
+    "category":"Sports & Outdoors",
+    "price":1092.5,
+    "rating":2.9,
+    "stock":68,
+    "description":"The Adidas Backpack is a high-quality backpack designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Backpack"
+  },
+  {
+    "id":203,
+    "name":"Samsung Leather Jacket",
+    "category":"Fashion",
+    "price":552.16,
+    "rating":4.9,
+    "stock":153,
+    "description":"The Samsung Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?LeatherJacket"
+  },
+  {
+    "id":204,
+    "name":"Adidas Conditioner",
+    "category":"Beauty",
+    "price":1577.88,
+    "rating":2.8,
+    "stock":40,
+    "description":"The Adidas Conditioner is a high-quality conditioner designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Conditioner"
+  },
+  {
+    "id":205,
+    "name":"Chanel Handbag",
+    "category":"Fashion",
+    "price":84.96,
+    "rating":2.5,
+    "stock":72,
+    "description":"The Chanel Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Handbag"
+  },
+  {
+    "id":206,
+    "name":"Samsung Electric Kettle",
+    "category":"Home & Kitchen",
+    "price":1621.89,
+    "rating":4.5,
+    "stock":188,
+    "description":"The Samsung Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?ElectricKettle"
+  },
+  {
+    "id":207,
+    "name":"HP Electric Kettle",
+    "category":"Home & Kitchen",
+    "price":580.73,
+    "rating":4.7,
+    "stock":175,
+    "description":"The HP Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?ElectricKettle"
+  },
+  {
+    "id":208,
+    "name":"Dell Blender",
+    "category":"Home & Kitchen",
+    "price":1687.15,
+    "rating":2.7,
+    "stock":159,
+    "description":"The Dell Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Blender"
+  },
+  {
+    "id":209,
+    "name":"LG Perfume",
+    "category":"Beauty",
+    "price":797.63,
+    "rating":4.1,
+    "stock":86,
+    "description":"The LG Perfume is a high-quality perfume designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Perfume"
+  },
+  {
+    "id":210,
+    "name":"Nike Camping Tent",
+    "category":"Sports & Outdoors",
+    "price":92.25,
+    "rating":3.2,
+    "stock":139,
+    "description":"The Nike Camping Tent is a high-quality camping tent designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CampingTent"
+  },
+  {
+    "id":211,
+    "name":"Gucci Air Fryer",
+    "category":"Home & Kitchen",
+    "price":1811.34,
+    "rating":4.1,
+    "stock":152,
+    "description":"The Gucci Air Fryer is a high-quality air fryer designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?AirFryer"
+  },
+  {
+    "id":212,
+    "name":"Apple Bicycle Helmet",
+    "category":"Sports & Outdoors",
+    "price":981.58,
+    "rating":3.3,
+    "stock":160,
+    "description":"The Apple Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BicycleHelmet"
+  },
+  {
+    "id":213,
+    "name":"Dell Bicycle Helmet",
+    "category":"Sports & Outdoors",
+    "price":1597.13,
+    "rating":3.6,
+    "stock":84,
+    "description":"The Dell Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BicycleHelmet"
+  },
+  {
+    "id":214,
+    "name":"Adidas Shampoo",
+    "category":"Beauty",
+    "price":11.44,
+    "rating":2.6,
+    "stock":15,
+    "description":"The Adidas Shampoo is a high-quality shampoo designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Shampoo"
+  },
+  {
+    "id":215,
+    "name":"Dell Face Serum",
+    "category":"Beauty",
+    "price":455.11,
+    "rating":3.8,
+    "stock":146,
+    "description":"The Dell Face Serum is a high-quality face serum designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?FaceSerum"
+  },
+  {
+    "id":216,
+    "name":"Chanel Wireless Earbuds",
+    "category":"Electronics",
+    "price":436.68,
+    "rating":4.4,
+    "stock":85,
+    "description":"The Chanel Wireless Earbuds is a high-quality wireless earbuds designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WirelessEarbuds"
+  },
+  {
+    "id":217,
+    "name":"LG Moisturizer",
+    "category":"Beauty",
+    "price":107.69,
+    "rating":4.8,
+    "stock":20,
+    "description":"The LG Moisturizer is a high-quality moisturizer designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Moisturizer"
+  },
+  {
+    "id":218,
+    "name":"Samsung Blender",
+    "category":"Home & Kitchen",
+    "price":1443.27,
+    "rating":3.9,
+    "stock":96,
+    "description":"The Samsung Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Blender"
+  },
+  {
+    "id":219,
+    "name":"Samsung Foundation",
+    "category":"Beauty",
+    "price":734.4,
+    "rating":3.6,
+    "stock":28,
+    "description":"The Samsung Foundation is a high-quality foundation designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Foundation"
+  },
+  {
+    "id":220,
+    "name":"Dell Blender",
+    "category":"Home & Kitchen",
+    "price":345.54,
+    "rating":4.6,
+    "stock":91,
+    "description":"The Dell Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Blender"
+  },
+  {
+    "id":221,
+    "name":"Generic Blender",
+    "category":"Home & Kitchen",
+    "price":972.79,
+    "rating":4.2,
+    "stock":166,
+    "description":"The Generic Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Blender"
+  },
+  {
+    "id":222,
+    "name":"Generic Air Fryer",
+    "category":"Home & Kitchen",
+    "price":28.34,
+    "rating":3.5,
+    "stock":10,
+    "description":"The Generic Air Fryer is a high-quality air fryer designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?AirFryer"
+  },
+  {
+    "id":223,
+    "name":"Nike Women's Dress",
+    "category":"Fashion",
+    "price":122.76,
+    "rating":4.8,
+    "stock":80,
+    "description":"The Nike Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Women'sDress"
+  },
+  {
+    "id":224,
+    "name":"HP Yoga Mat",
+    "category":"Sports & Outdoors",
+    "price":881.98,
+    "rating":3.4,
+    "stock":6,
+    "description":"The HP Yoga Mat is a high-quality yoga mat designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?YogaMat"
+  },
+  {
+    "id":225,
+    "name":"Puma Sneakers",
+    "category":"Fashion",
+    "price":1676.59,
+    "rating":3.4,
+    "stock":89,
+    "description":"The Puma Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sneakers"
+  },
+  {
+    "id":226,
+    "name":"Philips Backpack",
+    "category":"Sports & Outdoors",
+    "price":1699.76,
+    "rating":4.8,
+    "stock":6,
+    "description":"The Philips Backpack is a high-quality backpack designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Backpack"
+  },
+  {
+    "id":227,
+    "name":"Samsung Tablet",
+    "category":"Electronics",
+    "price":288.84,
+    "rating":4.4,
+    "stock":44,
+    "description":"The Samsung Tablet is a high-quality tablet designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Tablet"
+  },
+  {
+    "id":228,
+    "name":"Nike Air Fryer",
+    "category":"Home & Kitchen",
+    "price":1505.32,
+    "rating":4.8,
+    "stock":113,
+    "description":"The Nike Air Fryer is a high-quality air fryer designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?AirFryer"
+  },
+  {
+    "id":229,
+    "name":"Adidas Backpack",
+    "category":"Sports & Outdoors",
+    "price":1467.1,
+    "rating":4.5,
+    "stock":36,
+    "description":"The Adidas Backpack is a high-quality backpack designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Backpack"
+  },
+  {
+    "id":230,
+    "name":"Sony Coffee Maker",
+    "category":"Home & Kitchen",
+    "price":398.14,
+    "rating":3.5,
+    "stock":59,
+    "description":"The Sony Coffee Maker is a high-quality coffee maker designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CoffeeMaker"
+  },
+  {
+    "id":231,
+    "name":"Samsung Handbag",
+    "category":"Fashion",
+    "price":764.16,
+    "rating":3.6,
+    "stock":181,
+    "description":"The Samsung Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Handbag"
+  },
+  {
+    "id":232,
+    "name":"Philips Men's T-Shirt",
+    "category":"Fashion",
+    "price":58.68,
+    "rating":4.4,
+    "stock":23,
+    "description":"The Philips Men's T-Shirt is a high-quality men's t-shirt designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Men'sT-Shirt"
+  },
+  {
+    "id":233,
+    "name":"LG Foundation",
+    "category":"Beauty",
+    "price":610.72,
+    "rating":4.4,
+    "stock":57,
+    "description":"The LG Foundation is a high-quality foundation designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Foundation"
+  },
+  {
+    "id":234,
+    "name":"Nike Jeans",
+    "category":"Fashion",
+    "price":1453.32,
+    "rating":3.2,
+    "stock":23,
+    "description":"The Nike Jeans is a high-quality jeans designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Jeans"
+  },
+  {
+    "id":235,
+    "name":"Dell Shampoo",
+    "category":"Beauty",
+    "price":713.98,
+    "rating":4.1,
+    "stock":121,
+    "description":"The Dell Shampoo is a high-quality shampoo designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Shampoo"
+  },
+  {
+    "id":236,
+    "name":"Generic Men's T-Shirt",
+    "category":"Fashion",
+    "price":1377.0,
+    "rating":2.7,
+    "stock":84,
+    "description":"The Generic Men's T-Shirt is a high-quality men's t-shirt designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Men'sT-Shirt"
+  },
+  {
+    "id":237,
+    "name":"Puma Foundation",
+    "category":"Beauty",
+    "price":684.7,
+    "rating":3.4,
+    "stock":105,
+    "description":"The Puma Foundation is a high-quality foundation designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Foundation"
+  },
+  {
+    "id":238,
+    "name":"Generic Smartphone",
+    "category":"Electronics",
+    "price":1545.92,
+    "rating":3.3,
+    "stock":200,
+    "description":"The Generic Smartphone is a high-quality smartphone designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartphone"
+  },
+  {
+    "id":239,
+    "name":"Gucci Foundation",
+    "category":"Beauty",
+    "price":1957.88,
+    "rating":3.0,
+    "stock":8,
+    "description":"The Gucci Foundation is a high-quality foundation designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Foundation"
+  },
+  {
+    "id":240,
+    "name":"LG Leather Jacket",
+    "category":"Fashion",
+    "price":1954.33,
+    "rating":4.9,
+    "stock":20,
+    "description":"The LG Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?LeatherJacket"
+  },
+  {
+    "id":241,
+    "name":"Nike Leather Jacket",
+    "category":"Fashion",
+    "price":1417.52,
+    "rating":5.0,
+    "stock":156,
+    "description":"The Nike Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?LeatherJacket"
+  },
+  {
+    "id":242,
+    "name":"Nike Face Serum",
+    "category":"Beauty",
+    "price":160.91,
+    "rating":4.2,
+    "stock":68,
+    "description":"The Nike Face Serum is a high-quality face serum designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?FaceSerum"
+  },
+  {
+    "id":243,
+    "name":"Dell Cookware Set",
+    "category":"Home & Kitchen",
+    "price":1794.61,
+    "rating":4.6,
+    "stock":0,
+    "description":"The Dell Cookware Set is a high-quality cookware set designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CookwareSet"
+  },
+  {
+    "id":244,
+    "name":"Philips Conditioner",
+    "category":"Beauty",
+    "price":31.42,
+    "rating":4.8,
+    "stock":35,
+    "description":"The Philips Conditioner is a high-quality conditioner designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Conditioner"
+  },
+  {
+    "id":245,
+    "name":"Nike Sunglasses",
+    "category":"Fashion",
+    "price":45.54,
+    "rating":4.6,
+    "stock":180,
+    "description":"The Nike Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunglasses"
+  },
+  {
+    "id":246,
+    "name":"Philips Shampoo",
+    "category":"Beauty",
+    "price":1908.76,
+    "rating":4.4,
+    "stock":153,
+    "description":"The Philips Shampoo is a high-quality shampoo designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Shampoo"
+  },
+  {
+    "id":247,
+    "name":"Puma Laptop",
+    "category":"Electronics",
+    "price":1649.71,
+    "rating":2.5,
+    "stock":32,
+    "description":"The Puma Laptop is a high-quality laptop designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Laptop"
+  },
+  {
+    "id":248,
+    "name":"Generic Air Fryer",
+    "category":"Home & Kitchen",
+    "price":37.58,
+    "rating":4.4,
+    "stock":0,
+    "description":"The Generic Air Fryer is a high-quality air fryer designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?AirFryer"
+  },
+  {
+    "id":249,
+    "name":"Generic Football",
+    "category":"Sports & Outdoors",
+    "price":1044.75,
+    "rating":2.8,
+    "stock":26,
+    "description":"The Generic Football is a high-quality football designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Football"
+  },
+  {
+    "id":250,
+    "name":"Generic Moisturizer",
+    "category":"Beauty",
+    "price":666.21,
+    "rating":3.3,
+    "stock":163,
+    "description":"The Generic Moisturizer is a high-quality moisturizer designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Moisturizer"
+  },
+  {
+    "id":251,
+    "name":"Chanel Table Lamp",
+    "category":"Home & Kitchen",
+    "price":461.97,
+    "rating":4.4,
+    "stock":96,
+    "description":"The Chanel Table Lamp is a high-quality table lamp designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?TableLamp"
+  },
+  {
+    "id":252,
+    "name":"Apple Wireless Earbuds",
+    "category":"Electronics",
+    "price":1600.97,
+    "rating":4.8,
+    "stock":198,
+    "description":"The Apple Wireless Earbuds is a high-quality wireless earbuds designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WirelessEarbuds"
+  },
+  {
+    "id":253,
+    "name":"LG Sunscreen",
+    "category":"Beauty",
+    "price":1626.18,
+    "rating":4.0,
+    "stock":54,
+    "description":"The LG Sunscreen is a high-quality sunscreen designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunscreen"
+  },
+  {
+    "id":254,
+    "name":"Sony Sunscreen",
+    "category":"Beauty",
+    "price":915.99,
+    "rating":4.3,
+    "stock":146,
+    "description":"The Sony Sunscreen is a high-quality sunscreen designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunscreen"
+  },
+  {
+    "id":255,
+    "name":"Sony Mechanical Keyboard",
+    "category":"Electronics",
+    "price":220.42,
+    "rating":4.1,
+    "stock":67,
+    "description":"The Sony Mechanical Keyboard is a high-quality mechanical keyboard designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?MechanicalKeyboard"
+  },
+  {
+    "id":256,
+    "name":"Philips Men's T-Shirt",
+    "category":"Fashion",
+    "price":972.19,
+    "rating":4.6,
+    "stock":166,
+    "description":"The Philips Men's T-Shirt is a high-quality men's t-shirt designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Men'sT-Shirt"
+  },
+  {
+    "id":257,
+    "name":"Dell Football",
+    "category":"Sports & Outdoors",
+    "price":1471.36,
+    "rating":3.5,
+    "stock":64,
+    "description":"The Dell Football is a high-quality football designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Football"
+  },
+  {
+    "id":258,
+    "name":"Nike Electric Kettle",
+    "category":"Home & Kitchen",
+    "price":1334.57,
+    "rating":3.4,
+    "stock":129,
+    "description":"The Nike Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?ElectricKettle"
+  },
+  {
+    "id":259,
+    "name":"Apple Vacuum Cleaner",
+    "category":"Home & Kitchen",
+    "price":734.62,
+    "rating":4.9,
+    "stock":70,
+    "description":"The Apple Vacuum Cleaner is a high-quality vacuum cleaner designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?VacuumCleaner"
+  },
+  {
+    "id":260,
+    "name":"Gucci Sneakers",
+    "category":"Fashion",
+    "price":1573.88,
+    "rating":3.8,
+    "stock":190,
+    "description":"The Gucci Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sneakers"
+  },
+  {
+    "id":261,
+    "name":"LG Water Bottle",
+    "category":"Sports & Outdoors",
+    "price":899.05,
+    "rating":4.5,
+    "stock":62,
+    "description":"The LG Water Bottle is a high-quality water bottle designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WaterBottle"
+  },
+  {
+    "id":262,
+    "name":"Apple Moisturizer",
+    "category":"Beauty",
+    "price":814.95,
+    "rating":3.6,
+    "stock":38,
+    "description":"The Apple Moisturizer is a high-quality moisturizer designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Moisturizer"
+  },
+  {
+    "id":263,
+    "name":"Apple Microwave Oven",
+    "category":"Home & Kitchen",
+    "price":402.03,
+    "rating":4.8,
+    "stock":53,
+    "description":"The Apple Microwave Oven is a high-quality microwave oven designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?MicrowaveOven"
+  },
+  {
+    "id":264,
+    "name":"Adidas Electric Kettle",
+    "category":"Home & Kitchen",
+    "price":725.35,
+    "rating":4.7,
+    "stock":168,
+    "description":"The Adidas Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?ElectricKettle"
+  },
+  {
+    "id":265,
+    "name":"Adidas Sneakers",
+    "category":"Fashion",
+    "price":971.68,
+    "rating":4.0,
+    "stock":17,
+    "description":"The Adidas Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sneakers"
+  },
+  {
+    "id":266,
+    "name":"Philips Table Lamp",
+    "category":"Home & Kitchen",
+    "price":1376.58,
+    "rating":4.5,
+    "stock":195,
+    "description":"The Philips Table Lamp is a high-quality table lamp designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?TableLamp"
+  },
+  {
+    "id":267,
+    "name":"Puma Conditioner",
+    "category":"Beauty",
+    "price":1070.82,
+    "rating":4.4,
+    "stock":165,
+    "description":"The Puma Conditioner is a high-quality conditioner designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Conditioner"
+  },
+  {
+    "id":268,
+    "name":"Samsung Vacuum Cleaner",
+    "category":"Home & Kitchen",
+    "price":337.9,
+    "rating":3.5,
+    "stock":60,
+    "description":"The Samsung Vacuum Cleaner is a high-quality vacuum cleaner designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?VacuumCleaner"
+  },
+  {
+    "id":269,
+    "name":"Gucci Electric Kettle",
+    "category":"Home & Kitchen",
+    "price":25.56,
+    "rating":4.6,
+    "stock":65,
+    "description":"The Gucci Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?ElectricKettle"
+  },
+  {
+    "id":270,
+    "name":"Nike Bluetooth Speaker",
+    "category":"Electronics",
+    "price":1432.61,
+    "rating":4.1,
+    "stock":107,
+    "description":"The Nike Bluetooth Speaker is a high-quality bluetooth speaker designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BluetoothSpeaker"
+  },
+  {
+    "id":271,
+    "name":"Philips Smartwatch",
+    "category":"Electronics",
+    "price":736.76,
+    "rating":2.6,
+    "stock":97,
+    "description":"The Philips Smartwatch is a high-quality smartwatch designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartwatch"
+  },
+  {
+    "id":272,
+    "name":"Philips Handbag",
+    "category":"Fashion",
+    "price":1256.63,
+    "rating":4.4,
+    "stock":169,
+    "description":"The Philips Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Handbag"
+  },
+  {
+    "id":273,
+    "name":"Sony Gaming Mouse",
+    "category":"Electronics",
+    "price":1193.79,
+    "rating":4.8,
+    "stock":62,
+    "description":"The Sony Gaming Mouse is a high-quality gaming mouse designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?GamingMouse"
+  },
+  {
+    "id":274,
+    "name":"Apple Blender",
+    "category":"Home & Kitchen",
+    "price":195.99,
+    "rating":2.5,
+    "stock":62,
+    "description":"The Apple Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Blender"
+  },
+  {
+    "id":275,
+    "name":"Nike Men's T-Shirt",
+    "category":"Fashion",
+    "price":706.95,
+    "rating":2.8,
+    "stock":133,
+    "description":"The Nike Men's T-Shirt is a high-quality men's t-shirt designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Men'sT-Shirt"
+  },
+  {
+    "id":276,
+    "name":"Nike Men's T-Shirt",
+    "category":"Fashion",
+    "price":1875.39,
+    "rating":2.7,
+    "stock":145,
+    "description":"The Nike Men's T-Shirt is a high-quality men's t-shirt designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Men'sT-Shirt"
+  },
+  {
+    "id":277,
+    "name":"Dell Leather Jacket",
+    "category":"Fashion",
+    "price":1425.12,
+    "rating":3.9,
+    "stock":108,
+    "description":"The Dell Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?LeatherJacket"
+  },
+  {
+    "id":278,
+    "name":"Dell Face Serum",
+    "category":"Beauty",
+    "price":941.26,
+    "rating":4.1,
+    "stock":70,
+    "description":"The Dell Face Serum is a high-quality face serum designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?FaceSerum"
+  },
+  {
+    "id":279,
+    "name":"Puma Moisturizer",
+    "category":"Beauty",
+    "price":311.75,
+    "rating":3.1,
+    "stock":113,
+    "description":"The Puma Moisturizer is a high-quality moisturizer designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Moisturizer"
+  },
+  {
+    "id":280,
+    "name":"Puma Perfume",
+    "category":"Beauty",
+    "price":949.78,
+    "rating":4.1,
+    "stock":200,
+    "description":"The Puma Perfume is a high-quality perfume designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Perfume"
+  },
+  {
+    "id":281,
+    "name":"Gucci Water Bottle",
+    "category":"Sports & Outdoors",
+    "price":710.69,
+    "rating":2.9,
+    "stock":105,
+    "description":"The Gucci Water Bottle is a high-quality water bottle designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WaterBottle"
+  },
+  {
+    "id":282,
+    "name":"Chanel Lipstick",
+    "category":"Beauty",
+    "price":186.89,
+    "rating":4.5,
+    "stock":96,
+    "description":"The Chanel Lipstick is a high-quality lipstick designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Lipstick"
+  },
+  {
+    "id":283,
+    "name":"Sony Mechanical Keyboard",
+    "category":"Electronics",
+    "price":1702.03,
+    "rating":3.3,
+    "stock":145,
+    "description":"The Sony Mechanical Keyboard is a high-quality mechanical keyboard designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?MechanicalKeyboard"
+  },
+  {
+    "id":284,
+    "name":"LG Air Fryer",
+    "category":"Home & Kitchen",
+    "price":797.27,
+    "rating":2.8,
+    "stock":60,
+    "description":"The LG Air Fryer is a high-quality air fryer designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?AirFryer"
+  },
+  {
+    "id":285,
+    "name":"LG Men's T-Shirt",
+    "category":"Fashion",
+    "price":380.72,
+    "rating":4.3,
+    "stock":105,
+    "description":"The LG Men's T-Shirt is a high-quality men's t-shirt designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Men'sT-Shirt"
+  },
+  {
+    "id":286,
+    "name":"Sony Wristwatch",
+    "category":"Fashion",
+    "price":1714.2,
+    "rating":3.5,
+    "stock":188,
+    "description":"The Sony Wristwatch is a high-quality wristwatch designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Wristwatch"
+  },
+  {
+    "id":287,
+    "name":"Sony Laptop",
+    "category":"Electronics",
+    "price":1308.14,
+    "rating":2.8,
+    "stock":110,
+    "description":"The Sony Laptop is a high-quality laptop designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Laptop"
+  },
+  {
+    "id":288,
+    "name":"Apple Women's Dress",
+    "category":"Fashion",
+    "price":548.57,
+    "rating":4.4,
+    "stock":92,
+    "description":"The Apple Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Women'sDress"
+  },
+  {
+    "id":289,
+    "name":"Apple Coffee Maker",
+    "category":"Home & Kitchen",
+    "price":995.28,
+    "rating":4.2,
+    "stock":187,
+    "description":"The Apple Coffee Maker is a high-quality coffee maker designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CoffeeMaker"
+  },
+  {
+    "id":290,
+    "name":"Generic Laptop",
+    "category":"Electronics",
+    "price":1717.92,
+    "rating":4.7,
+    "stock":152,
+    "description":"The Generic Laptop is a high-quality laptop designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Laptop"
+  },
+  {
+    "id":291,
+    "name":"Apple Smartwatch",
+    "category":"Electronics",
+    "price":1822.48,
+    "rating":4.9,
+    "stock":32,
+    "description":"The Apple Smartwatch is a high-quality smartwatch designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartwatch"
+  },
+  {
+    "id":292,
+    "name":"Gucci Microwave Oven",
+    "category":"Home & Kitchen",
+    "price":1706.28,
+    "rating":4.1,
+    "stock":42,
+    "description":"The Gucci Microwave Oven is a high-quality microwave oven designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?MicrowaveOven"
+  },
+  {
+    "id":293,
+    "name":"Dell Foundation",
+    "category":"Beauty",
+    "price":1699.51,
+    "rating":2.6,
+    "stock":9,
+    "description":"The Dell Foundation is a high-quality foundation designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Foundation"
+  },
+  {
+    "id":294,
+    "name":"Gucci Microwave Oven",
+    "category":"Home & Kitchen",
+    "price":544.24,
+    "rating":4.3,
+    "stock":40,
+    "description":"The Gucci Microwave Oven is a high-quality microwave oven designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?MicrowaveOven"
+  },
+  {
+    "id":295,
+    "name":"Apple Microwave Oven",
+    "category":"Home & Kitchen",
+    "price":1240.0,
+    "rating":4.2,
+    "stock":168,
+    "description":"The Apple Microwave Oven is a high-quality microwave oven designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?MicrowaveOven"
+  },
+  {
+    "id":296,
+    "name":"Generic Moisturizer",
+    "category":"Beauty",
+    "price":1123.76,
+    "rating":4.7,
+    "stock":165,
+    "description":"The Generic Moisturizer is a high-quality moisturizer designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Moisturizer"
+  },
+  {
+    "id":297,
+    "name":"Generic Smartwatch",
+    "category":"Electronics",
+    "price":382.68,
+    "rating":4.7,
+    "stock":83,
+    "description":"The Generic Smartwatch is a high-quality smartwatch designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartwatch"
+  },
+  {
+    "id":298,
+    "name":"HP Tablet",
+    "category":"Electronics",
+    "price":536.95,
+    "rating":3.4,
+    "stock":69,
+    "description":"The HP Tablet is a high-quality tablet designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Tablet"
+  },
+  {
+    "id":299,
+    "name":"Puma Smartwatch",
+    "category":"Electronics",
+    "price":1017.51,
+    "rating":4.5,
+    "stock":67,
+    "description":"The Puma Smartwatch is a high-quality smartwatch designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartwatch"
+  },
+  {
+    "id":300,
+    "name":"Apple Backpack",
+    "category":"Sports & Outdoors",
+    "price":459.26,
+    "rating":3.0,
+    "stock":45,
+    "description":"The Apple Backpack is a high-quality backpack designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Backpack"
+  },
+  {
+    "id":301,
+    "name":"HP Smartwatch",
+    "category":"Electronics",
+    "price":1491.27,
+    "rating":2.5,
+    "stock":109,
+    "description":"The HP Smartwatch is a high-quality smartwatch designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartwatch"
+  },
+  {
+    "id":302,
+    "name":"HP Face Serum",
+    "category":"Beauty",
+    "price":902.14,
+    "rating":4.2,
+    "stock":14,
+    "description":"The HP Face Serum is a high-quality face serum designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?FaceSerum"
+  },
+  {
+    "id":303,
+    "name":"Nike Handbag",
+    "category":"Fashion",
+    "price":850.46,
+    "rating":3.1,
+    "stock":71,
+    "description":"The Nike Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Handbag"
+  },
+  {
+    "id":304,
+    "name":"Dell Bluetooth Speaker",
+    "category":"Electronics",
+    "price":1452.21,
+    "rating":2.7,
+    "stock":56,
+    "description":"The Dell Bluetooth Speaker is a high-quality bluetooth speaker designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BluetoothSpeaker"
+  },
+  {
+    "id":305,
+    "name":"Samsung Perfume",
+    "category":"Beauty",
+    "price":1115.74,
+    "rating":2.8,
+    "stock":16,
+    "description":"The Samsung Perfume is a high-quality perfume designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Perfume"
+  },
+  {
+    "id":306,
+    "name":"Sony Microwave Oven",
+    "category":"Home & Kitchen",
+    "price":1525.09,
+    "rating":3.9,
+    "stock":98,
+    "description":"The Sony Microwave Oven is a high-quality microwave oven designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?MicrowaveOven"
+  },
+  {
+    "id":307,
+    "name":"Adidas Dumbbell Set",
+    "category":"Sports & Outdoors",
+    "price":1490.51,
+    "rating":2.8,
+    "stock":1,
+    "description":"The Adidas Dumbbell Set is a high-quality dumbbell set designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?DumbbellSet"
+  },
+  {
+    "id":308,
+    "name":"Adidas Gaming Mouse",
+    "category":"Electronics",
+    "price":468.77,
+    "rating":3.7,
+    "stock":68,
+    "description":"The Adidas Gaming Mouse is a high-quality gaming mouse designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?GamingMouse"
+  },
+  {
+    "id":309,
+    "name":"Chanel Bicycle Helmet",
+    "category":"Sports & Outdoors",
+    "price":320.35,
+    "rating":2.5,
+    "stock":162,
+    "description":"The Chanel Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BicycleHelmet"
+  },
+  {
+    "id":310,
+    "name":"Sony Handbag",
+    "category":"Fashion",
+    "price":1628.08,
+    "rating":4.9,
+    "stock":50,
+    "description":"The Sony Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Handbag"
+  },
+  {
+    "id":311,
+    "name":"Gucci Dumbbell Set",
+    "category":"Sports & Outdoors",
+    "price":508.56,
+    "rating":2.5,
+    "stock":150,
+    "description":"The Gucci Dumbbell Set is a high-quality dumbbell set designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?DumbbellSet"
+  },
+  {
+    "id":312,
+    "name":"Apple Bluetooth Speaker",
+    "category":"Electronics",
+    "price":125.01,
+    "rating":5.0,
+    "stock":34,
+    "description":"The Apple Bluetooth Speaker is a high-quality bluetooth speaker designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BluetoothSpeaker"
+  },
+  {
+    "id":313,
+    "name":"Apple Sunglasses",
+    "category":"Fashion",
+    "price":1930.89,
+    "rating":2.6,
+    "stock":38,
+    "description":"The Apple Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunglasses"
+  },
+  {
+    "id":314,
+    "name":"Adidas Wristwatch",
+    "category":"Fashion",
+    "price":1310.58,
+    "rating":3.0,
+    "stock":102,
+    "description":"The Adidas Wristwatch is a high-quality wristwatch designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Wristwatch"
+  },
+  {
+    "id":315,
+    "name":"LG Backpack",
+    "category":"Sports & Outdoors",
+    "price":649.26,
+    "rating":3.8,
+    "stock":165,
+    "description":"The LG Backpack is a high-quality backpack designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Backpack"
+  },
+  {
+    "id":316,
+    "name":"Chanel Sneakers",
+    "category":"Fashion",
+    "price":1219.51,
+    "rating":4.9,
+    "stock":42,
+    "description":"The Chanel Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sneakers"
+  },
+  {
+    "id":317,
+    "name":"HP Smartwatch",
+    "category":"Electronics",
+    "price":808.17,
+    "rating":3.0,
+    "stock":194,
+    "description":"The HP Smartwatch is a high-quality smartwatch designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartwatch"
+  },
+  {
+    "id":318,
+    "name":"Nike Smartphone",
+    "category":"Electronics",
+    "price":1088.22,
+    "rating":3.7,
+    "stock":163,
+    "description":"The Nike Smartphone is a high-quality smartphone designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartphone"
+  },
+  {
+    "id":319,
+    "name":"LG Yoga Mat",
+    "category":"Sports & Outdoors",
+    "price":350.47,
+    "rating":2.9,
+    "stock":136,
+    "description":"The LG Yoga Mat is a high-quality yoga mat designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?YogaMat"
+  },
+  {
+    "id":320,
+    "name":"Chanel Air Fryer",
+    "category":"Home & Kitchen",
+    "price":780.54,
+    "rating":3.0,
+    "stock":28,
+    "description":"The Chanel Air Fryer is a high-quality air fryer designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?AirFryer"
+  },
+  {
+    "id":321,
+    "name":"LG Coffee Maker",
+    "category":"Home & Kitchen",
+    "price":485.51,
+    "rating":3.0,
+    "stock":60,
+    "description":"The LG Coffee Maker is a high-quality coffee maker designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CoffeeMaker"
+  },
+  {
+    "id":322,
+    "name":"LG Football",
+    "category":"Sports & Outdoors",
+    "price":896.8,
+    "rating":3.7,
+    "stock":26,
+    "description":"The LG Football is a high-quality football designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Football"
+  },
+  {
+    "id":323,
+    "name":"Gucci Running Shoes",
+    "category":"Sports & Outdoors",
+    "price":1162.85,
+    "rating":4.8,
+    "stock":84,
+    "description":"The Gucci Running Shoes is a high-quality running shoes designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?RunningShoes"
+  },
+  {
+    "id":324,
+    "name":"Gucci Women's Dress",
+    "category":"Fashion",
+    "price":461.09,
+    "rating":4.0,
+    "stock":85,
+    "description":"The Gucci Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Women'sDress"
+  },
+  {
+    "id":325,
+    "name":"Sony Electric Kettle",
+    "category":"Home & Kitchen",
+    "price":1176.91,
+    "rating":4.9,
+    "stock":39,
+    "description":"The Sony Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?ElectricKettle"
+  },
+  {
+    "id":326,
+    "name":"LG Wireless Earbuds",
+    "category":"Electronics",
+    "price":925.01,
+    "rating":4.1,
+    "stock":168,
+    "description":"The LG Wireless Earbuds is a high-quality wireless earbuds designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WirelessEarbuds"
+  },
+  {
+    "id":327,
+    "name":"Sony Face Serum",
+    "category":"Beauty",
+    "price":1279.87,
+    "rating":3.5,
+    "stock":115,
+    "description":"The Sony Face Serum is a high-quality face serum designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?FaceSerum"
+  },
+  {
+    "id":328,
+    "name":"Samsung Bluetooth Speaker",
+    "category":"Electronics",
+    "price":42.23,
+    "rating":3.7,
+    "stock":194,
+    "description":"The Samsung Bluetooth Speaker is a high-quality bluetooth speaker designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BluetoothSpeaker"
+  },
+  {
+    "id":329,
+    "name":"Philips Moisturizer",
+    "category":"Beauty",
+    "price":1836.54,
+    "rating":2.9,
+    "stock":97,
+    "description":"The Philips Moisturizer is a high-quality moisturizer designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Moisturizer"
+  },
+  {
+    "id":330,
+    "name":"Apple Wristwatch",
+    "category":"Fashion",
+    "price":1836.07,
+    "rating":4.8,
+    "stock":147,
+    "description":"The Apple Wristwatch is a high-quality wristwatch designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Wristwatch"
+  },
+  {
+    "id":331,
+    "name":"Gucci Backpack",
+    "category":"Sports & Outdoors",
+    "price":768.32,
+    "rating":4.8,
+    "stock":103,
+    "description":"The Gucci Backpack is a high-quality backpack designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Backpack"
+  },
+  {
+    "id":332,
+    "name":"Philips Smartwatch",
+    "category":"Electronics",
+    "price":924.7,
+    "rating":2.8,
+    "stock":75,
+    "description":"The Philips Smartwatch is a high-quality smartwatch designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartwatch"
+  },
+  {
+    "id":333,
+    "name":"Gucci Men's T-Shirt",
+    "category":"Fashion",
+    "price":1318.4,
+    "rating":4.2,
+    "stock":38,
+    "description":"The Gucci Men's T-Shirt is a high-quality men's t-shirt designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Men'sT-Shirt"
+  },
+  {
+    "id":334,
+    "name":"HP Perfume",
+    "category":"Beauty",
+    "price":773.38,
+    "rating":4.3,
+    "stock":125,
+    "description":"The HP Perfume is a high-quality perfume designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Perfume"
+  },
+  {
+    "id":335,
+    "name":"Puma Leather Jacket",
+    "category":"Fashion",
+    "price":1940.13,
+    "rating":4.3,
+    "stock":146,
+    "description":"The Puma Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?LeatherJacket"
+  },
+  {
+    "id":336,
+    "name":"Chanel Face Serum",
+    "category":"Beauty",
+    "price":618.78,
+    "rating":3.6,
+    "stock":0,
+    "description":"The Chanel Face Serum is a high-quality face serum designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?FaceSerum"
+  },
+  {
+    "id":337,
+    "name":"HP Foundation",
+    "category":"Beauty",
+    "price":63.46,
+    "rating":3.6,
+    "stock":75,
+    "description":"The HP Foundation is a high-quality foundation designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Foundation"
+  },
+  {
+    "id":338,
+    "name":"Generic Dumbbell Set",
+    "category":"Sports & Outdoors",
+    "price":1560.59,
+    "rating":2.6,
+    "stock":109,
+    "description":"The Generic Dumbbell Set is a high-quality dumbbell set designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?DumbbellSet"
+  },
+  {
+    "id":339,
+    "name":"Sony Bicycle Helmet",
+    "category":"Sports & Outdoors",
+    "price":272.47,
+    "rating":4.2,
+    "stock":37,
+    "description":"The Sony Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BicycleHelmet"
+  },
+  {
+    "id":340,
+    "name":"Chanel Bicycle Helmet",
+    "category":"Sports & Outdoors",
+    "price":503.19,
+    "rating":2.6,
+    "stock":63,
+    "description":"The Chanel Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BicycleHelmet"
+  },
+  {
+    "id":341,
+    "name":"Chanel Women's Dress",
+    "category":"Fashion",
+    "price":1100.18,
+    "rating":3.3,
+    "stock":200,
+    "description":"The Chanel Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Women'sDress"
+  },
+  {
+    "id":342,
+    "name":"Generic Smartwatch",
+    "category":"Electronics",
+    "price":706.29,
+    "rating":4.7,
+    "stock":139,
+    "description":"The Generic Smartwatch is a high-quality smartwatch designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartwatch"
+  },
+  {
+    "id":343,
+    "name":"Generic Women's Dress",
+    "category":"Fashion",
+    "price":898.27,
+    "rating":4.8,
+    "stock":73,
+    "description":"The Generic Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Women'sDress"
+  },
+  {
+    "id":344,
+    "name":"Samsung Face Serum",
+    "category":"Beauty",
+    "price":1279.92,
+    "rating":3.1,
+    "stock":153,
+    "description":"The Samsung Face Serum is a high-quality face serum designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?FaceSerum"
+  },
+  {
+    "id":345,
+    "name":"HP Foundation",
+    "category":"Beauty",
+    "price":130.07,
+    "rating":3.7,
+    "stock":119,
+    "description":"The HP Foundation is a high-quality foundation designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Foundation"
+  },
+  {
+    "id":346,
+    "name":"Dell Table Lamp",
+    "category":"Home & Kitchen",
+    "price":320.74,
+    "rating":4.1,
+    "stock":16,
+    "description":"The Dell Table Lamp is a high-quality table lamp designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?TableLamp"
+  },
+  {
+    "id":347,
+    "name":"Gucci Bluetooth Speaker",
+    "category":"Electronics",
+    "price":995.14,
+    "rating":2.9,
+    "stock":110,
+    "description":"The Gucci Bluetooth Speaker is a high-quality bluetooth speaker designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BluetoothSpeaker"
+  },
+  {
+    "id":348,
+    "name":"Nike Vacuum Cleaner",
+    "category":"Home & Kitchen",
+    "price":1745.03,
+    "rating":4.5,
+    "stock":141,
+    "description":"The Nike Vacuum Cleaner is a high-quality vacuum cleaner designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?VacuumCleaner"
+  },
+  {
+    "id":349,
+    "name":"Chanel Bicycle Helmet",
+    "category":"Sports & Outdoors",
+    "price":50.36,
+    "rating":4.4,
+    "stock":186,
+    "description":"The Chanel Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BicycleHelmet"
+  },
+  {
+    "id":350,
+    "name":"LG Sunglasses",
+    "category":"Fashion",
+    "price":911.41,
+    "rating":3.2,
+    "stock":129,
+    "description":"The LG Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunglasses"
+  },
+  {
+    "id":351,
+    "name":"Philips Table Lamp",
+    "category":"Home & Kitchen",
+    "price":88.03,
+    "rating":4.9,
+    "stock":43,
+    "description":"The Philips Table Lamp is a high-quality table lamp designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?TableLamp"
+  },
+  {
+    "id":352,
+    "name":"Puma Conditioner",
+    "category":"Beauty",
+    "price":1489.1,
+    "rating":3.3,
+    "stock":188,
+    "description":"The Puma Conditioner is a high-quality conditioner designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Conditioner"
+  },
+  {
+    "id":353,
+    "name":"Generic Water Bottle",
+    "category":"Sports & Outdoors",
+    "price":63.26,
+    "rating":3.8,
+    "stock":97,
+    "description":"The Generic Water Bottle is a high-quality water bottle designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WaterBottle"
+  },
+  {
+    "id":354,
+    "name":"Philips Perfume",
+    "category":"Beauty",
+    "price":700.19,
+    "rating":3.4,
+    "stock":40,
+    "description":"The Philips Perfume is a high-quality perfume designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Perfume"
+  },
+  {
+    "id":355,
+    "name":"Samsung Wristwatch",
+    "category":"Fashion",
+    "price":1780.54,
+    "rating":4.3,
+    "stock":173,
+    "description":"The Samsung Wristwatch is a high-quality wristwatch designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Wristwatch"
+  },
+  {
+    "id":356,
+    "name":"LG Leather Jacket",
+    "category":"Fashion",
+    "price":1070.41,
+    "rating":3.1,
+    "stock":185,
+    "description":"The LG Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?LeatherJacket"
+  },
+  {
+    "id":357,
+    "name":"Gucci Running Shoes",
+    "category":"Sports & Outdoors",
+    "price":953.1,
+    "rating":3.8,
+    "stock":9,
+    "description":"The Gucci Running Shoes is a high-quality running shoes designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?RunningShoes"
+  },
+  {
+    "id":358,
+    "name":"Apple Gaming Mouse",
+    "category":"Electronics",
+    "price":1491.29,
+    "rating":4.3,
+    "stock":139,
+    "description":"The Apple Gaming Mouse is a high-quality gaming mouse designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?GamingMouse"
+  },
+  {
+    "id":359,
+    "name":"Philips Perfume",
+    "category":"Beauty",
+    "price":1437.2,
+    "rating":3.9,
+    "stock":6,
+    "description":"The Philips Perfume is a high-quality perfume designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Perfume"
+  },
+  {
+    "id":360,
+    "name":"Apple Sunglasses",
+    "category":"Fashion",
+    "price":1601.96,
+    "rating":3.3,
+    "stock":97,
+    "description":"The Apple Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunglasses"
+  },
+  {
+    "id":361,
+    "name":"Gucci Blender",
+    "category":"Home & Kitchen",
+    "price":574.33,
+    "rating":4.8,
+    "stock":13,
+    "description":"The Gucci Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Blender"
+  },
+  {
+    "id":362,
+    "name":"Generic Gaming Mouse",
+    "category":"Electronics",
+    "price":1494.56,
+    "rating":3.7,
+    "stock":162,
+    "description":"The Generic Gaming Mouse is a high-quality gaming mouse designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?GamingMouse"
+  },
+  {
+    "id":363,
+    "name":"Puma Bluetooth Speaker",
+    "category":"Electronics",
+    "price":1808.47,
+    "rating":2.9,
+    "stock":83,
+    "description":"The Puma Bluetooth Speaker is a high-quality bluetooth speaker designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BluetoothSpeaker"
+  },
+  {
+    "id":364,
+    "name":"Puma Conditioner",
+    "category":"Beauty",
+    "price":38.58,
+    "rating":3.3,
+    "stock":176,
+    "description":"The Puma Conditioner is a high-quality conditioner designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Conditioner"
+  },
+  {
+    "id":365,
+    "name":"Generic Running Shoes",
+    "category":"Sports & Outdoors",
+    "price":1809.97,
+    "rating":3.4,
+    "stock":115,
+    "description":"The Generic Running Shoes is a high-quality running shoes designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?RunningShoes"
+  },
+  {
+    "id":366,
+    "name":"Dell Cookware Set",
+    "category":"Home & Kitchen",
+    "price":344.35,
+    "rating":2.7,
+    "stock":138,
+    "description":"The Dell Cookware Set is a high-quality cookware set designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CookwareSet"
+  },
+  {
+    "id":367,
+    "name":"LG Vacuum Cleaner",
+    "category":"Home & Kitchen",
+    "price":616.57,
+    "rating":2.7,
+    "stock":37,
+    "description":"The LG Vacuum Cleaner is a high-quality vacuum cleaner designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?VacuumCleaner"
+  },
+  {
+    "id":368,
+    "name":"Dell Men's T-Shirt",
+    "category":"Fashion",
+    "price":1090.17,
+    "rating":3.0,
+    "stock":86,
+    "description":"The Dell Men's T-Shirt is a high-quality men's t-shirt designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Men'sT-Shirt"
+  },
+  {
+    "id":369,
+    "name":"Sony Blender",
+    "category":"Home & Kitchen",
+    "price":1374.0,
+    "rating":4.2,
+    "stock":153,
+    "description":"The Sony Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Blender"
+  },
+  {
+    "id":370,
+    "name":"Nike Table Lamp",
+    "category":"Home & Kitchen",
+    "price":663.58,
+    "rating":3.2,
+    "stock":128,
+    "description":"The Nike Table Lamp is a high-quality table lamp designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?TableLamp"
+  },
+  {
+    "id":371,
+    "name":"LG Men's T-Shirt",
+    "category":"Fashion",
+    "price":698.2,
+    "rating":4.5,
+    "stock":195,
+    "description":"The LG Men's T-Shirt is a high-quality men's t-shirt designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Men'sT-Shirt"
+  },
+  {
+    "id":372,
+    "name":"Philips Bluetooth Speaker",
+    "category":"Electronics",
+    "price":1134.26,
+    "rating":4.3,
+    "stock":169,
+    "description":"The Philips Bluetooth Speaker is a high-quality bluetooth speaker designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BluetoothSpeaker"
+  },
+  {
+    "id":373,
+    "name":"Chanel Backpack",
+    "category":"Sports & Outdoors",
+    "price":1632.23,
+    "rating":4.0,
+    "stock":140,
+    "description":"The Chanel Backpack is a high-quality backpack designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Backpack"
+  },
+  {
+    "id":374,
+    "name":"Puma Air Fryer",
+    "category":"Home & Kitchen",
+    "price":1657.67,
+    "rating":2.5,
+    "stock":4,
+    "description":"The Puma Air Fryer is a high-quality air fryer designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?AirFryer"
+  },
+  {
+    "id":375,
+    "name":"HP Sunglasses",
+    "category":"Fashion",
+    "price":1048.72,
+    "rating":4.7,
+    "stock":173,
+    "description":"The HP Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunglasses"
+  },
+  {
+    "id":376,
+    "name":"Adidas Air Fryer",
+    "category":"Home & Kitchen",
+    "price":106.73,
+    "rating":3.3,
+    "stock":88,
+    "description":"The Adidas Air Fryer is a high-quality air fryer designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?AirFryer"
+  },
+  {
+    "id":377,
+    "name":"Sony Shampoo",
+    "category":"Beauty",
+    "price":1437.46,
+    "rating":3.8,
+    "stock":58,
+    "description":"The Sony Shampoo is a high-quality shampoo designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Shampoo"
+  },
+  {
+    "id":378,
+    "name":"Dell Women's Dress",
+    "category":"Fashion",
+    "price":1727.09,
+    "rating":3.4,
+    "stock":186,
+    "description":"The Dell Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Women'sDress"
+  },
+  {
+    "id":379,
+    "name":"HP Perfume",
+    "category":"Beauty",
+    "price":1187.12,
+    "rating":3.7,
+    "stock":130,
+    "description":"The HP Perfume is a high-quality perfume designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Perfume"
+  },
+  {
+    "id":380,
+    "name":"Apple Smartwatch",
+    "category":"Electronics",
+    "price":657.94,
+    "rating":4.6,
+    "stock":149,
+    "description":"The Apple Smartwatch is a high-quality smartwatch designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartwatch"
+  },
+  {
+    "id":381,
+    "name":"Sony Smartwatch",
+    "category":"Electronics",
+    "price":912.91,
+    "rating":3.4,
+    "stock":138,
+    "description":"The Sony Smartwatch is a high-quality smartwatch designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartwatch"
+  },
+  {
+    "id":382,
+    "name":"HP Perfume",
+    "category":"Beauty",
+    "price":1519.46,
+    "rating":2.9,
+    "stock":88,
+    "description":"The HP Perfume is a high-quality perfume designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Perfume"
+  },
+  {
+    "id":383,
+    "name":"Apple Sunglasses",
+    "category":"Fashion",
+    "price":786.87,
+    "rating":3.0,
+    "stock":6,
+    "description":"The Apple Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunglasses"
+  },
+  {
+    "id":384,
+    "name":"Philips Leather Jacket",
+    "category":"Fashion",
+    "price":894.08,
+    "rating":3.9,
+    "stock":39,
+    "description":"The Philips Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?LeatherJacket"
+  },
+  {
+    "id":385,
+    "name":"Philips Bluetooth Speaker",
+    "category":"Electronics",
+    "price":1701.93,
+    "rating":3.5,
+    "stock":197,
+    "description":"The Philips Bluetooth Speaker is a high-quality bluetooth speaker designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BluetoothSpeaker"
+  },
+  {
+    "id":386,
+    "name":"Adidas Cookware Set",
+    "category":"Home & Kitchen",
+    "price":1835.15,
+    "rating":4.4,
+    "stock":88,
+    "description":"The Adidas Cookware Set is a high-quality cookware set designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CookwareSet"
+  },
+  {
+    "id":387,
+    "name":"Samsung Air Fryer",
+    "category":"Home & Kitchen",
+    "price":1751.81,
+    "rating":2.9,
+    "stock":185,
+    "description":"The Samsung Air Fryer is a high-quality air fryer designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?AirFryer"
+  },
+  {
+    "id":388,
+    "name":"Chanel Bluetooth Speaker",
+    "category":"Electronics",
+    "price":1267.44,
+    "rating":4.1,
+    "stock":149,
+    "description":"The Chanel Bluetooth Speaker is a high-quality bluetooth speaker designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BluetoothSpeaker"
+  },
+  {
+    "id":389,
+    "name":"Chanel Vacuum Cleaner",
+    "category":"Home & Kitchen",
+    "price":942.24,
+    "rating":3.7,
+    "stock":152,
+    "description":"The Chanel Vacuum Cleaner is a high-quality vacuum cleaner designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?VacuumCleaner"
+  },
+  {
+    "id":390,
+    "name":"LG Bluetooth Speaker",
+    "category":"Electronics",
+    "price":584.64,
+    "rating":4.9,
+    "stock":173,
+    "description":"The LG Bluetooth Speaker is a high-quality bluetooth speaker designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BluetoothSpeaker"
+  },
+  {
+    "id":391,
+    "name":"Samsung Microwave Oven",
+    "category":"Home & Kitchen",
+    "price":273.06,
+    "rating":2.9,
+    "stock":171,
+    "description":"The Samsung Microwave Oven is a high-quality microwave oven designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?MicrowaveOven"
+  },
+  {
+    "id":392,
+    "name":"Sony Football",
+    "category":"Sports & Outdoors",
+    "price":1918.4,
+    "rating":4.8,
+    "stock":134,
+    "description":"The Sony Football is a high-quality football designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Football"
+  },
+  {
+    "id":393,
+    "name":"Samsung Women's Dress",
+    "category":"Fashion",
+    "price":1447.76,
+    "rating":2.6,
+    "stock":176,
+    "description":"The Samsung Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Women'sDress"
+  },
+  {
+    "id":394,
+    "name":"Generic Sneakers",
+    "category":"Fashion",
+    "price":1344.02,
+    "rating":4.6,
+    "stock":90,
+    "description":"The Generic Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sneakers"
+  },
+  {
+    "id":395,
+    "name":"Apple Tablet",
+    "category":"Electronics",
+    "price":1433.23,
+    "rating":3.1,
+    "stock":139,
+    "description":"The Apple Tablet is a high-quality tablet designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Tablet"
+  },
+  {
+    "id":396,
+    "name":"HP Sunglasses",
+    "category":"Fashion",
+    "price":629.77,
+    "rating":4.6,
+    "stock":191,
+    "description":"The HP Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunglasses"
+  },
+  {
+    "id":397,
+    "name":"Generic Dumbbell Set",
+    "category":"Sports & Outdoors",
+    "price":143.21,
+    "rating":4.5,
+    "stock":98,
+    "description":"The Generic Dumbbell Set is a high-quality dumbbell set designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?DumbbellSet"
+  },
+  {
+    "id":398,
+    "name":"LG Yoga Mat",
+    "category":"Sports & Outdoors",
+    "price":147.07,
+    "rating":4.8,
+    "stock":194,
+    "description":"The LG Yoga Mat is a high-quality yoga mat designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?YogaMat"
+  },
+  {
+    "id":399,
+    "name":"Apple Tablet",
+    "category":"Electronics",
+    "price":697.27,
+    "rating":3.2,
+    "stock":135,
+    "description":"The Apple Tablet is a high-quality tablet designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Tablet"
+  },
+  {
+    "id":400,
+    "name":"Generic Bicycle Helmet",
+    "category":"Sports & Outdoors",
+    "price":36.1,
+    "rating":3.0,
+    "stock":5,
+    "description":"The Generic Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BicycleHelmet"
+  },
+  {
+    "id":401,
+    "name":"Gucci Table Lamp",
+    "category":"Home & Kitchen",
+    "price":1810.61,
+    "rating":2.7,
+    "stock":41,
+    "description":"The Gucci Table Lamp is a high-quality table lamp designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?TableLamp"
+  },
+  {
+    "id":402,
+    "name":"Apple Sunglasses",
+    "category":"Fashion",
+    "price":836.8,
+    "rating":4.1,
+    "stock":60,
+    "description":"The Apple Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunglasses"
+  },
+  {
+    "id":403,
+    "name":"Nike Moisturizer",
+    "category":"Beauty",
+    "price":1156.26,
+    "rating":3.1,
+    "stock":99,
+    "description":"The Nike Moisturizer is a high-quality moisturizer designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Moisturizer"
+  },
+  {
+    "id":404,
+    "name":"Apple Foundation",
+    "category":"Beauty",
+    "price":1394.5,
+    "rating":2.9,
+    "stock":77,
+    "description":"The Apple Foundation is a high-quality foundation designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Foundation"
+  },
+  {
+    "id":405,
+    "name":"Generic Bluetooth Speaker",
+    "category":"Electronics",
+    "price":853.34,
+    "rating":4.3,
+    "stock":22,
+    "description":"The Generic Bluetooth Speaker is a high-quality bluetooth speaker designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BluetoothSpeaker"
+  },
+  {
+    "id":406,
+    "name":"Adidas Vacuum Cleaner",
+    "category":"Home & Kitchen",
+    "price":728.92,
+    "rating":3.5,
+    "stock":163,
+    "description":"The Adidas Vacuum Cleaner is a high-quality vacuum cleaner designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?VacuumCleaner"
+  },
+  {
+    "id":407,
+    "name":"Nike Bicycle Helmet",
+    "category":"Sports & Outdoors",
+    "price":296.76,
+    "rating":4.7,
+    "stock":175,
+    "description":"The Nike Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BicycleHelmet"
+  },
+  {
+    "id":408,
+    "name":"Nike Lipstick",
+    "category":"Beauty",
+    "price":919.6,
+    "rating":4.1,
+    "stock":71,
+    "description":"The Nike Lipstick is a high-quality lipstick designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Lipstick"
+  },
+  {
+    "id":409,
+    "name":"Philips Leather Jacket",
+    "category":"Fashion",
+    "price":1085.12,
+    "rating":2.9,
+    "stock":190,
+    "description":"The Philips Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?LeatherJacket"
+  },
+  {
+    "id":410,
+    "name":"Philips Conditioner",
+    "category":"Beauty",
+    "price":1700.69,
+    "rating":3.2,
+    "stock":40,
+    "description":"The Philips Conditioner is a high-quality conditioner designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Conditioner"
+  },
+  {
+    "id":411,
+    "name":"Sony Mechanical Keyboard",
+    "category":"Electronics",
+    "price":643.26,
+    "rating":3.2,
+    "stock":28,
+    "description":"The Sony Mechanical Keyboard is a high-quality mechanical keyboard designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?MechanicalKeyboard"
+  },
+  {
+    "id":412,
+    "name":"Gucci Running Shoes",
+    "category":"Sports & Outdoors",
+    "price":411.46,
+    "rating":3.7,
+    "stock":61,
+    "description":"The Gucci Running Shoes is a high-quality running shoes designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?RunningShoes"
+  },
+  {
+    "id":413,
+    "name":"Nike Conditioner",
+    "category":"Beauty",
+    "price":1767.8,
+    "rating":4.3,
+    "stock":141,
+    "description":"The Nike Conditioner is a high-quality conditioner designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Conditioner"
+  },
+  {
+    "id":414,
+    "name":"Chanel Yoga Mat",
+    "category":"Sports & Outdoors",
+    "price":1371.67,
+    "rating":5.0,
+    "stock":9,
+    "description":"The Chanel Yoga Mat is a high-quality yoga mat designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?YogaMat"
+  },
+  {
+    "id":415,
+    "name":"Sony Conditioner",
+    "category":"Beauty",
+    "price":129.56,
+    "rating":3.5,
+    "stock":0,
+    "description":"The Sony Conditioner is a high-quality conditioner designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Conditioner"
+  },
+  {
+    "id":416,
+    "name":"Puma Wireless Earbuds",
+    "category":"Electronics",
+    "price":681.12,
+    "rating":2.6,
+    "stock":8,
+    "description":"The Puma Wireless Earbuds is a high-quality wireless earbuds designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WirelessEarbuds"
+  },
+  {
+    "id":417,
+    "name":"Generic Football",
+    "category":"Sports & Outdoors",
+    "price":36.74,
+    "rating":4.7,
+    "stock":137,
+    "description":"The Generic Football is a high-quality football designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Football"
+  },
+  {
+    "id":418,
+    "name":"Gucci Table Lamp",
+    "category":"Home & Kitchen",
+    "price":804.93,
+    "rating":3.5,
+    "stock":3,
+    "description":"The Gucci Table Lamp is a high-quality table lamp designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?TableLamp"
+  },
+  {
+    "id":419,
+    "name":"LG Sunscreen",
+    "category":"Beauty",
+    "price":1638.66,
+    "rating":4.0,
+    "stock":188,
+    "description":"The LG Sunscreen is a high-quality sunscreen designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunscreen"
+  },
+  {
+    "id":420,
+    "name":"Nike Wristwatch",
+    "category":"Fashion",
+    "price":803.4,
+    "rating":4.0,
+    "stock":52,
+    "description":"The Nike Wristwatch is a high-quality wristwatch designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Wristwatch"
+  },
+  {
+    "id":421,
+    "name":"Puma Mechanical Keyboard",
+    "category":"Electronics",
+    "price":424.33,
+    "rating":3.5,
+    "stock":151,
+    "description":"The Puma Mechanical Keyboard is a high-quality mechanical keyboard designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?MechanicalKeyboard"
+  },
+  {
+    "id":422,
+    "name":"Nike Electric Kettle",
+    "category":"Home & Kitchen",
+    "price":23.39,
+    "rating":3.7,
+    "stock":34,
+    "description":"The Nike Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?ElectricKettle"
+  },
+  {
+    "id":423,
+    "name":"Dell Women's Dress",
+    "category":"Fashion",
+    "price":372.72,
+    "rating":3.7,
+    "stock":167,
+    "description":"The Dell Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Women'sDress"
+  },
+  {
+    "id":424,
+    "name":"Sony Jeans",
+    "category":"Fashion",
+    "price":184.88,
+    "rating":3.7,
+    "stock":105,
+    "description":"The Sony Jeans is a high-quality jeans designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Jeans"
+  },
+  {
+    "id":425,
+    "name":"Samsung Sunglasses",
+    "category":"Fashion",
+    "price":1552.57,
+    "rating":3.4,
+    "stock":168,
+    "description":"The Samsung Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunglasses"
+  },
+  {
+    "id":426,
+    "name":"Chanel Dumbbell Set",
+    "category":"Sports & Outdoors",
+    "price":1220.45,
+    "rating":2.6,
+    "stock":56,
+    "description":"The Chanel Dumbbell Set is a high-quality dumbbell set designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?DumbbellSet"
+  },
+  {
+    "id":427,
+    "name":"HP Dumbbell Set",
+    "category":"Sports & Outdoors",
+    "price":1979.5,
+    "rating":3.2,
+    "stock":68,
+    "description":"The HP Dumbbell Set is a high-quality dumbbell set designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?DumbbellSet"
+  },
+  {
+    "id":428,
+    "name":"Gucci Camping Tent",
+    "category":"Sports & Outdoors",
+    "price":1604.13,
+    "rating":2.7,
+    "stock":68,
+    "description":"The Gucci Camping Tent is a high-quality camping tent designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CampingTent"
+  },
+  {
+    "id":429,
+    "name":"Adidas Laptop",
+    "category":"Electronics",
+    "price":1072.79,
+    "rating":3.4,
+    "stock":3,
+    "description":"The Adidas Laptop is a high-quality laptop designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Laptop"
+  },
+  {
+    "id":430,
+    "name":"Apple Sunscreen",
+    "category":"Beauty",
+    "price":825.77,
+    "rating":3.3,
+    "stock":150,
+    "description":"The Apple Sunscreen is a high-quality sunscreen designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunscreen"
+  },
+  {
+    "id":431,
+    "name":"Dell Blender",
+    "category":"Home & Kitchen",
+    "price":1044.68,
+    "rating":2.6,
+    "stock":17,
+    "description":"The Dell Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Blender"
+  },
+  {
+    "id":432,
+    "name":"Adidas Laptop",
+    "category":"Electronics",
+    "price":38.21,
+    "rating":2.6,
+    "stock":135,
+    "description":"The Adidas Laptop is a high-quality laptop designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Laptop"
+  },
+  {
+    "id":433,
+    "name":"LG Moisturizer",
+    "category":"Beauty",
+    "price":1301.62,
+    "rating":4.0,
+    "stock":26,
+    "description":"The LG Moisturizer is a high-quality moisturizer designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Moisturizer"
+  },
+  {
+    "id":434,
+    "name":"Philips Tablet",
+    "category":"Electronics",
+    "price":1293.43,
+    "rating":4.6,
+    "stock":182,
+    "description":"The Philips Tablet is a high-quality tablet designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Tablet"
+  },
+  {
+    "id":435,
+    "name":"Sony Wireless Earbuds",
+    "category":"Electronics",
+    "price":883.13,
+    "rating":4.8,
+    "stock":64,
+    "description":"The Sony Wireless Earbuds is a high-quality wireless earbuds designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WirelessEarbuds"
+  },
+  {
+    "id":436,
+    "name":"Dell Handbag",
+    "category":"Fashion",
+    "price":1022.21,
+    "rating":4.1,
+    "stock":8,
+    "description":"The Dell Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Handbag"
+  },
+  {
+    "id":437,
+    "name":"Dell Dumbbell Set",
+    "category":"Sports & Outdoors",
+    "price":1640.34,
+    "rating":4.4,
+    "stock":55,
+    "description":"The Dell Dumbbell Set is a high-quality dumbbell set designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?DumbbellSet"
+  },
+  {
+    "id":438,
+    "name":"Samsung Vacuum Cleaner",
+    "category":"Home & Kitchen",
+    "price":1218.09,
+    "rating":3.2,
+    "stock":103,
+    "description":"The Samsung Vacuum Cleaner is a high-quality vacuum cleaner designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?VacuumCleaner"
+  },
+  {
+    "id":439,
+    "name":"Chanel Bicycle Helmet",
+    "category":"Sports & Outdoors",
+    "price":778.74,
+    "rating":3.7,
+    "stock":62,
+    "description":"The Chanel Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BicycleHelmet"
+  },
+  {
+    "id":440,
+    "name":"LG Yoga Mat",
+    "category":"Sports & Outdoors",
+    "price":1408.02,
+    "rating":3.9,
+    "stock":123,
+    "description":"The LG Yoga Mat is a high-quality yoga mat designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?YogaMat"
+  },
+  {
+    "id":441,
+    "name":"HP Camping Tent",
+    "category":"Sports & Outdoors",
+    "price":1581.24,
+    "rating":3.6,
+    "stock":142,
+    "description":"The HP Camping Tent is a high-quality camping tent designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CampingTent"
+  },
+  {
+    "id":442,
+    "name":"Samsung Sunscreen",
+    "category":"Beauty",
+    "price":1663.39,
+    "rating":3.0,
+    "stock":10,
+    "description":"The Samsung Sunscreen is a high-quality sunscreen designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunscreen"
+  },
+  {
+    "id":443,
+    "name":"Gucci Handbag",
+    "category":"Fashion",
+    "price":1784.88,
+    "rating":3.9,
+    "stock":3,
+    "description":"The Gucci Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Handbag"
+  },
+  {
+    "id":444,
+    "name":"Samsung Lipstick",
+    "category":"Beauty",
+    "price":1794.26,
+    "rating":3.3,
+    "stock":81,
+    "description":"The Samsung Lipstick is a high-quality lipstick designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Lipstick"
+  },
+  {
+    "id":445,
+    "name":"Philips Conditioner",
+    "category":"Beauty",
+    "price":1843.32,
+    "rating":3.2,
+    "stock":182,
+    "description":"The Philips Conditioner is a high-quality conditioner designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Conditioner"
+  },
+  {
+    "id":446,
+    "name":"Chanel Sunglasses",
+    "category":"Fashion",
+    "price":691.48,
+    "rating":3.3,
+    "stock":192,
+    "description":"The Chanel Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunglasses"
+  },
+  {
+    "id":447,
+    "name":"Sony Football",
+    "category":"Sports & Outdoors",
+    "price":1208.88,
+    "rating":4.0,
+    "stock":186,
+    "description":"The Sony Football is a high-quality football designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Football"
+  },
+  {
+    "id":448,
+    "name":"Samsung Cookware Set",
+    "category":"Home & Kitchen",
+    "price":724.82,
+    "rating":3.0,
+    "stock":124,
+    "description":"The Samsung Cookware Set is a high-quality cookware set designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CookwareSet"
+  },
+  {
+    "id":449,
+    "name":"Dell Air Fryer",
+    "category":"Home & Kitchen",
+    "price":1079.47,
+    "rating":4.3,
+    "stock":8,
+    "description":"The Dell Air Fryer is a high-quality air fryer designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?AirFryer"
+  },
+  {
+    "id":450,
+    "name":"Apple Smartphone",
+    "category":"Electronics",
+    "price":349.19,
+    "rating":4.6,
+    "stock":186,
+    "description":"The Apple Smartphone is a high-quality smartphone designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartphone"
+  },
+  {
+    "id":451,
+    "name":"Apple Air Fryer",
+    "category":"Home & Kitchen",
+    "price":1851.12,
+    "rating":3.8,
+    "stock":141,
+    "description":"The Apple Air Fryer is a high-quality air fryer designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?AirFryer"
+  },
+  {
+    "id":452,
+    "name":"Puma Sneakers",
+    "category":"Fashion",
+    "price":524.71,
+    "rating":2.7,
+    "stock":26,
+    "description":"The Puma Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sneakers"
+  },
+  {
+    "id":453,
+    "name":"Samsung Sunglasses",
+    "category":"Fashion",
+    "price":700.56,
+    "rating":3.2,
+    "stock":191,
+    "description":"The Samsung Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunglasses"
+  },
+  {
+    "id":454,
+    "name":"Dell Blender",
+    "category":"Home & Kitchen",
+    "price":901.29,
+    "rating":4.6,
+    "stock":58,
+    "description":"The Dell Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Blender"
+  },
+  {
+    "id":455,
+    "name":"Gucci Blender",
+    "category":"Home & Kitchen",
+    "price":208.87,
+    "rating":3.9,
+    "stock":4,
+    "description":"The Gucci Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Blender"
+  },
+  {
+    "id":456,
+    "name":"Sony Moisturizer",
+    "category":"Beauty",
+    "price":1020.45,
+    "rating":4.7,
+    "stock":188,
+    "description":"The Sony Moisturizer is a high-quality moisturizer designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Moisturizer"
+  },
+  {
+    "id":457,
+    "name":"Philips Wireless Earbuds",
+    "category":"Electronics",
+    "price":1728.43,
+    "rating":3.8,
+    "stock":165,
+    "description":"The Philips Wireless Earbuds is a high-quality wireless earbuds designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WirelessEarbuds"
+  },
+  {
+    "id":458,
+    "name":"Samsung Smartwatch",
+    "category":"Electronics",
+    "price":67.82,
+    "rating":3.9,
+    "stock":39,
+    "description":"The Samsung Smartwatch is a high-quality smartwatch designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartwatch"
+  },
+  {
+    "id":459,
+    "name":"Puma Smartphone",
+    "category":"Electronics",
+    "price":100.29,
+    "rating":3.4,
+    "stock":140,
+    "description":"The Puma Smartphone is a high-quality smartphone designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Smartphone"
+  },
+  {
+    "id":460,
+    "name":"Samsung Leather Jacket",
+    "category":"Fashion",
+    "price":1806.72,
+    "rating":3.9,
+    "stock":70,
+    "description":"The Samsung Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?LeatherJacket"
+  },
+  {
+    "id":461,
+    "name":"Samsung Handbag",
+    "category":"Fashion",
+    "price":1426.1,
+    "rating":4.9,
+    "stock":125,
+    "description":"The Samsung Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Handbag"
+  },
+  {
+    "id":462,
+    "name":"Gucci Tablet",
+    "category":"Electronics",
+    "price":1961.24,
+    "rating":3.1,
+    "stock":56,
+    "description":"The Gucci Tablet is a high-quality tablet designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Tablet"
+  },
+  {
+    "id":463,
+    "name":"Apple Sunscreen",
+    "category":"Beauty",
+    "price":307.49,
+    "rating":4.9,
+    "stock":63,
+    "description":"The Apple Sunscreen is a high-quality sunscreen designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunscreen"
+  },
+  {
+    "id":464,
+    "name":"Sony Sunglasses",
+    "category":"Fashion",
+    "price":682.75,
+    "rating":4.3,
+    "stock":10,
+    "description":"The Sony Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunglasses"
+  },
+  {
+    "id":465,
+    "name":"Chanel Camping Tent",
+    "category":"Sports & Outdoors",
+    "price":329.81,
+    "rating":3.0,
+    "stock":27,
+    "description":"The Chanel Camping Tent is a high-quality camping tent designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CampingTent"
+  },
+  {
+    "id":466,
+    "name":"LG Leather Jacket",
+    "category":"Fashion",
+    "price":365.75,
+    "rating":4.0,
+    "stock":119,
+    "description":"The LG Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?LeatherJacket"
+  },
+  {
+    "id":467,
+    "name":"Gucci Wireless Earbuds",
+    "category":"Electronics",
+    "price":1203.4,
+    "rating":3.3,
+    "stock":137,
+    "description":"The Gucci Wireless Earbuds is a high-quality wireless earbuds designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WirelessEarbuds"
+  },
+  {
+    "id":468,
+    "name":"Gucci Cookware Set",
+    "category":"Home & Kitchen",
+    "price":32.66,
+    "rating":2.5,
+    "stock":54,
+    "description":"The Gucci Cookware Set is a high-quality cookware set designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CookwareSet"
+  },
+  {
+    "id":469,
+    "name":"Generic Men's T-Shirt",
+    "category":"Fashion",
+    "price":715.16,
+    "rating":4.3,
+    "stock":2,
+    "description":"The Generic Men's T-Shirt is a high-quality men's t-shirt designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Men'sT-Shirt"
+  },
+  {
+    "id":470,
+    "name":"Puma Cookware Set",
+    "category":"Home & Kitchen",
+    "price":571.58,
+    "rating":4.5,
+    "stock":146,
+    "description":"The Puma Cookware Set is a high-quality cookware set designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CookwareSet"
+  },
+  {
+    "id":471,
+    "name":"HP Bicycle Helmet",
+    "category":"Sports & Outdoors",
+    "price":562.71,
+    "rating":2.8,
+    "stock":54,
+    "description":"The HP Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BicycleHelmet"
+  },
+  {
+    "id":472,
+    "name":"Adidas Yoga Mat",
+    "category":"Sports & Outdoors",
+    "price":359.88,
+    "rating":2.9,
+    "stock":186,
+    "description":"The Adidas Yoga Mat is a high-quality yoga mat designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?YogaMat"
+  },
+  {
+    "id":473,
+    "name":"Adidas Cookware Set",
+    "category":"Home & Kitchen",
+    "price":1588.4,
+    "rating":3.4,
+    "stock":24,
+    "description":"The Adidas Cookware Set is a high-quality cookware set designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CookwareSet"
+  },
+  {
+    "id":474,
+    "name":"Philips Women's Dress",
+    "category":"Fashion",
+    "price":63.28,
+    "rating":3.9,
+    "stock":44,
+    "description":"The Philips Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Women'sDress"
+  },
+  {
+    "id":475,
+    "name":"Dell Cookware Set",
+    "category":"Home & Kitchen",
+    "price":1684.76,
+    "rating":2.9,
+    "stock":73,
+    "description":"The Dell Cookware Set is a high-quality cookware set designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CookwareSet"
+  },
+  {
+    "id":476,
+    "name":"Chanel Vacuum Cleaner",
+    "category":"Home & Kitchen",
+    "price":936.11,
+    "rating":3.4,
+    "stock":106,
+    "description":"The Chanel Vacuum Cleaner is a high-quality vacuum cleaner designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?VacuumCleaner"
+  },
+  {
+    "id":477,
+    "name":"Nike Coffee Maker",
+    "category":"Home & Kitchen",
+    "price":316.26,
+    "rating":4.1,
+    "stock":49,
+    "description":"The Nike Coffee Maker is a high-quality coffee maker designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CoffeeMaker"
+  },
+  {
+    "id":478,
+    "name":"Nike Football",
+    "category":"Sports & Outdoors",
+    "price":1878.84,
+    "rating":2.9,
+    "stock":77,
+    "description":"The Nike Football is a high-quality football designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Football"
+  },
+  {
+    "id":479,
+    "name":"Dell Moisturizer",
+    "category":"Beauty",
+    "price":1445.57,
+    "rating":4.3,
+    "stock":171,
+    "description":"The Dell Moisturizer is a high-quality moisturizer designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Moisturizer"
+  },
+  {
+    "id":480,
+    "name":"Chanel Laptop",
+    "category":"Electronics",
+    "price":1305.97,
+    "rating":3.0,
+    "stock":67,
+    "description":"The Chanel Laptop is a high-quality laptop designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Laptop"
+  },
+  {
+    "id":481,
+    "name":"Sony Dumbbell Set",
+    "category":"Sports & Outdoors",
+    "price":1341.87,
+    "rating":4.5,
+    "stock":19,
+    "description":"The Sony Dumbbell Set is a high-quality dumbbell set designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?DumbbellSet"
+  },
+  {
+    "id":482,
+    "name":"Puma Running Shoes",
+    "category":"Sports & Outdoors",
+    "price":250.38,
+    "rating":3.8,
+    "stock":1,
+    "description":"The Puma Running Shoes is a high-quality running shoes designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?RunningShoes"
+  },
+  {
+    "id":483,
+    "name":"Samsung Laptop",
+    "category":"Electronics",
+    "price":1746.51,
+    "rating":3.2,
+    "stock":45,
+    "description":"The Samsung Laptop is a high-quality laptop designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Laptop"
+  },
+  {
+    "id":484,
+    "name":"Generic Gaming Mouse",
+    "category":"Electronics",
+    "price":107.83,
+    "rating":4.7,
+    "stock":36,
+    "description":"The Generic Gaming Mouse is a high-quality gaming mouse designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?GamingMouse"
+  },
+  {
+    "id":485,
+    "name":"LG Electric Kettle",
+    "category":"Home & Kitchen",
+    "price":1144.52,
+    "rating":2.5,
+    "stock":65,
+    "description":"The LG Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?ElectricKettle"
+  },
+  {
+    "id":486,
+    "name":"Adidas Water Bottle",
+    "category":"Sports & Outdoors",
+    "price":1161.68,
+    "rating":4.3,
+    "stock":23,
+    "description":"The Adidas Water Bottle is a high-quality water bottle designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WaterBottle"
+  },
+  {
+    "id":487,
+    "name":"LG Bicycle Helmet",
+    "category":"Sports & Outdoors",
+    "price":818.45,
+    "rating":2.8,
+    "stock":4,
+    "description":"The LG Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BicycleHelmet"
+  },
+  {
+    "id":488,
+    "name":"Puma Blender",
+    "category":"Home & Kitchen",
+    "price":1392.65,
+    "rating":2.9,
+    "stock":133,
+    "description":"The Puma Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Blender"
+  },
+  {
+    "id":489,
+    "name":"HP Sunscreen",
+    "category":"Beauty",
+    "price":608.81,
+    "rating":3.1,
+    "stock":22,
+    "description":"The HP Sunscreen is a high-quality sunscreen designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunscreen"
+  },
+  {
+    "id":490,
+    "name":"Dell Table Lamp",
+    "category":"Home & Kitchen",
+    "price":1777.3,
+    "rating":3.5,
+    "stock":170,
+    "description":"The Dell Table Lamp is a high-quality table lamp designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?TableLamp"
+  },
+  {
+    "id":491,
+    "name":"Generic Bicycle Helmet",
+    "category":"Sports & Outdoors",
+    "price":813.91,
+    "rating":3.3,
+    "stock":126,
+    "description":"The Generic Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BicycleHelmet"
+  },
+  {
+    "id":492,
+    "name":"Generic Camping Tent",
+    "category":"Sports & Outdoors",
+    "price":1854.29,
+    "rating":4.8,
+    "stock":112,
+    "description":"The Generic Camping Tent is a high-quality camping tent designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?CampingTent"
+  },
+  {
+    "id":493,
+    "name":"Chanel Face Serum",
+    "category":"Beauty",
+    "price":1036.87,
+    "rating":2.6,
+    "stock":110,
+    "description":"The Chanel Face Serum is a high-quality face serum designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?FaceSerum"
+  },
+  {
+    "id":494,
+    "name":"Generic Lipstick",
+    "category":"Beauty",
+    "price":677.25,
+    "rating":4.7,
+    "stock":156,
+    "description":"The Generic Lipstick is a high-quality lipstick designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Lipstick"
+  },
+  {
+    "id":495,
+    "name":"Generic Blender",
+    "category":"Home & Kitchen",
+    "price":1157.31,
+    "rating":4.6,
+    "stock":101,
+    "description":"The Generic Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Blender"
+  },
+  {
+    "id":496,
+    "name":"HP Bluetooth Speaker",
+    "category":"Electronics",
+    "price":853.62,
+    "rating":4.8,
+    "stock":81,
+    "description":"The HP Bluetooth Speaker is a high-quality bluetooth speaker designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?BluetoothSpeaker"
+  },
+  {
+    "id":497,
+    "name":"Puma Handbag",
+    "category":"Fashion",
+    "price":1945.06,
+    "rating":3.7,
+    "stock":72,
+    "description":"The Puma Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Handbag"
+  },
+  {
+    "id":498,
+    "name":"Nike Handbag",
+    "category":"Fashion",
+    "price":1849.36,
+    "rating":4.7,
+    "stock":161,
+    "description":"The Nike Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Handbag"
+  },
+  {
+    "id":499,
+    "name":"Sony Sunglasses",
+    "category":"Fashion",
+    "price":1571.97,
+    "rating":3.2,
+    "stock":14,
+    "description":"The Sony Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?Sunglasses"
+  },
+  {
+    "id":500,
+    "name":"Apple Water Bottle",
+    "category":"Sports & Outdoors",
+    "price":1137.97,
+    "rating":2.8,
+    "stock":92,
+    "description":"The Apple Water Bottle is a high-quality water bottle designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image":"https:\/\/source.unsplash.com\/400x400\/?WaterBottle"
+  },
+]

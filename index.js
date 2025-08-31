@@ -6,12 +6,18 @@ const mongoose = require('mongoose')
 const cors = require('cors')
 const userRouter = require("./route/user.route")
 const productRouter = require("./route/product.route")
+const paymentRouter = require("./route/payment.route")
+
 app.use(express.urlencoded({extended:true}))
 app.use(express.json())
 app.use(cors())
+
 app.use("/user", userRouter)
 app.use("/products", productRouter)
+app.use("/payment", paymentRouter)
 app.set("view engine", "ejs")
+
+
 let allCustomers = []
 let URI = process.env.MONGO_DB_URI
 mongoose.connect(URI)

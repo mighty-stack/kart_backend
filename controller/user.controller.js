@@ -54,47 +54,67 @@ transporter.sendMail(mailOptions, function(error, info){
     console.log('Email sent: ' + info.response);
   }
 });
-        res.redirect("/user/dashboard")
-     })
-     .catch((err)=>{
-       console.log(err, "could not save information")
-     })
+res.status(201).json({
+        success: true,
+        message: "User registered successfully",
+        redirect: "/dashboard"
+      })
+    })
+    .catch((err) => {
+      console.log(err, "could not save information");
+      res.status(500).json({
+        success: false,
+        message: "Could not save information",
+        error: err.message
+      })
+    })
 }
 
 const signinUser = (req, res) => {
     console.log(req.body)
     userModel.findOne({email: req.body.email})
     .then((user)=>{
-        console.log(user, "user found")
-        res.send({user:user, message: "user found"})
-        if(user) {
-          console.log("user found")
-          user.validatePassword(req.body.password) ((err, isMatch) => {
+        if(!user) {
+          console.log("user not found")
+          return res.status(404).json({ success: false, message: "User not found" });
+        }
+        user.validatePassword(req.body.password, (err, isMatch) => {
             if (err) {
               console.log(err, "error validating password")
-              res.status(500).send("Error validating password")
+              return res.status(500).send("Error validating password")
             }
-            else if (isMatch) {
-              console.log("user fonund")
-              let token = jwt.sign({email:req.body.email}, "SECRETTT", {expiresIn:'5h'})
+            if (isMatch) {
+              console.log("user found")
+              let token = jwt.sign({email:req.body.email},
+               "SECRETTT", 
+                {expiresIn:'5h'}
+              )
               console.log(token)
-              res.send("/user/dashboard", token)
+
+              return res.status(200).json({ 
+                success: true, 
+                message: "login successful", 
+                token, 
+                user
+               })
             }
             else{
-              console.log("invalid credientials")
-              res.status(401).send("invalid credientials")
-            }
+              console.log("invalid credentials")
+             return res.status(401).json({ success: false, message: "Invalid credentials" });
+        }
         });
-      }
     })
     .catch((err)=>{
         console.log(err, "could not find user")
-        res.redirect("/user/signup")
+         res.status(500).json({ success: false, message: "Internal server error" });
     });
 }
 
 const Dashboard = (req, res) => {
-  let token = req.header.authorization.split(""[1])
+const authHeader = req.headers.authorization;
+if (!authHeader) return res.status(401).json({ error: "No token" });
+
+const token = authHeader.split(" ")[1]; // "Bearer <token>"
 
   jwt.verify(token, "SECRETTT", (err, result)=>{
     if(err){

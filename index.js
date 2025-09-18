@@ -10,7 +10,11 @@ const paymentRouter = require("./route/payment.route")
 
 app.use(express.urlencoded({extended:true}))
 app.use(express.json())
-app.use(cors())
+app.use(cors({
+    origin: "https://kart-mu.vercel.app",
+    methods: ["GET", "POST", "PUT", "DELETE"],
+    credentials: true
+}))
 
 app.use("/user", userRouter)
 app.use("/products", productRouter)

@@ -71,7 +71,12 @@ res.status(201).json({
 }
 
 const signinUser = (req, res) => {
+  const { email, password } = req.body
     console.log(req.body)
+     if (!email || !password) {
+    return res.status(400).json({ success: false, message: "Email and password are required" });
+  }
+
     userModel.findOne({email: req.body.email})
     .then((user)=>{
         if(!user) {
@@ -83,7 +88,11 @@ const signinUser = (req, res) => {
               console.log(err, "error validating password")
               return res.status(500).send("Error validating password")
             }
-            if (isMatch) {
+            if (!isMatch) {
+          console.log("Invalid credentials");
+          return res.status(401).json({ success: false, message: "Invalid credentials" });
+        }
+            
               console.log("user found")
               let token = jwt.sign({email:req.body.email},
                "SECRETTT", 
@@ -97,24 +106,19 @@ const signinUser = (req, res) => {
                 token, 
                 user
                })
-            }
-            else{
-              console.log("invalid credentials")
-             return res.status(401).json({ success: false, message: "Invalid credentials" });
-        }
-        });
-    })
+        })})
     .catch((err)=>{
         console.log(err, "could not find user")
          res.status(500).json({ success: false, message: "Internal server error" });
     });
 }
 
+
 const Dashboard = (req, res) => {
 const authHeader = req.headers.authorization;
 if (!authHeader) return res.status(401).json({ error: "No token" });
 
-const token = authHeader.split(" ")[1]; // "Bearer <token>"
+const token = authHeader.split(" ")[1]; 
 
   jwt.verify(token, "SECRETTT", (err, result)=>{
     if(err){

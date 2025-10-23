@@ -30,12 +30,26 @@ const registerUser = (req,res)=>{
         console.log("information saved successfully")
         
   let transporter = nodemailer.createTransport({
-  service: 'gmail',
+  host: "smtp.gmail.com",
+  port: 465,
+  secure: true,
   auth: {
     user: process.env.EMAIL, // Use environment variable for security
     pass: process.env.PASSWORD, // Use environment variable for security
-  }
+  },
+  tls: {
+    rejectUnauthorized: false,
+  },
    });
+
+   transporter.verify((error, success) => {
+  if (error) {
+    console.log("Mail server connection failed:", error);
+  } else {
+    console.log("Mail server ready to send messages!");
+  }
+});
+
 
    let mailOptions = {
    from: `"Kart Team" <${process.env.EMAIL}>`,

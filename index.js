@@ -22,7 +22,6 @@ app.use("/payment", paymentRouter)
 app.set("view engine", "ejs")
 
 
-let allCustomers = []
 let URI = process.env.MONGO_DB_URI
 mongoose.connect(URI)
 .then(()=>{

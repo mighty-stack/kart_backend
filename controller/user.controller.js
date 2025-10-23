@@ -1,13 +1,10 @@
 const userModel = require("../Models/user.model")
 const nodemailer = require("nodemailer")
 const jwt = require("jsonwebtoken")
-const fetchAboutPage = (req,res)=>{
-    res.send('I am the about page')
-}
+require("dotenv").config();
 
-const displayIndexPage = (req,res)=>{
-    res.render("index")
-}
+
+
 
 const displaySignupPage = (req,res)=>{
     res.render("signup")
@@ -32,29 +29,49 @@ const registerUser = (req,res)=>{
      .then(()=>{
         console.log("information saved successfully")
         
-let transporter = nodemailer.createTransport({
+  let transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
     user: process.env.EMAIL, // Use environment variable for security
     pass: process.env.PASSWORD, // Use environment variable for security
   }
-});
+   });
 
-let mailOptions = {
-  from: 'juiletchristopher@gmail.com',
-  to: [req.body.email, "alabiolumide38@gmail.com"],
-  subject: 'Sending Email using Node.js',
-  text: 'welcome to kart, we are glad to have you onboard'
-};
+   let mailOptions = {
+   from: `"Kart Team" <${process.env.EMAIL}>`,
+   to: [req.body.email, "alabiolumide38@gmail.com"],
+   subject: 'Welcome to Kart ',
+   text: 'We are glad to have you onboard',
+   html: `
+    <div style="font-family: Arial, sans-serif; padding: 20px; background: #f5f7fa;">
+      <div style="max-width: 600px; margin: auto; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+        <div style="background: #007bff; color: white; padding: 15px 20px; text-align: center;">
+          <h2>Welcome to Kart 🎉</h2>
+        </div>
+        <div style="padding: 20px;">
+          <p>Hi <strong>${req.body.firstName || "User"}</strong>,</p>
+          <p>We’re excited to have you on board! Your account has been successfully created.</p>
+          <p>Start exploring our platform and enjoy smooth, reliable service for all your logistics needs.</p>
+          <a href="https://Kart-mu.vercel.app/dashboard" 
+             style="display:inline-block;margin-top:15px;background:#007bff;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;">
+             Go to Dashboard
+          </a>
+          <p style="margin-top:25px; font-size: 0.9em; color: #666;">
+            If you didn’t register on Kart, please ignore this message.
+          </p>
+        </div>
+      </div>
+    </div>`
+   };
 
-transporter.sendMail(mailOptions, function(error, info){
-  if (error) {
+   transporter.sendMail(mailOptions, function(error, info){
+   if (error) {
     console.log(error);
-  } else {
+   } else {
     console.log('Email sent: ' + info.response);
-  }
-});
-res.status(201).json({
+   }
+   });
+    res.status(201).json({
         success: true,
         message: "User registered successfully",
         redirect: "/dashboard"
@@ -86,26 +103,26 @@ const signinUser = (req, res) => {
         user.validatePassword(req.body.password, (err, isMatch) => {
             if (err) {
               console.log(err, "error validating password")
-              return res.status(500).send("Error validating password")
+                  return res.status(500).json({ success: false, message: "Error validating password" });
             }
             if (!isMatch) {
           console.log("Invalid credentials");
           return res.status(401).json({ success: false, message: "Invalid credentials" });
-        }
-            
-              console.log("user found")
-              let token = jwt.sign({email:req.body.email},
-               "SECRETTT", 
-                {expiresIn:'5h'}
-              )
-              console.log(token)
-
-              return res.status(200).json({ 
-                success: true, 
-                message: "login successful", 
-                token, 
-                user
-               })
+        }  
+         console.log("user found")
+          try {
+    const token = jwt.sign({ email: user.email }, "SECRETTT", { expiresIn: "5h" });
+    console.log("Signin successful:", user.email);
+    return res.status(200).json({
+      success: true,
+      message: "Login successful",
+      token,
+      user,
+    });
+  } catch (jwtError) {
+    console.error("JWT error:", jwtError);
+    return res.status(500).json({ success: false, message: "Token generation failed" });
+  }
         })})
     .catch((err)=>{
         console.log(err, "could not find user")
@@ -132,8 +149,6 @@ const token = authHeader.split(" ")[1];
 
 
 module.exports = {
-  fetchAboutPage, 
-  displayIndexPage, 
   displaySignupPage, 
   getDashbordPage, 
   registerUser, 

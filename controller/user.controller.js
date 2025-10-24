@@ -2,7 +2,6 @@ const userModel = require("../Models/user.model");
 const nodemailer = require("nodemailer");
 const jwt = require("jsonwebtoken");
 require("dotenv").config();
-const resend = new Resend(process.env.RESEND_API_KEY);
 
 const displaySignupPage = (req, res) => {
   res.render("signup");

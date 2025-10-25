@@ -1,10 +1,10 @@
 const mongoose = require("mongoose");
 const fs = require("fs");
-require("dotenv").config()
+require("dotenv").config();
 const productModel = require("./models/product.model");
 
 // MongoDB connection
-let URI = process.env.MONGO_DB_URI
+let URI = process.env.MONGO_DB_URI;
 
 mongoose
   .connect(URI, {
@@ -15,14 +15,17 @@ mongoose
   .catch((err) => console.error("MongoDB connection error:", err));
 
 
-//
-
 const products = JSON.parse(
   fs.readFileSync("./ecommerce_products.json", "utf-8")
-);
+  );
 
+  const formattedProducts = products.map((p) => ({
+      ...p,
+      _id: p.id
+    }));
 
-productModel.insertMany(products)
+productModel
+  .insertMany(formattedProducts)
   .then(() => {
     console.log("Database seeded with 500 products");
     mongoose.connection.close();
@@ -31,4 +34,3 @@ productModel.insertMany(products)
     console.error("Seeding error:", err);
     mongoose.connection.close();
   });
-

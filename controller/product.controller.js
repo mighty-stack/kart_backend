@@ -9,13 +9,20 @@ getAllProducts = (req, res) => {
 
 
 getProductById = (req, res) => {
-  productModel.findOne({ id: Number(req.params.id) })
-    .then((product) => {
-      if (!product) return res.status(404).json({ error: "Product not found" });
-      res.json(product);
-    })
-    .catch((err) => res.status(500).json({ error: err.message }));
+ const id = req.params.id
+
+ productModel
+ .findById(id)
+ .then((product) => {
+ if (!product) return res.status(404).json({ error: "Product not found" });
+ res.json(product);
+ })
+ .catch((err) => {
+ console.error("Error fetching product:", err.message);
+ res.status(500).json({ error: "Server error" });
+ });
 };
+
 
 
 searchProducts = (req, res) => {

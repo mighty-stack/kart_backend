@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "name": "H Sneakers",
     "category": "Fashion",
     "price": 1923.59,
@@ -10,7 +9,6 @@
     "image": "https://tse2.mm.bing.net/th/id/OIP.7c5SVsfy2PlgiyY5SSlnmAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
-    "id": 2,
     "name": "Nike Sport watch",
     "category": "Electronics",
     "price": 903.94,
@@ -20,17 +18,15 @@
     "image": "https://th.bing.com/th/id/R.995ebe8a9aa903e3a0086e08b7f3b438?rik=rFMcuCau8RE7ZQ&riu=http%3a%2f%2fwww.shutupandtakemymoney.com%2fwp-content%2fuploads%2f2012%2f06%2fnike-sports-watch.jpg&ehk=dSkW%2fQ5S%2b2g3AOYU6%2bhv8UVYYkCTOcwVyfYmQZ9uAYc%3d&risl=&pid=ImgRaw&r=0"
   },
   {
-    "id": 3,
     "name": "Chanel Dumbbell Set",
     "category": "Sports & Outdoors",
     "price": 137.8,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 162,
     "description": "The Chanel Dumbbell Set is a high-quality dumbbell set designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxBRhdXgOZQFfRZAeVO-v5JKQ0DQilhlYDTaeIgVq24NX0En1ZADcAzezYxWbG6yjGxCNR3ZrcAEtBFx0tjdV9DDivdukfB7MB1FnhKRW9yjsR1IUU_ZkHmEX_uOjkP-4C1D4VUQWq2Vc/s1600/chanel-neoprene-dumbbells.jpeg"
   },
   {
-    "id": 4,
     "name": "Chanel Men's T-Shirt",
     "category": "Fashion",
     "price": 1484.81,
@@ -40,7 +36,6 @@
     "image": "https://tse3.mm.bing.net/th/id/OIP.ImJ3LpngpsRD50nnVNWKoQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
-    "id": 5,
     "name": "Generic Wristwatch",
     "category": "Fashion",
     "price": 1529.18,
@@ -50,7 +45,6 @@
     "image": "https://tse4.mm.bing.net/th/id/OIP.b0PENhNA1H7A9Q10UGd1_QHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
-    "id": 6,
     "name": "Chanel Les Beiges Foundation",
     "category": "Beauty",
     "price": 186.17,
@@ -60,27 +54,24 @@
     "image": "https://n.nordstrommedia.com/it/c0e7acdf-eb10-43d7-80fc-3c1b244ac1e6.jpeg?crop=pad&w=780&h=1196&dpr=2"
   },
   {
-    "id": 7,
     "name": "Sony Bluetooth Speaker",
     "category": "Electronics",
-    "price": 1373.0,
+    "price": 1373,
     "rating": 4.1,
     "stock": 99,
     "description": "The Sony Bluetooth Speaker is a high-quality bluetooth speaker designed for performance and durability. Perfect for anyone looking for reliable electronics.",
     "image": "https://tse4.mm.bing.net/th/id/OIP.FyI_4pz5yGlzVPvvUehIWAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
-    "id": 8,
     "name": "Nike Running Shoes",
     "category": "Sports & Outdoors",
     "price": 1008.04,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 100,
     "description": "The Nike Running Shoes is a high-quality running shoes designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
     "image": "https://www.bing.com/images/search?view=detailV2&ccid=VEWStlan&id=F54F6E80ED0E1804BF38FD820BF77BF7BF329F90&thid=OIP.VEWStlanZC8j2RvC9xZ8DwHaEL&mediaurl=https%3a%2f%2fhips.hearstapps.com%2fvader-prod.s3.amazonaws.com%2f1545163738-1544814212-765dfd69-66c6-4362-b548-815b9bbfe43e-1545163708.jpg%3fcrop%3d1xw%3a1xh%3bcenter%2ctop&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.544592b656a7642f23d91bc2f7167c0f%3frik%3dkJ8yv%252fd79wuC%252fQ%26pid%3dImgRaw%26r%3d0&exph=1490&expw=2640&q=nike+running+shoes&FORM=IRPRST&ck=1498CA6C564C3DFA8524DD6844F44406&selectedIndex=0&itb=0&idpp=overlayview&ajaxhist=0&ajaxserp=0"
   },
   {
-    "id": 9,
     "name": "Sunscreen",
     "category": "Beauty",
     "price": 1646.93,
@@ -90,7 +81,6 @@
     "image": "https://th.bing.com/th/id/OIP.uNU3emIJA2b8yYUgkhMoXwHaFj?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
-    "id": 10,
     "name": "Apple Stem Cell Face Serum",
     "category": "Beauty",
     "price": 138.23,
@@ -100,7 +90,6 @@
     "image": "https://tse3.mm.bing.net/th/id/OIP.9TsU5HqjgReBOlBB7xcRuAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
-    "id": 11,
     "name": "Designer Women Jeans",
     "category": "Fashion",
     "price": 1729.47,
@@ -110,7 +99,6 @@
     "image": "https://shop.diesel.com/on/demandware.static/-/Sites-diesel-master-catalog/default/dwbf0b920a/images/large/A17428_0AJEN_01_I.jpg"
   },
   {
-    "id": 12,
     "name": "Casio G-Shock GA2100 Carbon Core Guard Wristwatch",
     "category": "Fashion",
     "price": 159.99,
@@ -120,7 +108,6 @@
     "image": "https://tse2.mm.bing.net/th/id/OIP.7c5SVsfy2PlgiyY5SSlnmAHaHa?rs=1&pid=ImgDetMain"
   },
   {
-    "id": 13,
     "name": "Hydro Flask 32 oz Wide Mouth Water Bottle",
     "category": "Sports & Outdoors",
     "price": 39.95,
@@ -130,7 +117,6 @@
     "image": "https://tse4.mm.bing.net/th/id/OIP.uNU3emIJA2b8yYUgkhMoXwHaFj?rs=1&pid=ImgDetMain"
   },
   {
-    "id": 14,
     "name": "Dyson V11 Torque Drive Cordless Vacuum Cleaner",
     "category": "Home & Kitchen",
     "price": 599.99,
@@ -140,7 +126,6 @@
     "image": "https://tse3.mm.bing.net/th/id/OIP.9TsU5HqjgReBOlBB7xcRuAHaHa?rs=1&pid=ImgDetMain"
   },
   {
-    "id": 15,
     "name": "Giro Register MIPS Bicycle Helmet",
     "category": "Sports & Outdoors",
     "price": 84.95,
@@ -150,27 +135,24 @@
     "image": "https://tse4.mm.bing.net/th/id/OIP.FyI_4pz5yGlzVPvvUehIWAHaHa?rs=1&pid=ImgDetMain"
   },
   {
-    "id": 16,
     "name": "Clinique Moisture Surge 100H Auto-Replenishing Hydrator",
     "category": "Beauty",
-    "price": 49.0,
+    "price": 49,
     "rating": 4.6,
     "stock": 63,
     "description": "The Clinique Moisture Surge 100H Auto-Replenishing Hydrator is a high-quality moisturizer designed for performance and durability. Perfect for reliable beauty products.",
     "image": "https://tse2.mm.bing.net/th/id/OIP.7c5SVsfy2PlgiyY5SSlnmAHaHa?rs=1&pid=ImgDetMain"
   },
   {
-    "id": 17,
     "name": "Levi’s Classic Leather Jacket",
     "category": "Fashion",
-    "price": 298.0,
-    "rating": 4.0,
+    "price": 298,
+    "rating": 4,
     "stock": 6,
     "description": "The Levi’s Classic Leather Jacket is a high-quality leather jacket designed for timeless style and durability. Perfect for reliable fashion.",
     "image": "https://tse3.mm.bing.net/th/id/OIP.ImJ3LpngpsRD50nnVNWKoQHaHa?rs=1&pid=ImgDetMain"
   },
   {
-    "id": 18,
     "name": "KitchenAid 1.5 cu ft Microwave Oven (Silver)",
     "category": "Home & Kitchen",
     "price": 219.99,
@@ -180,7 +162,6 @@
     "image": "https://tse4.mm.bing.net/th/id/OIP.VEWStlanZC8j2RvC9xZ8DwHaEL?rs=1&pid=ImgDetMain"
   },
   {
-    "id": 19,
     "name": "Ninja Professional BL610 Blender",
     "category": "Home & Kitchen",
     "price": 99.99,
@@ -190,17 +171,15 @@
     "image": "https://tse2.mm.bing.net/th/id/OIP.7c5SVsfy2PlgiyY5SSlnmAHaHa?rs=1&pid=ImgDetMain"
   },
   {
-    "id": 20,
     "name": "Under Armour Show Up 4 Running Shoes",
     "category": "Sports & Outdoors",
-    "price": 110.0,
+    "price": 110,
     "rating": 4.2,
     "stock": 129,
     "description": "The Under Armour Show Up 4 is a high-quality running shoe designed for performance and durability. Perfect for reliable sports & outdoors footwear.",
     "image": "https://tse3.mm.bing.net/th/id/OIP.9TsU5HqjgReBOlBB7xcRuAHaHa?rs=1&pid=ImgDetMain"
   },
   {
-    "id": 21,
     "name": "Zara Floral Summer Dress",
     "category": "Fashion",
     "price": 79.99,
@@ -210,7 +189,6 @@
     "image": "https://tse2.mm.bing.net/th/id/OIP.7rYfZPrN2p-rR4y62I0fZwHaJQ?pid=ImgDetMain"
   },
   {
-    "id": 22,
     "name": "Bowflex Neoprene Dumbbell Set",
     "category": "Sports & Outdoors",
     "price": 42.99,
@@ -220,27 +198,24 @@
     "image": "https://tse1.mm.bing.net/th/id/OIP.GsLux9QnwPpIvxG8Xz3xYAHaHa?pid=ImgDetMain"
   },
   {
-    "id": 23,
     "name": "Levi's Straight Fit Jeans",
     "category": "Fashion",
     "price": 54.5,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 114,
     "description": "The Dell Jeans is a high-quality jeans designed for performance and durability. Perfect for anyone looking for reliable fashion.",
     "image": "https://tse2.mm.bing.net/th/id/OIP.EJ6bL5hnZ0T7KzocvCb8pgHaLH?pid=ImgDetMain"
   },
   {
-    "id": 24,
     "name": "Gucci GG Marmont Matelassé Bag",
     "category": "Fashion",
-    "price": 1899.0,
-    "rating": 4.0,
+    "price": 1899,
+    "rating": 4,
     "stock": 161,
     "description": "The Gucci Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
     "image": "https://tse3.mm.bing.net/th/id/OIP.geHJl0lUu7XkTnNveKNHLAHaHa?pid=ImgDetMain"
   },
   {
-    "id": 25,
     "name": "Logitech G502 Hero Gaming Mouse",
     "category": "Electronics",
     "price": 49.99,
@@ -250,7 +225,6 @@
     "image": "https://tse4.mm.bing.net/th/id/OIP.0HX1S_DMhVqUfQMo_iIZWAHaHa?pid=ImgDetMain"
   },
   {
-    "id": 26,
     "name": "CamelBak Chute Sports Water Bottle",
     "category": "Sports & Outdoors",
     "price": 18.99,
@@ -260,7 +234,6 @@
     "image": "https://tse1.mm.bing.net/th/id/OIP.4L0fQ5_W7HHx3r4Yl8gYHQHaHa?pid=ImgDetMain"
   },
   {
-    "id": 27,
     "name": "CeraVe Hydrating Moisturizer",
     "category": "Beauty",
     "price": 14.99,
@@ -270,17 +243,15 @@
     "image": "https://tse4.mm.bing.net/th/id/OIP.lj3f0pYsvL1F5X1y8CwVDAHaHa?pid=ImgDetMain"
   },
   {
-    "id": 28,
     "name": "Samsung Galaxy A14 Smartphone",
     "category": "Electronics",
-    "price": 189.0,
+    "price": 189,
     "rating": 3.4,
     "stock": 26,
     "description": "The Adidas Smartphone is a high-quality smartphone designed for performance and durability. Perfect for anyone looking for reliable electronics.",
     "image": "https://tse3.mm.bing.net/th/id/OIP.cuzxH5nU7MhOBjiiZ6Do7gHaHa?pid=ImgDetMain"
   },
   {
-    "id": 29,
     "name": "Giro Fixture Bicycle Helmet",
     "category": "Sports & Outdoors",
     "price": 39.5,
@@ -290,7 +261,6 @@
     "image": "https://tse1.mm.bing.net/th/id/OIP.MmhWbEo1eRcMOXaPtuw0zgHaHa?pid=ImgDetMain"
   },
   {
-    "id": 30,
     "name": "La Roche-Posay Anthelios UV Sunscreen",
     "category": "Beauty",
     "price": 24.99,
@@ -300,7 +270,6 @@
     "image": "https://tse2.mm.bing.net/th/id/OIP.WfMMkM4sgGWXAm8JN7GJQQHaHa?pid=ImgDetMain"
   },
   {
-    "id": 31,
     "name": "Bell Adrenaline Cycling Helmet",
     "category": "Sports & Outdoors",
     "price": 32.99,
@@ -310,47 +279,42 @@
     "image": "https://tse4.mm.bing.net/th/id/OIP.sr0RbP3cwE8n6MBmGlKyWQHaHa?pid=ImgDetMain"
   },
   {
-    "id": 32,
     "name": "Lenovo Tab M10 Tablet",
     "category": "Electronics",
-    "price": 129.0,
+    "price": 129,
     "rating": 4.5,
     "stock": 79,
     "description": "The Gucci Tablet is a high-quality tablet designed for performance and durability. Perfect for anyone looking for reliable electronics.",
     "image": "https://tse4.mm.bing.net/th/id/OIP.1-0YQfNYh0iEQBWYglPjYQHaHa?pid=ImgDetMain"
   },
   {
-    "id": 33,
     "name": "Dior Miss Blooming Perfume",
     "category": "Beauty",
     "price": 98.99,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 189,
     "description": "The Samsung Perfume is a high-quality perfume designed for performance and durability. Perfect for anyone looking for reliable beauty.",
     "image": "https://tse3.mm.bing.net/th/id/OIP.jy4wooNjhFojJdIKMCDtkwHaHa?pid=ImgDetMain"
   },
   {
-    "id": 34,
     "name": "Motorola Moto G Play Smartphone",
     "category": "Electronics",
-    "price": 139.0,
+    "price": 139,
     "rating": 3.3,
     "stock": 187,
     "description": "The Puma Smartphone is a high-quality smartphone designed for performance and durability. Perfect for anyone looking for reliable electronics.",
     "image": "https://tse1.mm.bing.net/th/id/OIP.8ZsTfmyojtTf1FupbnNMIQHaHa?pid=ImgDetMain"
   },
   {
-    "id": 35,
     "name": "Tommy Hilfiger Leather Jacket",
     "category": "Fashion",
-    "price": 119.0,
+    "price": 119,
     "rating": 4.9,
     "stock": 54,
     "description": "The Philips Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
     "image": "https://tse3.mm.bing.net/th/id/OIP.hzdtym1dyGggT1-iEDzuWwHaHa?pid=ImgDetMain"
   },
   {
-    "id": 36,
     "name": "T-fal 12-Piece Cookware Set",
     "category": "Home & Kitchen",
     "price": 64.99,
@@ -360,37 +324,33 @@
     "image": "https://tse3.mm.bing.net/th/id/OIP.DJYJi8I4huoCpi9poENpgQHaHa?pid=ImgDetMain"
   },
   {
-    "id": 37,
     "name": "Nike Air Max 270 Sneakers",
     "category": "Fashion",
     "price": 129.99,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 119,
     "description": "The Nike Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
     "image": "https://tse4.mm.bing.net/th/id/OIP.3B3Be6zLSp4U4CJmkn-7GwHaHa?pid=ImgDetMain"
   },
   {
-    "id": 38,
     "name": "Michael Kors Jet Set Tote Bag",
     "category": "Fashion",
-    "price": 189.0,
+    "price": 189,
     "rating": 3.6,
     "stock": 177,
     "description": "The Puma Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
     "image": "https://tse1.mm.bing.net/th/id/OIP.3yiAnv1ViedzE28GZFTwagHaHa?pid=ImgDetMain"
   },
   {
-    "id": 39,
     "name": "H&M Elegant Evening Dress",
     "category": "Fashion",
-    "price": 48.0,
+    "price": 48,
     "rating": 3.7,
     "stock": 34,
     "description": "The Samsung Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
     "image": "https://tse4.mm.bing.net/th/id/OIP.iDTbmY5QeEKyrb8wRvyQwQHaLH?pid=ImgDetMain"
   },
   {
-    "id": 40,
     "name": "Coleman Sundome Camping Tent",
     "category": "Sports & Outdoors",
     "price": 59.99,
@@ -400,7 +360,6 @@
     "image": "https://tse2.mm.bing.net/th/id/OIP.oHPU4CTQww1rI7KNLjIzTwHaHa?pid=ImgDetMain"
   },
   {
-    "id": 41,
     "name": "CeraVe Hydrating Face Serum",
     "category": "Beauty",
     "price": 18.99,
@@ -410,7 +369,6 @@
     "image": "https://tse2.mm.bing.net/th?q=CeraVe+Hydrating+Face+Serum"
   },
   {
-    "id": 42,
     "name": "Philips LED Table Lamp",
     "category": "Home & Kitchen",
     "price": 29.99,
@@ -420,7 +378,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Philips+LED+Table+Lamp"
   },
   {
-    "id": 43,
     "name": "Philips Coffee Maker",
     "category": "Home & Kitchen",
     "price": 89.99,
@@ -430,17 +387,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Philips+Coffee+Maker"
   },
   {
-    "id": 44,
     "name": "Maybelline Fit Me Liquid Foundation",
     "category": "Beauty",
     "price": 11.99,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 50,
     "description": "Lightweight liquid foundation providing natural coverage for all skin types.",
     "image": "https://tse2.mm.bing.net/th?q=Maybelline+Fit+Me+Foundation"
   },
   {
-    "id": 45,
     "name": "Non-Slip Yoga Mat",
     "category": "Sports & Outdoors",
     "price": 16.99,
@@ -450,7 +405,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Non-Slip+Yoga+Mat"
   },
   {
-    "id": 46,
     "name": "Kenwood Electric Kettle",
     "category": "Home & Kitchen",
     "price": 34.99,
@@ -460,7 +414,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Kenwood+Electric+Kettle"
   },
   {
-    "id": 47,
     "name": "The Ordinary Niacinamide 10% Serum",
     "category": "Beauty",
     "price": 9.99,
@@ -470,17 +423,15 @@
     "image": "https://tse2.mm.bing.net/th?q=The+Ordinary+Niacinamide+Serum"
   },
   {
-    "id": 48,
     "name": "Puma Leather Jacket",
     "category": "Fashion",
     "price": 129.99,
-    "rating": 4.0,
+    "rating": 4,
     "stock": 200,
     "description": "Stylish leather jacket with a sporty edge for versatile casual wear.",
     "image": "https://tse2.mm.bing.net/th?q=Puma+Leather+Jacket"
   },
   {
-    "id": 49,
     "name": "LG Ultra Slim Laptop",
     "category": "Electronics",
     "price": 999.99,
@@ -490,7 +441,6 @@
     "image": "https://tse2.mm.bing.net/th?q=LG+Laptop"
   },
   {
-    "id": 50,
     "name": "Nivea Soft Moisturizing Cream",
     "category": "Beauty",
     "price": 6.99,
@@ -500,7 +450,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Nivea+Soft+Moisturizing+Cream"
   },
   {
-    "id": 51,
     "name": "Nike Faux Leather Jacket",
     "category": "Fashion",
     "price": 89.99,
@@ -510,7 +459,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Nike+Leather+Jacket"
   },
   {
-    "id": 52,
     "name": "Adidas Official Football",
     "category": "Sports & Outdoors",
     "price": 25.99,
@@ -520,7 +468,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Adidas+Football"
   },
   {
-    "id": 53,
     "name": "Nike Men's Cotton T-Shirt",
     "category": "Fashion",
     "price": 19.99,
@@ -530,7 +477,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Nike+Men%27s+T-Shirt"
   },
   {
-    "id": 54,
     "name": "Philips Non-Stick Cookware Set",
     "category": "Home & Kitchen",
     "price": 89.99,
@@ -540,7 +486,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Philips+Cookware+Set"
   },
   {
-    "id": 55,
     "name": "Black+Decker Coffee Maker",
     "category": "Home & Kitchen",
     "price": 49.99,
@@ -550,7 +495,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Black+and+Decker+Coffee+Maker"
   },
   {
-    "id": 56,
     "name": "Olay Regenerist Serum",
     "category": "Beauty",
     "price": 24.99,
@@ -560,7 +504,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Olay+Regenerist+Serum"
   },
   {
-    "id": 57,
     "name": "Adidas Leather Jacket",
     "category": "Fashion",
     "price": 119.99,
@@ -570,7 +513,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Adidas+Leather+Jacket"
   },
   {
-    "id": 58,
     "name": "Nike Sports Water Bottle",
     "category": "Sports & Outdoors",
     "price": 14.99,
@@ -580,7 +522,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Nike+Sports+Water+Bottle"
   },
   {
-    "id": 59,
     "name": "Yardley London Eau de Toilette",
     "category": "Beauty",
     "price": 12.99,
@@ -590,17 +531,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Yardley+London+Perfume"
   },
   {
-    "id": 60,
     "name": "Logitech Mechanical Keyboard",
     "category": "Electronics",
     "price": 79.99,
-    "rating": 4.0,
+    "rating": 4,
     "stock": 121,
     "description": "Tactile mechanical keyboard designed for durability and precision typing.",
     "image": "https://tse2.mm.bing.net/th?q=Logitech+Mechanical+Keyboard"
   },
   {
-    "id": 61,
     "name": "Maybelline SuperStay Matte Lipstick",
     "category": "Beauty",
     "price": 58.66,
@@ -610,7 +549,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Maybelline+SuperStay+Matte+Lipstick"
   },
   {
-    "id": 62,
     "name": "T-fal Nonstick Cookware Set",
     "category": "Home & Kitchen",
     "price": 986.9,
@@ -620,7 +558,6 @@
     "image": "https://tse2.mm.bing.net/th?q=T-fal+Nonstick+Cookware+Set"
   },
   {
-    "id": 63,
     "name": "Zara Women's Summer Dress",
     "category": "Fashion",
     "price": 587.99,
@@ -630,7 +567,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Zara+Women%27s+Summer+Dress"
   },
   {
-    "id": 64,
     "name": "LG K51 Smartphone",
     "category": "Electronics",
     "price": 317.88,
@@ -640,7 +576,6 @@
     "image": "https://tse2.mm.bing.net/th?q=LG+K51+Smartphone"
   },
   {
-    "id": 65,
     "name": "Adidas Classic 3-Stripes Backpack",
     "category": "Sports & Outdoors",
     "price": 1291.51,
@@ -650,7 +585,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Adidas+Classic+3-Stripes+Backpack"
   },
   {
-    "id": 66,
     "name": "Garmin Venu Smartwatch",
     "category": "Electronics",
     "price": 1316.84,
@@ -660,7 +594,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Garmin+Venu+Smartwatch"
   },
   {
-    "id": 67,
     "name": "Nike Men's Leather Jacket",
     "category": "Fashion",
     "price": 117.85,
@@ -670,7 +603,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Nike+Men%27s+Leather+Jacket"
   },
   {
-    "id": 68,
     "name": "Adidas Ultraboost Running Sneakers",
     "category": "Fashion",
     "price": 1777.19,
@@ -680,7 +612,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Adidas+Ultraboost+Running+Sneakers"
   },
   {
-    "id": 69,
     "name": "Puma Women's Shoulder Handbag",
     "category": "Fashion",
     "price": 1342.72,
@@ -690,17 +621,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Puma+Women%27s+Shoulder+Handbag"
   },
   {
-    "id": 70,
     "name": "JBL Tune Wireless Earbuds",
     "category": "Electronics",
     "price": 396.15,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 185,
     "description": "Wireless earbuds offering clear sound, Bluetooth connectivity, and compact charging case.",
     "image": "https://tse2.mm.bing.net/th?q=JBL+Tune+Wireless+Earbuds"
   },
   {
-    "id": 71,
     "name": "Ninja Professional Countertop Blender",
     "category": "Home & Kitchen",
     "price": 967.35,
@@ -710,17 +639,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Ninja+Professional+Countertop+Blender"
   },
   {
-    "id": 72,
     "name": "Panasonic Microwave Oven",
     "category": "Home & Kitchen",
     "price": 1165.38,
-    "rating": 4.0,
+    "rating": 4,
     "stock": 124,
     "description": "Powerful microwave oven designed for efficient cooking and reheating.",
     "image": "https://tse2.mm.bing.net/th?q=Panasonic+Microwave+Oven"
   },
   {
-    "id": 73,
     "name": "Chanel Coco Mademoiselle Eau de Parfum",
     "category": "Beauty",
     "price": 1217.25,
@@ -730,7 +657,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Chanel+Coco+Mademoiselle+Eau+de+Parfum"
   },
   {
-    "id": 74,
     "name": "Giro Register Adult Bicycle Helmet",
     "category": "Sports & Outdoors",
     "price": 1355.81,
@@ -740,7 +666,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Giro+Register+Bicycle+Helmet"
   },
   {
-    "id": 75,
     "name": "Gaiam Premium Yoga Mat",
     "category": "Sports & Outdoors",
     "price": 1834.84,
@@ -750,7 +675,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Gaiam+Premium+Yoga+Mat"
   },
   {
-    "id": 76,
     "name": "Moroccanoil Hydrating Conditioner",
     "category": "Beauty",
     "price": 1329.94,
@@ -760,7 +684,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Moroccanoil+Hydrating+Conditioner"
   },
   {
-    "id": 77,
     "name": "Nike Stainless Steel Water Bottle",
     "category": "Sports & Outdoors",
     "price": 74.63,
@@ -770,7 +693,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Nike+Stainless+Steel+Water+Bottle"
   },
   {
-    "id": 78,
     "name": "Versace Bright Crystal Perfume",
     "category": "Beauty",
     "price": 1122.54,
@@ -780,7 +702,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Versace+Bright+Crystal+Perfume"
   },
   {
-    "id": 79,
     "name": "Forever 21 Women's Casual Dress",
     "category": "Fashion",
     "price": 179.68,
@@ -790,7 +711,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Forever+21+Women%27s+Casual+Dress"
   },
   {
-    "id": 80,
     "name": "Hanes Men's Cotton T-Shirt",
     "category": "Fashion",
     "price": 428.7,
@@ -799,828 +719,745 @@
     "description": "Soft and breathable cotton T-shirt designed for comfort and durability.",
     "image": "https://tse2.mm.bing.net/th?q=Hanes+Men%27s+Cotton+T-Shirt"
   },
- {
-  "id": 81,
-  "name": "Dell Inspiron Laptop",
-  "category": "Electronics",
-  "price": 661.75,
-  "rating": 3.9,
-  "stock": 82,
-  "description": "A reliable Dell Inspiron laptop designed for performance, portability, and durability.",
-  "image": "https://tse2.mm.bing.net/th?q=Dell+Inspiron+Laptop"
-},
-{
-  "id": 82,
-  "name": "Nike Running Shoes",
-  "category": "Sports & Outdoors",
-  "price": 1059.97,
-  "rating": 3.5,
-  "stock": 133,
-  "description": "High-performance Nike running shoes designed for comfort and stability.",
-  "image": "https://tse2.mm.bing.net/th?q=Nike+Running+Shoes"
-},
-{
-  "id": 83,
-  "name": "Apple AirPods",
-  "category": "Electronics",
-  "price": 1327.66,
-  "rating": 4.1,
-  "stock": 104,
-  "description": "Apple AirPods with wireless connectivity and superior sound quality.",
-  "image": "https://tse2.mm.bing.net/th?q=Apple+AirPods"
-},
-{
-  "id": 84,
-  "name": "Head & Shoulders Shampoo",
-  "category": "Beauty",
-  "price": 1043.1,
-  "rating": 3.4,
-  "stock": 92,
-  "description": "A refreshing Head & Shoulders shampoo for clean and healthy hair.",
-  "image": "https://tse2.mm.bing.net/th?q=Head+and+Shoulders+Shampoo"
-},
-{
-  "id": 85,
-  "name": "Coleman Camping Tent",
-  "category": "Sports & Outdoors",
-  "price": 1886.62,
-  "rating": 4.2,
-  "stock": 181,
-  "description": "A durable Coleman camping tent suitable for outdoor adventures.",
-  "image": "https://tse2.mm.bing.net/th?q=Coleman+Camping+Tent"
-},
-{
-  "id": 86,
-  "name": "Quechua Camping Tent",
-  "category": "Sports & Outdoors",
-  "price": 412.12,
-  "rating": 2.8,
-  "stock": 112,
-  "description": "A lightweight and easy-to-assemble Quechua camping tent.",
-  "image": "https://tse2.mm.bing.net/th?q=Quechua+Camping+Tent"
-},
-{
-  "id": 87,
-  "name": "Philips Wireless Earbuds",
-  "category": "Electronics",
-  "price": 1140.69,
-  "rating": 4.0,
-  "stock": 144,
-  "description": "Philips wireless earbuds offering clear sound and comfort.",
-  "image": "https://tse2.mm.bing.net/th?q=Philips+Wireless+Earbuds"
-},
-{
-  "id": 88,
-  "name": "Kenwood Electric Kettle",
-  "category": "Home & Kitchen",
-  "price": 138.43,
-  "rating": 2.7,
-  "stock": 64,
-  "description": "A reliable Kenwood electric kettle designed for fast boiling.",
-  "image": "https://tse2.mm.bing.net/th?q=Kenwood+Electric+Kettle"
-},
-{
-  "id": 89,
-  "name": "Samsung Galaxy Book Laptop",
-  "category": "Electronics",
-  "price": 423.87,
-  "rating": 2.8,
-  "stock": 46,
-  "description": "A slim and portable Samsung Galaxy Book laptop.",
-  "image": "https://tse2.mm.bing.net/th?q=Samsung+Galaxy+Book+Laptop"
-},
-{
-  "id": 90,
-  "name": "Lenovo Tablet",
-  "category": "Electronics",
-  "price": 1561.2,
-  "rating": 4.2,
-  "stock": 116,
-  "description": "A versatile Lenovo tablet ideal for entertainment and work.",
-  "image": "https://tse2.mm.bing.net/th?q=Lenovo+Tablet"
-},
-{
-  "id": 91,
-  "name": "Philips Electric Kettle",
-  "category": "Home & Kitchen",
-  "price": 127.75,
-  "rating": 2.7,
-  "stock": 143,
-  "description": "A Philips electric kettle with efficient heating technology.",
-  "image": "https://tse2.mm.bing.net/th?q=Philips+Electric+Kettle"
-},
-{
-  "id": 92,
-  "name": "Bowflex Dumbbell Set",
-  "category": "Sports & Outdoors",
-  "price": 430.8,
-  "rating": 4.8,
-  "stock": 97,
-  "description": "Adjustable Bowflex dumbbell set suitable for full-body workouts.",
-  "image": "https://tse2.mm.bing.net/th?q=Bowflex+Dumbbell+Set"
-},
-{
-  "id": 93,
-  "name": "Adidas Football",
-  "category": "Sports & Outdoors",
-  "price": 689.63,
-  "rating": 2.9,
-  "stock": 17,
-  "description": "An Adidas football designed for durability and performance.",
-  "image": "https://tse2.mm.bing.net/th?q=Adidas+Football"
-},
-{
-  "id": 94,
-  "name": "Dell Inspiron Laptop",
-  "category": "Electronics",
-  "price": 452.02,
-  "rating": 4.6,
-  "stock": 194,
-  "description": "A powerful Dell Inspiron laptop for everyday computing.",
-  "image": "https://tse2.mm.bing.net/th?q=Dell+Inspiron+Laptop"
-},
-{
-  "id": 95,
-  "name": "Nespresso Coffee Maker",
-  "category": "Home & Kitchen",
-  "price": 834.29,
-  "rating": 4.2,
-  "stock": 150,
-  "description": "A premium Nespresso coffee maker for rich espresso flavors.",
-  "image": "https://tse2.mm.bing.net/th?q=Nespresso+Coffee+Maker"
-},
-{
-  "id": 96,
-  "name": "Kenwood Electric Kettle",
-  "category": "Home & Kitchen",
-  "price": 1705.62,
-  "rating": 3.7,
-  "stock": 145,
-  "description": "A stylish and durable Kenwood electric kettle.",
-  "image": "https://tse2.mm.bing.net/th?q=Kenwood+Electric+Kettle"
-},
-{
-  "id": 97,
-  "name": "Neutrogena Sunscreen",
-  "category": "Beauty",
-  "price": 769.87,
-  "rating": 4.6,
-  "stock": 117,
-  "description": "A high-performance Neutrogena sunscreen for UV protection.",
-  "image": "https://tse2.mm.bing.net/th?q=Neutrogena+Sunscreen"
-},
-{
-  "id": 98,
-  "name": "Generic Table Lamp",
-  "category": "Home & Kitchen",
-  "price": 1049.01,
-  "rating": 4.8,
-  "stock": 115,
-  "description": "A modern table lamp providing warm ambient lighting.",
-  "image": "https://tse2.mm.bing.net/th?q=Table+Lamp"
-},
-{
-  "id": 99,
-  "name": "CeraVe Moisturizing Cream",
-  "category": "Beauty",
-  "price": 1636.25,
-  "rating": 3.9,
-  "stock": 27,
-  "description": "A hydrating CeraVe moisturizer for smooth and healthy skin.",
-  "image": "https://tse2.mm.bing.net/th?q=CeraVe+Moisturizing+Cream"
-},
-{
-  "id": 100,
-  "name": "HP Chromebook Laptop",
-  "category": "Electronics",
-  "price": 185.58,
-  "rating": 4.5,
-  "stock": 173,
-  "description": "A lightweight HP Chromebook laptop ideal for browsing and study.",
-  "image": "https://tse2.mm.bing.net/th?q=HP+Chromebook+Laptop"
-},
-{
-  "id": 101,
-  "name": "Kenwood Electric Kettle",
-  "category": "Home & Kitchen",
-  "price": 1999.77,
-  "rating": 3.8,
-  "stock": 41,
-  "description": "A durable Kenwood electric kettle designed for fast boiling and everyday use.",
-  "image": "https://tse2.mm.bing.net/th?q=Kenwood+Electric+Kettle"
-},
-{
-  "id": 102,
-  "name": "Adidas Football",
-  "category": "Sports & Outdoors",
-  "price": 1441.47,
-  "rating": 3.2,
-  "stock": 152,
-  "description": "Adidas match-quality football built for performance and outdoor play.",
-  "image": "https://tse2.mm.bing.net/th?q=Adidas+Football"
-},
-{
-  "id": 103,
-  "name": "Neutrogena Sunscreen",
-  "category": "Beauty",
-  "price": 1292.02,
-  "rating": 4.2,
-  "stock": 98,
-  "description": "A lightweight Neutrogena sunscreen offering strong UV protection.",
-  "image": "https://tse2.mm.bing.net/th?q=Neutrogena+Sunscreen"
-},
-{
-  "id": 104,
-  "name": "Zara Leather Jacket",
-  "category": "Fashion",
-  "price": 1447.42,
-  "rating": 4.5,
-  "stock": 162,
-  "description": "A stylish Zara leather jacket designed for comfort and durability.",
-  "image": "https://tse2.mm.bing.net/th?q=Zara+Leather+Jacket"
-},
-{
-  "id": 105,
-  "name": "Generic Football",
-  "category": "Sports & Outdoors",
-  "price": 593.06,
-  "rating": 4.0,
-  "stock": 38,
-  "description": "A durable training football ideal for recreation and practice.",
-  "image": "https://tse2.mm.bing.net/th?q=Football"
-},
-{
-  "id": 106,
-  "name": "Adidas Perfume",
-  "category": "Beauty",
-  "price": 247.26,
-  "rating": 3.3,
-  "stock": 178,
-  "description": "A refreshing Adidas body fragrance with a sporty scent.",
-  "image": "https://tse2.mm.bing.net/th?q=Adidas+Perfume"
-},
-{
-  "id": 107,
-  "name": "Puma Water Bottle",
-  "category": "Sports & Outdoors",
-  "price": 491.58,
-  "rating": 3.2,
-  "stock": 136,
-  "description": "A lightweight Puma water bottle designed for athletes and daily hydration.",
-  "image": "https://tse2.mm.bing.net/th?q=Puma+Water+Bottle"
-},
-{
-  "id": 108,
-  "name": "Calvin Klein Perfume",
-  "category": "Beauty",
-  "price": 1773.25,
-  "rating": 4.6,
-  "stock": 68,
-  "description": "A long-lasting Calvin Klein fragrance with a modern scent profile.",
-  "image": "https://tse2.mm.bing.net/th?q=Calvin+Klein+Perfume"
-},
-{
-  "id": 109,
-  "name": "Philips Electric Kettle",
-  "category": "Home & Kitchen",
-  "price": 1079.89,
-  "rating": 2.6,
-  "stock": 178,
-  "description": "A Philips electric kettle designed for efficient heating and durability.",
-  "image": "https://tse2.mm.bing.net/th?q=Philips+Electric+Kettle"
-},
-{
-  "id": 110,
-  "name": "Puma Men's T-Shirt",
-  "category": "Fashion",
-  "price": 942.34,
-  "rating": 2.9,
-  "stock": 134,
-  "description": "A breathable Puma men's t-shirt suitable for casual and athletic wear.",
-  "image": "https://tse2.mm.bing.net/th?q=Puma+Mens+Tshirt"
-},
-{
-  "id": 111,
-  "name": "Puma Jeans",
-  "category": "Fashion",
-  "price": 852.67,
-  "rating": 3.6,
-  "stock": 171,
-  "description": "Stylish Puma jeans designed for everyday comfort.",
-  "image": "https://tse2.mm.bing.net/th?q=Puma+Jeans"
-},
-{
-  "id": 112,
-  "name": "Nike Perfume",
-  "category": "Beauty",
-  "price": 1234.12,
-  "rating": 3.6,
-  "stock": 131,
-  "description": "A sporty Nike body fragrance with a fresh aroma.",
-  "image": "https://tse2.mm.bing.net/th?q=Nike+Perfume"
-},
-{
-  "id": 113,
-  "name": "Lenovo Tablet",
-  "category": "Electronics",
-  "price": 1812.41,
-  "rating": 4.7,
-  "stock": 177,
-  "description": "A high-performance Lenovo tablet suitable for work and entertainment.",
-  "image": "https://tse2.mm.bing.net/th?q=Lenovo+Tablet"
-},
-{
-  "id": 114,
-  "name": "Generic Table Lamp",
-  "category": "Home & Kitchen",
-  "price": 601.28,
-  "rating": 3.4,
-  "stock": 112,
-  "description": "A modern table lamp providing warm ambient lighting.",
-  "image": "https://tse2.mm.bing.net/th?q=Table+Lamp"
-},
-{
-  "id": 115,
-  "name": "Zara Table Lamp",
-  "category": "Home & Kitchen",
-  "price": 1266.46,
-  "rating": 3.1,
-  "stock": 41,
-  "description": "A designer table lamp with a premium finish suitable for modern interiors.",
-  "image": "https://tse2.mm.bing.net/th?q=Modern+Table+Lamp"
-},
-{
-  "id": 116,
-  "name": "Generic Sneakers",
-  "category": "Fashion",
-  "price": 1679.9,
-  "rating": 4.2,
-  "stock": 134,
-  "description": "Comfortable everyday sneakers with durable outsoles.",
-  "image": "https://tse2.mm.bing.net/th?q=Sneakers"
-},
-{
-  "id": 117,
-  "name": "Philips Blender",
-  "category": "Home & Kitchen",
-  "price": 560.28,
-  "rating": 4.9,
-  "stock": 173,
-  "description": "A powerful Philips blender ideal for smoothies and food preparation.",
-  "image": "https://tse2.mm.bing.net/th?q=Philips+Blender"
-},
-{
-  "id": 118,
-  "name": "Giro Bicycle Helmet",
-  "category": "Sports & Outdoors",
-  "price": 1432.34,
-  "rating": 3.6,
-  "stock": 74,
-  "description": "A Giro bicycle helmet designed for safety and comfort.",
-  "image": "https://tse2.mm.bing.net/th?q=Giro+Bicycle+Helmet"
-},
-{
-  "id": 119,
-  "name": "Ninja Air Fryer",
-  "category": "Home & Kitchen",
-  "price": 1440.03,
-  "rating": 4.0,
-  "stock": 32,
-  "description": "A Ninja air fryer offering fast, oil-free cooking.",
-  "image": "https://tse2.mm.bing.net/th?q=Ninja+Air+Fryer"
-},
-{
-  "id": 120,
-  "name": "Logitech Mechanical Keyboard",
-  "category": "Electronics",
-  "price": 226.21,
-  "rating": 3.5,
-  "stock": 8,
-  "description": "A durable Logitech mechanical keyboard designed for precision typing.",
-  "image": "https://tse2.mm.bing.net/th?q=Logitech+Mechanical+Keyboard"
-},
   {
-  "id": 121,
-  "name": "HP Sneakers",
-  "category": "Fashion",
-  "price": 1023.94,
-  "rating": 3.0,
-  "stock": 160,
-  "description": "The HP Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
-  "image": "https://tse2.mm.bing.net/th?q=HP+Sneakers"
-},
-{
-  "id": 122,
-  "name": "Philips Sunscreen",
-  "category": "Beauty",
-  "price": 1651.84,
-  "rating": 2.6,
-  "stock": 34,
-  "description": "The Philips Sunscreen is a high-quality sunscreen designed for performance and durability. Perfect for anyone looking for reliable beauty.",
-  "image": "https://tse2.mm.bing.net/th?q=Philips+Sunscreen"
-},
-{
-  "id": 123,
-  "name": "Dell Sneakers",
-  "category": "Fashion",
-  "price": 1772.04,
-  "rating": 3.1,
-  "stock": 32,
-  "description": "The Dell Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
-  "image": "https://tse2.mm.bing.net/th?q=Dell+Sneakers"
-},
-{
-  "id": 124,
-  "name": "Adidas Football",
-  "category": "Sports & Outdoors",
-  "price": 613.14,
-  "rating": 3.2,
-  "stock": 168,
-  "description": "The Adidas Football is a high-quality football designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
-  "image": "https://tse2.mm.bing.net/th?q=Adidas+Football"
-},
-{
-  "id": 125,
-  "name": "Generic Face Serum",
-  "category": "Beauty",
-  "price": 775.61,
-  "rating": 4.9,
-  "stock": 191,
-  "description": "The Generic Face Serum is a high-quality face serum designed for performance and durability. Perfect for anyone looking for reliable beauty.",
-  "image": "https://tse2.mm.bing.net/th?q=Face+Serum"
-},
-{
-  "id": 126,
-  "name": "Samsung Men's T-Shirt",
-  "category": "Fashion",
-  "price": 1847.4,
-  "rating": 2.6,
-  "stock": 76,
-  "description": "The Samsung Men's T-Shirt is a high-quality men's t-shirt designed for performance and durability. Perfect for anyone looking for reliable fashion.",
-  "image": "https://tse2.mm.bing.net/th?q=Samsung+Men%27s+T-Shirt"
-},
-{
-  "id": 127,
-  "name": "Gucci Running Shoes",
-  "category": "Sports & Outdoors",
-  "price": 1167.95,
-  "rating": 4.0,
-  "stock": 13,
-  "description": "The Gucci Running Shoes is a high-quality running shoes designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
-  "image": "https://tse2.mm.bing.net/th?q=Gucci+Running+Shoes"
-},
-{
-  "id": 128,
-  "name": "Sony Women's Dress",
-  "category": "Fashion",
-  "price": 1045.65,
-  "rating": 4.5,
-  "stock": 145,
-  "description": "The Sony Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
-  "image": "https://tse2.mm.bing.net/th?q=Sony+Women%27s+Dress"
-},
-{
-  "id": 129,
-  "name": "Apple Mechanical Keyboard",
-  "category": "Electronics",
-  "price": 891.22,
-  "rating": 3.4,
-  "stock": 112,
-  "description": "The Apple Mechanical Keyboard is a high-quality mechanical keyboard designed for performance and durability. Perfect for anyone looking for reliable electronics.",
-  "image": "https://tse2.mm.bing.net/th?q=Apple+Mechanical+Keyboard"
-},
-{
-  "id": 130,
-  "name": "Philips Yoga Mat",
-  "category": "Sports & Outdoors",
-  "price": 487.38,
-  "rating": 3.6,
-  "stock": 6,
-  "description": "The Philips Yoga Mat is a high-quality yoga mat designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
-  "image": "https://tse2.mm.bing.net/th?q=Philips+Yoga+Mat"
-},
-{
-  "id": 131,
-  "name": "Puma Backpack",
-  "category": "Sports & Outdoors",
-  "price": 1913.73,
-  "rating": 4.5,
-  "stock": 130,
-  "description": "The Puma Backpack is a high-quality backpack designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
-  "image": "https://tse2.mm.bing.net/th?q=Puma+Backpack"
-},
-{
-  "id": 132,
-  "name": "HP Electric Kettle",
-  "category": "Home & Kitchen",
-  "price": 637.06,
-  "rating": 3.6,
-  "stock": 3,
-  "description": "The HP Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
-  "image": "https://tse2.mm.bing.net/th?q=HP+Electric+Kettle"
-},
-{
-  "id": 133,
-  "name": "Generic Coffee Maker",
-  "category": "Home & Kitchen",
-  "price": 1026.78,
-  "rating": 3.9,
-  "stock": 112,
-  "description": "The Generic Coffee Maker is a high-quality coffee maker designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
-  "image": "https://tse2.mm.bing.net/th?q=Coffee+Maker"
-},
-{
-  "id": 134,
-  "name": "Generic Tablet",
-  "category": "Electronics",
-  "price": 628.83,
-  "rating": 3.0,
-  "stock": 46,
-  "description": "The Generic Tablet is a high-quality tablet designed for performance and durability. Perfect for anyone looking for reliable electronics.",
-  "image": "https://tse2.mm.bing.net/th?q=Tablet"
-},
-{
-  "id": 135,
-  "name": "Dell Running Shoes",
-  "category": "Sports & Outdoors",
-  "price": 1364.31,
-  "rating": 3.3,
-  "stock": 55,
-  "description": "The Dell Running Shoes is a high-quality running shoes designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
-  "image": "https://tse2.mm.bing.net/th?q=Dell+Running+Shoes"
-},
-{
-  "id": 136,
-  "name": "Gucci Handbag",
-  "category": "Fashion",
-  "price": 245.8,
-  "rating": 3.6,
-  "stock": 174,
-  "description": "The Gucci Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
-  "image": "https://tse2.mm.bing.net/th?q=Gucci+Handbag"
-},
-{
-  "id": 137,
-  "name": "HP Cookware Set",
-  "category": "Home & Kitchen",
-  "price": 800.84,
-  "rating": 4.2,
-  "stock": 132,
-  "description": "The HP Cookware Set is a high-quality cookware set designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
-  "image": "https://tse2.mm.bing.net/th?q=Cookware+Set"
-},
-{
-  "id": 138,
-  "name": "Sony Bicycle Helmet",
-  "category": "Sports & Outdoors",
-  "price": 133.04,
-  "rating": 3.8,
-  "stock": 2,
-  "description": "The Sony Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
-  "image": "https://tse2.mm.bing.net/th?q=Sony+Bicycle+Helmet"
-},
-{
-  "id": 139,
-  "name": "Dell Lipstick",
-  "category": "Beauty",
-  "price": 1100.78,
-  "rating": 2.9,
-  "stock": 146,
-  "description": "The Dell Lipstick is a high-quality lipstick designed for performance and durability. Perfect for anyone looking for reliable beauty.",
-  "image": "https://tse2.mm.bing.net/th?q=Dell+Lipstick"
-},
-{
-  "id": 140,
-  "name": "Sony Cookware Set",
-  "category": "Home & Kitchen",
-  "price": 607.62,
-  "rating": 3.5,
-  "stock": 13,
-  "description": "The Sony Cookware Set is a high-quality cookware set designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
-  "image": "https://tse2.mm.bing.net/th?q=Sony+Cookware+Set"
-},
+    "name": "Dell Inspiron Laptop",
+    "category": "Electronics",
+    "price": 661.75,
+    "rating": 3.9,
+    "stock": 82,
+    "description": "A reliable Dell Inspiron laptop designed for performance, portability, and durability.",
+    "image": "https://tse2.mm.bing.net/th?q=Dell+Inspiron+Laptop"
+  },
   {
-    "id": 141,
+    "name": "Nike Running Shoes",
+    "category": "Sports & Outdoors",
+    "price": 1059.97,
+    "rating": 3.5,
+    "stock": 133,
+    "description": "High-performance Nike running shoes designed for comfort and stability.",
+    "image": "https://tse2.mm.bing.net/th?q=Nike+Running+Shoes"
+  },
+  {
+    "name": "Apple AirPods",
+    "category": "Electronics",
+    "price": 1327.66,
+    "rating": 4.1,
+    "stock": 104,
+    "description": "Apple AirPods with wireless connectivity and superior sound quality.",
+    "image": "https://tse2.mm.bing.net/th?q=Apple+AirPods"
+  },
+  {
+    "name": "Head & Shoulders Shampoo",
+    "category": "Beauty",
+    "price": 1043.1,
+    "rating": 3.4,
+    "stock": 92,
+    "description": "A refreshing Head & Shoulders shampoo for clean and healthy hair.",
+    "image": "https://tse2.mm.bing.net/th?q=Head+and+Shoulders+Shampoo"
+  },
+  {
+    "name": "Coleman Camping Tent",
+    "category": "Sports & Outdoors",
+    "price": 1886.62,
+    "rating": 4.2,
+    "stock": 181,
+    "description": "A durable Coleman camping tent suitable for outdoor adventures.",
+    "image": "https://tse2.mm.bing.net/th?q=Coleman+Camping+Tent"
+  },
+  {
+    "name": "Quechua Camping Tent",
+    "category": "Sports & Outdoors",
+    "price": 412.12,
+    "rating": 2.8,
+    "stock": 112,
+    "description": "A lightweight and easy-to-assemble Quechua camping tent.",
+    "image": "https://tse2.mm.bing.net/th?q=Quechua+Camping+Tent"
+  },
+  {
+    "name": "Philips Wireless Earbuds",
+    "category": "Electronics",
+    "price": 1140.69,
+    "rating": 4,
+    "stock": 144,
+    "description": "Philips wireless earbuds offering clear sound and comfort.",
+    "image": "https://tse2.mm.bing.net/th?q=Philips+Wireless+Earbuds"
+  },
+  {
+    "name": "Kenwood Electric Kettle",
+    "category": "Home & Kitchen",
+    "price": 138.43,
+    "rating": 2.7,
+    "stock": 64,
+    "description": "A reliable Kenwood electric kettle designed for fast boiling.",
+    "image": "https://tse2.mm.bing.net/th?q=Kenwood+Electric+Kettle"
+  },
+  {
+    "name": "Samsung Galaxy Book Laptop",
+    "category": "Electronics",
+    "price": 423.87,
+    "rating": 2.8,
+    "stock": 46,
+    "description": "A slim and portable Samsung Galaxy Book laptop.",
+    "image": "https://tse2.mm.bing.net/th?q=Samsung+Galaxy+Book+Laptop"
+  },
+  {
+    "name": "Lenovo Tablet",
+    "category": "Electronics",
+    "price": 1561.2,
+    "rating": 4.2,
+    "stock": 116,
+    "description": "A versatile Lenovo tablet ideal for entertainment and work.",
+    "image": "https://tse2.mm.bing.net/th?q=Lenovo+Tablet"
+  },
+  {
+    "name": "Philips Electric Kettle",
+    "category": "Home & Kitchen",
+    "price": 127.75,
+    "rating": 2.7,
+    "stock": 143,
+    "description": "A Philips electric kettle with efficient heating technology.",
+    "image": "https://tse2.mm.bing.net/th?q=Philips+Electric+Kettle"
+  },
+  {
+    "name": "Bowflex Dumbbell Set",
+    "category": "Sports & Outdoors",
+    "price": 430.8,
+    "rating": 4.8,
+    "stock": 97,
+    "description": "Adjustable Bowflex dumbbell set suitable for full-body workouts.",
+    "image": "https://tse2.mm.bing.net/th?q=Bowflex+Dumbbell+Set"
+  },
+  {
+    "name": "Adidas Football",
+    "category": "Sports & Outdoors",
+    "price": 689.63,
+    "rating": 2.9,
+    "stock": 17,
+    "description": "An Adidas football designed for durability and performance.",
+    "image": "https://tse2.mm.bing.net/th?q=Adidas+Football"
+  },
+  {
+    "name": "Dell Inspiron Laptop",
+    "category": "Electronics",
+    "price": 452.02,
+    "rating": 4.6,
+    "stock": 194,
+    "description": "A powerful Dell Inspiron laptop for everyday computing.",
+    "image": "https://tse2.mm.bing.net/th?q=Dell+Inspiron+Laptop"
+  },
+  {
+    "name": "Nespresso Coffee Maker",
+    "category": "Home & Kitchen",
+    "price": 834.29,
+    "rating": 4.2,
+    "stock": 150,
+    "description": "A premium Nespresso coffee maker for rich espresso flavors.",
+    "image": "https://tse2.mm.bing.net/th?q=Nespresso+Coffee+Maker"
+  },
+  {
+    "name": "Kenwood Electric Kettle",
+    "category": "Home & Kitchen",
+    "price": 1705.62,
+    "rating": 3.7,
+    "stock": 145,
+    "description": "A stylish and durable Kenwood electric kettle.",
+    "image": "https://tse2.mm.bing.net/th?q=Kenwood+Electric+Kettle"
+  },
+  {
+    "name": "Neutrogena Sunscreen",
+    "category": "Beauty",
+    "price": 769.87,
+    "rating": 4.6,
+    "stock": 117,
+    "description": "A high-performance Neutrogena sunscreen for UV protection.",
+    "image": "https://tse2.mm.bing.net/th?q=Neutrogena+Sunscreen"
+  },
+  {
+    "name": "Generic Table Lamp",
+    "category": "Home & Kitchen",
+    "price": 1049.01,
+    "rating": 4.8,
+    "stock": 115,
+    "description": "A modern table lamp providing warm ambient lighting.",
+    "image": "https://tse2.mm.bing.net/th?q=Table+Lamp"
+  },
+  {
+    "name": "CeraVe Moisturizing Cream",
+    "category": "Beauty",
+    "price": 1636.25,
+    "rating": 3.9,
+    "stock": 27,
+    "description": "A hydrating CeraVe moisturizer for smooth and healthy skin.",
+    "image": "https://tse2.mm.bing.net/th?q=CeraVe+Moisturizing+Cream"
+  },
+  {
+    "name": "HP Chromebook Laptop",
+    "category": "Electronics",
+    "price": 185.58,
+    "rating": 4.5,
+    "stock": 173,
+    "description": "A lightweight HP Chromebook laptop ideal for browsing and study.",
+    "image": "https://tse2.mm.bing.net/th?q=HP+Chromebook+Laptop"
+  },
+  {
+    "name": "Kenwood Electric Kettle",
+    "category": "Home & Kitchen",
+    "price": 1999.77,
+    "rating": 3.8,
+    "stock": 41,
+    "description": "A durable Kenwood electric kettle designed for fast boiling and everyday use.",
+    "image": "https://tse2.mm.bing.net/th?q=Kenwood+Electric+Kettle"
+  },
+  {
+    "name": "Adidas Football",
+    "category": "Sports & Outdoors",
+    "price": 1441.47,
+    "rating": 3.2,
+    "stock": 152,
+    "description": "Adidas match-quality football built for performance and outdoor play.",
+    "image": "https://tse2.mm.bing.net/th?q=Adidas+Football"
+  },
+  {
+    "name": "Neutrogena Sunscreen",
+    "category": "Beauty",
+    "price": 1292.02,
+    "rating": 4.2,
+    "stock": 98,
+    "description": "A lightweight Neutrogena sunscreen offering strong UV protection.",
+    "image": "https://tse2.mm.bing.net/th?q=Neutrogena+Sunscreen"
+  },
+  {
+    "name": "Zara Leather Jacket",
+    "category": "Fashion",
+    "price": 1447.42,
+    "rating": 4.5,
+    "stock": 162,
+    "description": "A stylish Zara leather jacket designed for comfort and durability.",
+    "image": "https://tse2.mm.bing.net/th?q=Zara+Leather+Jacket"
+  },
+  {
+    "name": "Generic Football",
+    "category": "Sports & Outdoors",
+    "price": 593.06,
+    "rating": 4,
+    "stock": 38,
+    "description": "A durable training football ideal for recreation and practice.",
+    "image": "https://tse2.mm.bing.net/th?q=Football"
+  },
+  {
+    "name": "Adidas Perfume",
+    "category": "Beauty",
+    "price": 247.26,
+    "rating": 3.3,
+    "stock": 178,
+    "description": "A refreshing Adidas body fragrance with a sporty scent.",
+    "image": "https://tse2.mm.bing.net/th?q=Adidas+Perfume"
+  },
+  {
+    "name": "Puma Water Bottle",
+    "category": "Sports & Outdoors",
+    "price": 491.58,
+    "rating": 3.2,
+    "stock": 136,
+    "description": "A lightweight Puma water bottle designed for athletes and daily hydration.",
+    "image": "https://tse2.mm.bing.net/th?q=Puma+Water+Bottle"
+  },
+  {
+    "name": "Calvin Klein Perfume",
+    "category": "Beauty",
+    "price": 1773.25,
+    "rating": 4.6,
+    "stock": 68,
+    "description": "A long-lasting Calvin Klein fragrance with a modern scent profile.",
+    "image": "https://tse2.mm.bing.net/th?q=Calvin+Klein+Perfume"
+  },
+  {
+    "name": "Philips Electric Kettle",
+    "category": "Home & Kitchen",
+    "price": 1079.89,
+    "rating": 2.6,
+    "stock": 178,
+    "description": "A Philips electric kettle designed for efficient heating and durability.",
+    "image": "https://tse2.mm.bing.net/th?q=Philips+Electric+Kettle"
+  },
+  {
+    "name": "Puma Men's T-Shirt",
+    "category": "Fashion",
+    "price": 942.34,
+    "rating": 2.9,
+    "stock": 134,
+    "description": "A breathable Puma men's t-shirt suitable for casual and athletic wear.",
+    "image": "https://tse2.mm.bing.net/th?q=Puma+Mens+Tshirt"
+  },
+  {
+    "name": "Puma Jeans",
+    "category": "Fashion",
+    "price": 852.67,
+    "rating": 3.6,
+    "stock": 171,
+    "description": "Stylish Puma jeans designed for everyday comfort.",
+    "image": "https://tse2.mm.bing.net/th?q=Puma+Jeans"
+  },
+  {
+    "name": "Nike Perfume",
+    "category": "Beauty",
+    "price": 1234.12,
+    "rating": 3.6,
+    "stock": 131,
+    "description": "A sporty Nike body fragrance with a fresh aroma.",
+    "image": "https://tse2.mm.bing.net/th?q=Nike+Perfume"
+  },
+  {
+    "name": "Lenovo Tablet",
+    "category": "Electronics",
+    "price": 1812.41,
+    "rating": 4.7,
+    "stock": 177,
+    "description": "A high-performance Lenovo tablet suitable for work and entertainment.",
+    "image": "https://tse2.mm.bing.net/th?q=Lenovo+Tablet"
+  },
+  {
+    "name": "Generic Table Lamp",
+    "category": "Home & Kitchen",
+    "price": 601.28,
+    "rating": 3.4,
+    "stock": 112,
+    "description": "A modern table lamp providing warm ambient lighting.",
+    "image": "https://tse2.mm.bing.net/th?q=Table+Lamp"
+  },
+  {
+    "name": "Zara Table Lamp",
+    "category": "Home & Kitchen",
+    "price": 1266.46,
+    "rating": 3.1,
+    "stock": 41,
+    "description": "A designer table lamp with a premium finish suitable for modern interiors.",
+    "image": "https://tse2.mm.bing.net/th?q=Modern+Table+Lamp"
+  },
+  {
+    "name": "Generic Sneakers",
+    "category": "Fashion",
+    "price": 1679.9,
+    "rating": 4.2,
+    "stock": 134,
+    "description": "Comfortable everyday sneakers with durable outsoles.",
+    "image": "https://tse2.mm.bing.net/th?q=Sneakers"
+  },
+  {
+    "name": "Philips Blender",
+    "category": "Home & Kitchen",
+    "price": 560.28,
+    "rating": 4.9,
+    "stock": 173,
+    "description": "A powerful Philips blender ideal for smoothies and food preparation.",
+    "image": "https://tse2.mm.bing.net/th?q=Philips+Blender"
+  },
+  {
+    "name": "Giro Bicycle Helmet",
+    "category": "Sports & Outdoors",
+    "price": 1432.34,
+    "rating": 3.6,
+    "stock": 74,
+    "description": "A Giro bicycle helmet designed for safety and comfort.",
+    "image": "https://tse2.mm.bing.net/th?q=Giro+Bicycle+Helmet"
+  },
+  {
+    "name": "Ninja Air Fryer",
+    "category": "Home & Kitchen",
+    "price": 1440.03,
+    "rating": 4,
+    "stock": 32,
+    "description": "A Ninja air fryer offering fast, oil-free cooking.",
+    "image": "https://tse2.mm.bing.net/th?q=Ninja+Air+Fryer"
+  },
+  {
+    "name": "Logitech Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 226.21,
+    "rating": 3.5,
+    "stock": 8,
+    "description": "A durable Logitech mechanical keyboard designed for precision typing.",
+    "image": "https://tse2.mm.bing.net/th?q=Logitech+Mechanical+Keyboard"
+  },
+  {
+    "name": "HP Sneakers",
+    "category": "Fashion",
+    "price": 1023.94,
+    "rating": 3,
+    "stock": 160,
+    "description": "The HP Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image": "https://tse2.mm.bing.net/th?q=HP+Sneakers"
+  },
+  {
+    "name": "Philips Sunscreen",
+    "category": "Beauty",
+    "price": 1651.84,
+    "rating": 2.6,
+    "stock": 34,
+    "description": "The Philips Sunscreen is a high-quality sunscreen designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image": "https://tse2.mm.bing.net/th?q=Philips+Sunscreen"
+  },
+  {
+    "name": "Dell Sneakers",
+    "category": "Fashion",
+    "price": 1772.04,
+    "rating": 3.1,
+    "stock": 32,
+    "description": "The Dell Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image": "https://tse2.mm.bing.net/th?q=Dell+Sneakers"
+  },
+  {
+    "name": "Adidas Football",
+    "category": "Sports & Outdoors",
+    "price": 613.14,
+    "rating": 3.2,
+    "stock": 168,
+    "description": "The Adidas Football is a high-quality football designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image": "https://tse2.mm.bing.net/th?q=Adidas+Football"
+  },
+  {
+    "name": "Generic Face Serum",
+    "category": "Beauty",
+    "price": 775.61,
+    "rating": 4.9,
+    "stock": 191,
+    "description": "The Generic Face Serum is a high-quality face serum designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image": "https://tse2.mm.bing.net/th?q=Face+Serum"
+  },
+  {
+    "name": "Samsung Men's T-Shirt",
+    "category": "Fashion",
+    "price": 1847.4,
+    "rating": 2.6,
+    "stock": 76,
+    "description": "The Samsung Men's T-Shirt is a high-quality men's t-shirt designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image": "https://tse2.mm.bing.net/th?q=Samsung+Men%27s+T-Shirt"
+  },
+  {
+    "name": "Gucci Running Shoes",
+    "category": "Sports & Outdoors",
+    "price": 1167.95,
+    "rating": 4,
+    "stock": 13,
+    "description": "The Gucci Running Shoes is a high-quality running shoes designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image": "https://tse2.mm.bing.net/th?q=Gucci+Running+Shoes"
+  },
+  {
+    "name": "Sony Women's Dress",
+    "category": "Fashion",
+    "price": 1045.65,
+    "rating": 4.5,
+    "stock": 145,
+    "description": "The Sony Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image": "https://tse2.mm.bing.net/th?q=Sony+Women%27s+Dress"
+  },
+  {
+    "name": "Apple Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 891.22,
+    "rating": 3.4,
+    "stock": 112,
+    "description": "The Apple Mechanical Keyboard is a high-quality mechanical keyboard designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image": "https://tse2.mm.bing.net/th?q=Apple+Mechanical+Keyboard"
+  },
+  {
+    "name": "Philips Yoga Mat",
+    "category": "Sports & Outdoors",
+    "price": 487.38,
+    "rating": 3.6,
+    "stock": 6,
+    "description": "The Philips Yoga Mat is a high-quality yoga mat designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image": "https://tse2.mm.bing.net/th?q=Philips+Yoga+Mat"
+  },
+  {
+    "name": "Puma Backpack",
+    "category": "Sports & Outdoors",
+    "price": 1913.73,
+    "rating": 4.5,
+    "stock": 130,
+    "description": "The Puma Backpack is a high-quality backpack designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image": "https://tse2.mm.bing.net/th?q=Puma+Backpack"
+  },
+  {
+    "name": "HP Electric Kettle",
+    "category": "Home & Kitchen",
+    "price": 637.06,
+    "rating": 3.6,
+    "stock": 3,
+    "description": "The HP Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image": "https://tse2.mm.bing.net/th?q=HP+Electric+Kettle"
+  },
+  {
+    "name": "Generic Coffee Maker",
+    "category": "Home & Kitchen",
+    "price": 1026.78,
+    "rating": 3.9,
+    "stock": 112,
+    "description": "The Generic Coffee Maker is a high-quality coffee maker designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image": "https://tse2.mm.bing.net/th?q=Coffee+Maker"
+  },
+  {
+    "name": "Generic Tablet",
+    "category": "Electronics",
+    "price": 628.83,
+    "rating": 3,
+    "stock": 46,
+    "description": "The Generic Tablet is a high-quality tablet designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image": "https://tse2.mm.bing.net/th?q=Tablet"
+  },
+  {
+    "name": "Dell Running Shoes",
+    "category": "Sports & Outdoors",
+    "price": 1364.31,
+    "rating": 3.3,
+    "stock": 55,
+    "description": "The Dell Running Shoes is a high-quality running shoes designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image": "https://tse2.mm.bing.net/th?q=Dell+Running+Shoes"
+  },
+  {
+    "name": "Gucci Handbag",
+    "category": "Fashion",
+    "price": 245.8,
+    "rating": 3.6,
+    "stock": 174,
+    "description": "The Gucci Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image": "https://tse2.mm.bing.net/th?q=Gucci+Handbag"
+  },
+  {
+    "name": "HP Cookware Set",
+    "category": "Home & Kitchen",
+    "price": 800.84,
+    "rating": 4.2,
+    "stock": 132,
+    "description": "The HP Cookware Set is a high-quality cookware set designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image": "https://tse2.mm.bing.net/th?q=Cookware+Set"
+  },
+  {
+    "name": "Sony Bicycle Helmet",
+    "category": "Sports & Outdoors",
+    "price": 133.04,
+    "rating": 3.8,
+    "stock": 2,
+    "description": "The Sony Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image": "https://tse2.mm.bing.net/th?q=Sony+Bicycle+Helmet"
+  },
+  {
+    "name": "Dell Lipstick",
+    "category": "Beauty",
+    "price": 1100.78,
+    "rating": 2.9,
+    "stock": 146,
+    "description": "The Dell Lipstick is a high-quality lipstick designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image": "https://tse2.mm.bing.net/th?q=Dell+Lipstick"
+  },
+  {
+    "name": "Sony Cookware Set",
+    "category": "Home & Kitchen",
+    "price": 607.62,
+    "rating": 3.5,
+    "stock": 13,
+    "description": "The Sony Cookware Set is a high-quality cookware set designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image": "https://tse2.mm.bing.net/th?q=Sony+Cookware+Set"
+  },
+  {
     "name": "Slim Fit Denim Jeans",
     "category": "Fashion",
-    "price": 38.00,
+    "price": 38,
     "rating": 3.4,
     "stock": 52,
     "description": "Durable slim-fit denim jeans suitable for daily and casual wear.",
     "image": "https://tse2.mm.bing.net/th?q=Slim+Fit+Denim+Jeans"
   },
   {
-    "id": 142,
     "name": "Adidas Casual Sneakers",
     "category": "Fashion",
-    "price": 45.00,
+    "price": 45,
     "rating": 2.9,
     "stock": 15,
     "description": "Lightweight casual sneakers designed for comfort and everyday style.",
     "image": "https://tse2.mm.bing.net/th?q=Adidas+Casual+Sneakers"
   },
   {
-    "id": 143,
     "name": "Dell Mechanical Keyboard",
     "category": "Electronics",
-    "price": 59.00,
+    "price": 59,
     "rating": 4.3,
     "stock": 137,
     "description": "Mechanical keyboard designed for responsive typing and durability.",
     "image": "https://tse2.mm.bing.net/th?q=Mechanical+Keyboard"
   },
   {
-    "id": 144,
     "name": "Yoga Training Mat",
     "category": "Sports & Outdoors",
-    "price": 18.00,
+    "price": 18,
     "rating": 2.7,
     "stock": 15,
     "description": "Non-slip yoga mat suitable for home workouts and studio sessions.",
     "image": "https://tse2.mm.bing.net/th?q=Yoga+Mat"
   },
   {
-    "id": 145,
     "name": "Xiaomi Mid-Range Smartphone",
     "category": "Electronics",
-    "price": 199.00,
+    "price": 199,
     "rating": 3.9,
     "stock": 89,
     "description": "Reliable smartphone with smooth performance and long-lasting battery.",
     "image": "https://tse2.mm.bing.net/th?q=Xiaomi+Smartphone"
   },
   {
-    "id": 146,
     "name": "HP Mechanical Keyboard",
     "category": "Electronics",
-    "price": 67.00,
+    "price": 67,
     "rating": 3.6,
     "stock": 54,
     "description": "Tactile mechanical keyboard offering excellent typing feedback.",
     "image": "https://tse2.mm.bing.net/th?q=Mechanical+Keyboard"
   },
   {
-    "id": 147,
     "name": "Gucci Women's Dress",
     "category": "Fashion",
-    "price": 160.00,
+    "price": 160,
     "rating": 4.1,
     "stock": 117,
     "description": "Elegant and fashionable women's dress made with premium fabric.",
     "image": "https://tse2.mm.bing.net/th?q=Gucci+Women%27s+Dress"
   },
   {
-    "id": 148,
     "name": "Reusable Water Bottle",
     "category": "Sports & Outdoors",
-    "price": 12.00,
+    "price": 12,
     "rating": 3.3,
     "stock": 100,
     "description": "Leak-proof reusable water bottle suitable for gym and travel use.",
     "image": "https://tse2.mm.bing.net/th?q=Reusable+Water+Bottle"
   },
   {
-    "id": 149,
     "name": "Stainless Steel Electric Kettle",
     "category": "Home & Kitchen",
-    "price": 28.00,
+    "price": 28,
     "rating": 4.2,
     "stock": 14,
     "description": "Energy-efficient electric kettle with automatic shutoff safety feature.",
     "image": "https://tse2.mm.bing.net/th?q=Stainless+Steel+Electric+Kettle"
   },
   {
-    "id": 150,
     "name": "Travel Backpack",
     "category": "Sports & Outdoors",
-    "price": 34.00,
-    "rating": 4.0,
+    "price": 34,
+    "rating": 4,
     "stock": 72,
     "description": "Durable travel backpack with multiple compartments for organization.",
     "image": "https://tse2.mm.bing.net/th?q=Travel+Backpack"
   },
   {
-    "id": 151,
     "name": "Nike Leather Jacket",
     "category": "Fashion",
-    "price": 140.00,
+    "price": 140,
     "rating": 3.7,
     "stock": 196,
     "description": "Premium leather jacket with athletic-inspired styling and tailored fit.",
     "image": "https://tse2.mm.bing.net/th?q=Nike+Leather+Jacket"
   },
   {
-    "id": 152,
     "name": "Neutrogena SPF 50 Sunscreen",
     "category": "Beauty",
-    "price": 12.00,
+    "price": 12,
     "rating": 4.8,
     "stock": 29,
     "description": "Lightweight sunscreen providing broad-spectrum UVA/UVB protection.",
     "image": "https://tse2.mm.bing.net/th?q=Neutrogena+SPF+50+Sunscreen"
   },
   {
-    "id": 153,
     "name": "Generic Smartwatch",
     "category": "Electronics",
-    "price": 29.00,
+    "price": 29,
     "rating": 3.1,
     "stock": 146,
     "description": "Affordable smartwatch featuring step tracking and phone notifications.",
     "image": "https://tse2.mm.bing.net/th?q=Smartwatch"
   },
   {
-    "id": 154,
     "name": "Generic Daily Shampoo",
     "category": "Beauty",
-    "price": 6.00,
+    "price": 6,
     "rating": 3.2,
     "stock": 14,
     "description": "Gentle cleansing shampoo suitable for daily hair care routines.",
     "image": "https://tse2.mm.bing.net/th?q=Shampoo+Bottle"
   },
   {
-    "id": 155,
     "name": "Puma Classic Sneakers",
     "category": "Fashion",
-    "price": 55.00,
+    "price": 55,
     "rating": 3.8,
     "stock": 18,
     "description": "Comfortable everyday sneakers with a clean sporty design.",
     "image": "https://tse2.mm.bing.net/th?q=Puma+Classic+Sneakers"
   },
   {
-    "id": 156,
     "name": "Ray-Ban Aviator Sunglasses",
     "category": "Fashion",
-    "price": 98.00,
+    "price": 98,
     "rating": 3.3,
     "stock": 199,
     "description": "Iconic aviator sunglasses offering UV protection and style.",
     "image": "https://tse2.mm.bing.net/th?q=Ray+Ban+Aviator+Sunglasses"
   },
   {
-    "id": 157,
     "name": "Bissell Upright Vacuum Cleaner",
     "category": "Home & Kitchen",
-    "price": 79.00,
+    "price": 79,
     "rating": 3.4,
     "stock": 158,
     "description": "Lightweight vacuum cleaner designed for carpet and hard floor cleaning.",
     "image": "https://tse2.mm.bing.net/th?q=Bissell+Upright+Vacuum+Cleaner"
   },
   {
-    "id": 158,
     "name": "Philips LED Table Lamp",
     "category": "Home & Kitchen",
-    "price": 35.00,
+    "price": 35,
     "rating": 3.3,
     "stock": 23,
     "description": "Modern LED lamp providing soft energy-efficient lighting.",
     "image": "https://tse2.mm.bing.net/th?q=Philips+LED+Table+Lamp"
   },
   {
-    "id": 159,
     "name": "Generic Vacuum Cleaner",
     "category": "Home & Kitchen",
-    "price": 49.00,
+    "price": 49,
     "rating": 4.1,
     "stock": 90,
     "description": "Compact vacuum suitable for home cleaning and dust removal.",
     "image": "https://tse2.mm.bing.net/th?q=Vacuum+Cleaner"
   },
   {
-    "id": 160,
     "name": "Fossil Men's Wristwatch",
     "category": "Fashion",
-    "price": 85.00,
+    "price": 85,
     "rating": 3.8,
     "stock": 144,
     "description": "Stylish analog wristwatch featuring a durable build and adjustable strap.",
     "image": "https://tse2.mm.bing.net/th?q=Fossil+Men%27s+Watch"
   },
   {
-    "id": 161,
     "name": "LG Microwave Oven",
     "category": "Home & Kitchen",
-    "price": 139.00,
+    "price": 139,
     "rating": 4.6,
     "stock": 28,
     "description": "Compact microwave with multiple heating modes and digital controls.",
     "image": "https://tse2.mm.bing.net/th?q=LG+Microwave+Oven"
   },
   {
-    "id": 162,
     "name": "JBL Tune Wireless Earbuds",
     "category": "Electronics",
-    "price": 49.00,
+    "price": 49,
     "rating": 2.9,
     "stock": 21,
     "description": "True wireless earbuds offering balanced audio and comfortable fit.",
     "image": "https://tse2.mm.bing.net/th?q=JBL+Tune+Wireless+Earbuds"
   },
   {
-    "id": 163,
     "name": "Philips Women's Dress",
     "category": "Fashion",
     "price": 1973.04,
@@ -1630,7 +1467,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Philips+Women's+Dress"
   },
   {
-    "id": 164,
     "name": "Dell Sunscreen",
     "category": "Beauty",
     "price": 1188.85,
@@ -1640,7 +1476,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Dell+Sunscreen"
   },
   {
-    "id": 165,
     "name": "LG Handbag",
     "category": "Fashion",
     "price": 1555.82,
@@ -1650,7 +1485,6 @@
     "image": "https://tse2.mm.bing.net/th?q=LG+Handbag"
   },
   {
-    "id": 166,
     "name": "Dell Water Bottle",
     "category": "Sports & Outdoors",
     "price": 913.94,
@@ -1660,7 +1494,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Dell+Water+Bottle"
   },
   {
-    "id": 167,
     "name": "Apple Sunglasses",
     "category": "Fashion",
     "price": 68.6,
@@ -1670,7 +1503,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Apple+Sunglasses"
   },
   {
-    "id": 168,
     "name": "Chanel Tablet",
     "category": "Electronics",
     "price": 66.77,
@@ -1680,7 +1512,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Chanel+Tablet"
   },
   {
-    "id": 169,
     "name": "Generic Foundation",
     "category": "Beauty",
     "price": 569.42,
@@ -1690,7 +1521,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Foundation+Makeup"
   },
   {
-    "id": 170,
     "name": "Dell Running Shoes",
     "category": "Sports & Outdoors",
     "price": 1291.19,
@@ -1700,7 +1530,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Dell+Running+Shoes"
   },
   {
-    "id": 171,
     "name": "Chanel Women's Dress",
     "category": "Fashion",
     "price": 1908.57,
@@ -1710,7 +1539,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Chanel+Women's+Dress"
   },
   {
-    "id": 172,
     "name": "Sony Football",
     "category": "Sports & Outdoors",
     "price": 1875.23,
@@ -1720,7 +1548,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Football"
   },
   {
-    "id": 173,
     "name": "Generic Running Shoes",
     "category": "Sports & Outdoors",
     "price": 1011.35,
@@ -1730,7 +1557,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Running+Shoes"
   },
   {
-    "id": 174,
     "name": "Nike Electric Kettle",
     "category": "Home & Kitchen",
     "price": 1102.88,
@@ -1740,17 +1566,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Electric+Kettle"
   },
   {
-    "id": 175,
     "name": "LG Men's T-Shirt",
     "category": "Fashion",
     "price": 1974.7,
-    "rating": 4.0,
+    "rating": 4,
     "stock": 168,
     "description": "The LG Men's T-Shirt is a high-quality men's t-shirt designed for performance and durability. Perfect for anyone looking for reliable fashion.",
     "image": "https://tse2.mm.bing.net/th?q=Men's+T-Shirt"
   },
   {
-    "id": 176,
     "name": "Chanel Lipstick",
     "category": "Beauty",
     "price": 912.58,
@@ -1760,7 +1584,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Chanel+Lipstick"
   },
   {
-    "id": 177,
     "name": "Adidas Lipstick",
     "category": "Beauty",
     "price": 1725.57,
@@ -1770,7 +1593,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Adidas+Lipstick"
   },
   {
-    "id": 178,
     "name": "Samsung Jeans",
     "category": "Fashion",
     "price": 1029.96,
@@ -1780,7 +1602,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Jeans"
   },
   {
-    "id": 179,
     "name": "LG Foundation",
     "category": "Beauty",
     "price": 1420.05,
@@ -1790,17 +1611,15 @@
     "image": "https://tse2.mm.bing.net/th?q=LG+Foundation"
   },
   {
-    "id": 180,
     "name": "Philips Sunglasses",
     "category": "Fashion",
     "price": 74.26,
-    "rating": 4.0,
+    "rating": 4,
     "stock": 149,
     "description": "The Philips Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
     "image": "https://tse2.mm.bing.net/th?q=Philips+Sunglasses"
   },
   {
-    "id": 181,
     "name": "Dell Sunglasses",
     "category": "Fashion",
     "price": 1641.07,
@@ -1810,17 +1629,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Dell+Sunglasses"
   },
   {
-    "id": 182,
     "name": "Generic Water Bottle",
     "category": "Sports & Outdoors",
     "price": 1295.86,
-    "rating": 4.0,
+    "rating": 4,
     "stock": 73,
     "description": "The Generic Water Bottle is a high-quality water bottle designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
     "image": "https://tse2.mm.bing.net/th?q=Water+Bottle"
   },
   {
-    "id": 183,
     "name": "LG Smartphone",
     "category": "Electronics",
     "price": 1756.36,
@@ -1830,7 +1647,6 @@
     "image": "https://tse2.mm.bing.net/th?q=LG+Smartphone"
   },
   {
-    "id": 184,
     "name": "Gucci Backpack",
     "category": "Sports & Outdoors",
     "price": 1888.91,
@@ -1840,7 +1656,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Gucci+Backpack"
   },
   {
-    "id": 185,
     "name": "Samsung Shampoo",
     "category": "Beauty",
     "price": 1171.06,
@@ -1850,7 +1665,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Samsung+Shampoo"
   },
   {
-    "id": 186,
     "name": "Puma Coffee Maker",
     "category": "Home & Kitchen",
     "price": 147.47,
@@ -1860,7 +1674,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Puma+Coffee+Maker"
   },
   {
-    "id": 187,
     "name": "Nike Foundation",
     "category": "Beauty",
     "price": 547.12,
@@ -1870,17 +1683,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Nike+Foundation+Makeup"
   },
   {
-    "id": 188,
     "name": "Adidas Wireless Earbuds",
     "category": "Electronics",
     "price": 679.01,
-    "rating": 4.0,
+    "rating": 4,
     "stock": 103,
     "description": "The Adidas Wireless Earbuds is a high-quality wireless earbuds designed for performance and durability. Perfect for anyone looking for reliable electronics.",
     "image": "https://tse2.mm.bing.net/th?q=Adidas+Wireless+Earbuds"
   },
   {
-    "id": 189,
     "name": "HP Sunglasses",
     "category": "Fashion",
     "price": 1121.6,
@@ -1890,7 +1701,6 @@
     "image": "https://tse2.mm.bing.net/th?q=HP+Sunglasses"
   },
   {
-    "id": 190,
     "name": "Adidas Blender",
     "category": "Home & Kitchen",
     "price": 676.77,
@@ -1900,7 +1710,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Adidas+Blender"
   },
   {
-    "id": 191,
     "name": "Dell Perfume",
     "category": "Beauty",
     "price": 1015.96,
@@ -1910,7 +1719,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Dell+Perfume"
   },
   {
-    "id": 192,
     "name": "Adidas Electric Kettle",
     "category": "Home & Kitchen",
     "price": 1407.24,
@@ -1920,7 +1728,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Adidas+Electric+Kettle"
   },
   {
-    "id": 193,
     "name": "Puma Smartphone",
     "category": "Electronics",
     "price": 656.28,
@@ -1930,7 +1737,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Puma+Smartphone"
   },
   {
-    "id": 194,
     "name": "Philips Coffee Maker",
     "category": "Home & Kitchen",
     "price": 1453.14,
@@ -1940,17 +1746,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Philips+Coffee+Maker"
   },
   {
-    "id": 195,
     "name": "Generic Smartphone",
     "category": "Electronics",
     "price": 628.61,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 109,
     "description": "The Generic Smartphone is a high-quality smartphone designed for performance and durability. Perfect for anyone looking for reliable electronics.",
     "image": "https://tse2.mm.bing.net/th?q=Smartphone"
   },
   {
-    "id": 196,
     "name": "Dell Jeans",
     "category": "Fashion",
     "price": 243.34,
@@ -1960,7 +1764,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Dell+Jeans"
   },
   {
-    "id": 197,
     "name": "Dell Water Bottle",
     "category": "Sports & Outdoors",
     "price": 647.26,
@@ -1970,7 +1773,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Dell+Water+Bottle"
   },
   {
-    "id": 198,
     "name": "Generic Mechanical Keyboard",
     "category": "Electronics",
     "price": 1511.89,
@@ -1980,217 +1782,195 @@
     "image": "https://tse2.mm.bing.net/th?q=Mechanical+Keyboard"
   },
   {
-    "id": 199,
     "name": "Apple Air Fryer",
     "category": "Home & Kitchen",
     "price": 440.59,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 36,
     "description": "The Apple Air Fryer is a high-quality air fryer designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
     "image": "https://tse2.mm.bing.net/th?q=Apple+Air+Fryer"
   },
   {
-  "id": 201,
-  "name": "Sony Bluetooth Speaker",
-  "category": "Electronics",
-  "price": 441.6,
-  "rating": 2.6,
-  "stock": 115,
-  "description": "The Sony Bluetooth Speaker is a high-quality bluetooth speaker designed for performance and durability. Perfect for anyone looking for reliable electronics.",
-  "image": "https://tse2.mm.bing.net/th?q=Sony+Bluetooth+Speaker"
-},
-{
-  "id": 202,
-  "name": "Adidas Backpack",
-  "category": "Sports & Outdoors",
-  "price": 1092.5,
-  "rating": 2.9,
-  "stock": 68,
-  "description": "The Adidas Backpack is a high-quality backpack designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
-  "image": "https://tse2.mm.bing.net/th?q=Adidas+Backpack"
-},
-{
-  "id": 203,
-  "name": "Samsung Leather Jacket",
-  "category": "Fashion",
-  "price": 552.16,
-  "rating": 4.9,
-  "stock": 153,
-  "description": "The Samsung Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
-  "image": "https://tse2.mm.bing.net/th?q=Samsung+Leather+Jacket"
-},
-{
-  "id": 204,
-  "name": "Adidas Conditioner",
-  "category": "Beauty",
-  "price": 1577.88,
-  "rating": 2.8,
-  "stock": 40,
-  "description": "The Adidas Conditioner is a high-quality conditioner designed for performance and durability. Perfect for anyone looking for reliable beauty.",
-  "image": "https://tse2.mm.bing.net/th?q=Adidas+Conditioner"
-},
-{
-  "id": 205,
-  "name": "Chanel Handbag",
-  "category": "Fashion",
-  "price": 84.96,
-  "rating": 2.5,
-  "stock": 72,
-  "description": "The Chanel Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
-  "image": "https://tse2.mm.bing.net/th?q=Chanel+Handbag"
-},
-{
-  "id": 206,
-  "name": "Samsung Electric Kettle",
-  "category": "Home & Kitchen",
-  "price": 1621.89,
-  "rating": 4.5,
-  "stock": 188,
-  "description": "The Samsung Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
-  "image": "https://tse2.mm.bing.net/th?q=Samsung+Electric+Kettle"
-},
-{
-  "id": 207,
-  "name": "HP Electric Kettle",
-  "category": "Home & Kitchen",
-  "price": 580.73,
-  "rating": 4.7,
-  "stock": 175,
-  "description": "The HP Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
-  "image": "https://tse2.mm.bing.net/th?q=HP+Electric+Kettle"
-},
-{
-  "id": 208,
-  "name": "Dell Blender",
-  "category": "Home & Kitchen",
-  "price": 1687.15,
-  "rating": 2.7,
-  "stock": 159,
-  "description": "The Dell Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
-  "image": "https://tse2.mm.bing.net/th?q=Dell+Blender"
-},
-{
-  "id": 209,
-  "name": "LG Perfume",
-  "category": "Beauty",
-  "price": 797.63,
-  "rating": 4.1,
-  "stock": 86,
-  "description": "The LG Perfume is a high-quality perfume designed for performance and durability. Perfect for anyone looking for reliable beauty.",
-  "image": "https://tse2.mm.bing.net/th?q=LG+Perfume"
-},
-{
-  "id": 210,
-  "name": "Nike Camping Tent",
-  "category": "Sports & Outdoors",
-  "price": 92.25,
-  "rating": 3.2,
-  "stock": 139,
-  "description": "The Nike Camping Tent is a high-quality camping tent designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
-  "image": "https://tse2.mm.bing.net/th?q=Nike+Camping+Tent"
-},
-{
-  "id": 211,
-  "name": "Gucci Air Fryer",
-  "category": "Home & Kitchen",
-  "price": 1811.34,
-  "rating": 4.1,
-  "stock": 152,
-  "description": "The Gucci Air Fryer is a high-quality air fryer designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
-  "image": "https://tse2.mm.bing.net/th?q=Gucci+Air+Fryer"
-},
-{
-  "id": 212,
-  "name": "Apple Bicycle Helmet",
-  "category": "Sports & Outdoors",
-  "price": 981.58,
-  "rating": 3.3,
-  "stock": 160,
-  "description": "The Apple Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
-  "image": "https://tse2.mm.bing.net/th?q=Apple+Bicycle+Helmet"
-},
-{
-  "id": 213,
-  "name": "Dell Bicycle Helmet",
-  "category": "Sports & Outdoors",
-  "price": 1597.13,
-  "rating": 3.6,
-  "stock": 84,
-  "description": "The Dell Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
-  "image": "https://tse2.mm.bing.net/th?q=Dell+Bicycle+Helmet"
-},
-{
-  "id": 214,
-  "name": "Adidas Shampoo",
-  "category": "Beauty",
-  "price": 11.44,
-  "rating": 2.6,
-  "stock": 15,
-  "description": "The Adidas Shampoo is a high-quality shampoo designed for performance and durability. Perfect for anyone looking for reliable beauty.",
-  "image": "https://tse2.mm.bing.net/th?q=Adidas+Shampoo"
-},
-{
-  "id": 215,
-  "name": "Dell Face Serum",
-  "category": "Beauty",
-  "price": 455.11,
-  "rating": 3.8,
-  "stock": 146,
-  "description": "The Dell Face Serum is a high-quality face serum designed for performance and durability. Perfect for anyone looking for reliable beauty.",
-  "image": "https://tse2.mm.bing.net/th?q=Dell+Face+Serum"
-},
-{
-  "id": 216,
-  "name": "Chanel Wireless Earbuds",
-  "category": "Electronics",
-  "price": 436.68,
-  "rating": 4.4,
-  "stock": 85,
-  "description": "The Chanel Wireless Earbuds is a high-quality wireless earbuds designed for performance and durability. Perfect for anyone looking for reliable electronics.",
-  "image": "https://tse2.mm.bing.net/th?q=Chanel+Wireless+Earbuds"
-},
-{
-  "id": 217,
-  "name": "LG Moisturizer",
-  "category": "Beauty",
-  "price": 107.69,
-  "rating": 4.8,
-  "stock": 20,
-  "description": "The LG Moisturizer is a high-quality moisturizer designed for performance and durability. Perfect for anyone looking for reliable beauty.",
-  "image": "https://tse2.mm.bing.net/th?q=LG+Moisturizer"
-},
-{
-  "id": 218,
-  "name": "Samsung Blender",
-  "category": "Home & Kitchen",
-  "price": 1443.27,
-  "rating": 3.9,
-  "stock": 96,
-  "description": "The Samsung Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
-  "image": "https://tse2.mm.bing.net/th?q=Samsung+Blender"
-},
-{
-  "id": 219,
-  "name": "Samsung Foundation",
-  "category": "Beauty",
-  "price": 734.4,
-  "rating": 3.6,
-  "stock": 28,
-  "description": "The Samsung Foundation is a high-quality foundation designed for performance and durability. Perfect for anyone looking for reliable beauty.",
-  "image": "https://tse2.mm.bing.net/th?q=Samsung+Foundation"
-},
-{
-  "id": 220,
-  "name": "Dell Blender",
-  "category": "Home & Kitchen",
-  "price": 345.54,
-  "rating": 4.6,
-  "stock": 91,
-  "description": "The Dell Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
-  "image": "https://tse2.mm.bing.net/th?q=Dell+Blender"
-},
+    "name": "Sony Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 441.6,
+    "rating": 2.6,
+    "stock": 115,
+    "description": "The Sony Bluetooth Speaker is a high-quality bluetooth speaker designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image": "https://tse2.mm.bing.net/th?q=Sony+Bluetooth+Speaker"
+  },
   {
-    "id": 221,
+    "name": "Adidas Backpack",
+    "category": "Sports & Outdoors",
+    "price": 1092.5,
+    "rating": 2.9,
+    "stock": 68,
+    "description": "The Adidas Backpack is a high-quality backpack designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image": "https://tse2.mm.bing.net/th?q=Adidas+Backpack"
+  },
+  {
+    "name": "Samsung Leather Jacket",
+    "category": "Fashion",
+    "price": 552.16,
+    "rating": 4.9,
+    "stock": 153,
+    "description": "The Samsung Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image": "https://tse2.mm.bing.net/th?q=Samsung+Leather+Jacket"
+  },
+  {
+    "name": "Adidas Conditioner",
+    "category": "Beauty",
+    "price": 1577.88,
+    "rating": 2.8,
+    "stock": 40,
+    "description": "The Adidas Conditioner is a high-quality conditioner designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image": "https://tse2.mm.bing.net/th?q=Adidas+Conditioner"
+  },
+  {
+    "name": "Chanel Handbag",
+    "category": "Fashion",
+    "price": 84.96,
+    "rating": 2.5,
+    "stock": 72,
+    "description": "The Chanel Handbag is a high-quality handbag designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image": "https://tse2.mm.bing.net/th?q=Chanel+Handbag"
+  },
+  {
+    "name": "Samsung Electric Kettle",
+    "category": "Home & Kitchen",
+    "price": 1621.89,
+    "rating": 4.5,
+    "stock": 188,
+    "description": "The Samsung Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image": "https://tse2.mm.bing.net/th?q=Samsung+Electric+Kettle"
+  },
+  {
+    "name": "HP Electric Kettle",
+    "category": "Home & Kitchen",
+    "price": 580.73,
+    "rating": 4.7,
+    "stock": 175,
+    "description": "The HP Electric Kettle is a high-quality electric kettle designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image": "https://tse2.mm.bing.net/th?q=HP+Electric+Kettle"
+  },
+  {
+    "name": "Dell Blender",
+    "category": "Home & Kitchen",
+    "price": 1687.15,
+    "rating": 2.7,
+    "stock": 159,
+    "description": "The Dell Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image": "https://tse2.mm.bing.net/th?q=Dell+Blender"
+  },
+  {
+    "name": "LG Perfume",
+    "category": "Beauty",
+    "price": 797.63,
+    "rating": 4.1,
+    "stock": 86,
+    "description": "The LG Perfume is a high-quality perfume designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image": "https://tse2.mm.bing.net/th?q=LG+Perfume"
+  },
+  {
+    "name": "Nike Camping Tent",
+    "category": "Sports & Outdoors",
+    "price": 92.25,
+    "rating": 3.2,
+    "stock": 139,
+    "description": "The Nike Camping Tent is a high-quality camping tent designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image": "https://tse2.mm.bing.net/th?q=Nike+Camping+Tent"
+  },
+  {
+    "name": "Gucci Air Fryer",
+    "category": "Home & Kitchen",
+    "price": 1811.34,
+    "rating": 4.1,
+    "stock": 152,
+    "description": "The Gucci Air Fryer is a high-quality air fryer designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image": "https://tse2.mm.bing.net/th?q=Gucci+Air+Fryer"
+  },
+  {
+    "name": "Apple Bicycle Helmet",
+    "category": "Sports & Outdoors",
+    "price": 981.58,
+    "rating": 3.3,
+    "stock": 160,
+    "description": "The Apple Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image": "https://tse2.mm.bing.net/th?q=Apple+Bicycle+Helmet"
+  },
+  {
+    "name": "Dell Bicycle Helmet",
+    "category": "Sports & Outdoors",
+    "price": 1597.13,
+    "rating": 3.6,
+    "stock": 84,
+    "description": "The Dell Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image": "https://tse2.mm.bing.net/th?q=Dell+Bicycle+Helmet"
+  },
+  {
+    "name": "Adidas Shampoo",
+    "category": "Beauty",
+    "price": 11.44,
+    "rating": 2.6,
+    "stock": 15,
+    "description": "The Adidas Shampoo is a high-quality shampoo designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image": "https://tse2.mm.bing.net/th?q=Adidas+Shampoo"
+  },
+  {
+    "name": "Dell Face Serum",
+    "category": "Beauty",
+    "price": 455.11,
+    "rating": 3.8,
+    "stock": 146,
+    "description": "The Dell Face Serum is a high-quality face serum designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image": "https://tse2.mm.bing.net/th?q=Dell+Face+Serum"
+  },
+  {
+    "name": "Chanel Wireless Earbuds",
+    "category": "Electronics",
+    "price": 436.68,
+    "rating": 4.4,
+    "stock": 85,
+    "description": "The Chanel Wireless Earbuds is a high-quality wireless earbuds designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image": "https://tse2.mm.bing.net/th?q=Chanel+Wireless+Earbuds"
+  },
+  {
+    "name": "LG Moisturizer",
+    "category": "Beauty",
+    "price": 107.69,
+    "rating": 4.8,
+    "stock": 20,
+    "description": "The LG Moisturizer is a high-quality moisturizer designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image": "https://tse2.mm.bing.net/th?q=LG+Moisturizer"
+  },
+  {
+    "name": "Samsung Blender",
+    "category": "Home & Kitchen",
+    "price": 1443.27,
+    "rating": 3.9,
+    "stock": 96,
+    "description": "The Samsung Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image": "https://tse2.mm.bing.net/th?q=Samsung+Blender"
+  },
+  {
+    "name": "Samsung Foundation",
+    "category": "Beauty",
+    "price": 734.4,
+    "rating": 3.6,
+    "stock": 28,
+    "description": "The Samsung Foundation is a high-quality foundation designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image": "https://tse2.mm.bing.net/th?q=Samsung+Foundation"
+  },
+  {
+    "name": "Dell Blender",
+    "category": "Home & Kitchen",
+    "price": 345.54,
+    "rating": 4.6,
+    "stock": 91,
+    "description": "The Dell Blender is a high-quality blender designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image": "https://tse2.mm.bing.net/th?q=Dell+Blender"
+  },
+  {
     "name": "Oster Blender",
     "category": "Home & Kitchen",
     "price": 972.79,
@@ -2200,7 +1980,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Oster+Blender"
   },
   {
-    "id": 222,
     "name": "Cosori Air Fryer",
     "category": "Home & Kitchen",
     "price": 28.34,
@@ -2210,7 +1989,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Cosori+Air+Fryer"
   },
   {
-    "id": 223,
     "name": "Zara Women's Dress",
     "category": "Fashion",
     "price": 122.76,
@@ -2220,7 +1998,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Zara+Women%27s+Dress"
   },
   {
-    "id": 224,
     "name": "Gaiam Yoga Mat",
     "category": "Sports & Outdoors",
     "price": 881.98,
@@ -2230,7 +2007,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Gaiam+Yoga+Mat"
   },
   {
-    "id": 225,
     "name": "Puma Sneakers",
     "category": "Fashion",
     "price": 1676.59,
@@ -2240,7 +2016,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Puma+Sneakers"
   },
   {
-    "id": 226,
     "name": "Under Armour Backpack",
     "category": "Sports & Outdoors",
     "price": 1699.76,
@@ -2250,7 +2025,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Under+Armour+Backpack"
   },
   {
-    "id": 227,
     "name": "Samsung Tablet",
     "category": "Electronics",
     "price": 288.84,
@@ -2260,7 +2034,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Samsung+Tablet"
   },
   {
-    "id": 228,
     "name": "Cosori Air Fryer Pro",
     "category": "Home & Kitchen",
     "price": 1505.32,
@@ -2270,7 +2043,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Cosori+Air+Fryer+Pro"
   },
   {
-    "id": 229,
     "name": "Adidas Backpack",
     "category": "Sports & Outdoors",
     "price": 1467.1,
@@ -2280,7 +2052,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Adidas+Backpack"
   },
   {
-    "id": 230,
     "name": "Keurig Coffee Maker",
     "category": "Home & Kitchen",
     "price": 398.14,
@@ -2290,7 +2061,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Keurig+Coffee+Maker"
   },
   {
-    "id": 231,
     "name": "Michael Kors Handbag",
     "category": "Fashion",
     "price": 764.16,
@@ -2300,7 +2070,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Michael+Kors+Handbag"
   },
   {
-    "id": 232,
     "name": "Hanes Men's T-Shirt",
     "category": "Fashion",
     "price": 58.68,
@@ -2310,7 +2079,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Hanes+Men%27s+T-Shirt"
   },
   {
-    "id": 233,
     "name": "Maybelline Fit Me Foundation",
     "category": "Beauty",
     "price": 610.72,
@@ -2320,7 +2088,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Maybelline+Fit+Me+Foundation"
   },
   {
-    "id": 234,
     "name": "Levi's Jeans",
     "category": "Fashion",
     "price": 1453.32,
@@ -2330,7 +2097,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Levi%27s+Jeans"
   },
   {
-    "id": 235,
     "name": "Head & Shoulders Shampoo",
     "category": "Beauty",
     "price": 713.98,
@@ -2340,17 +2106,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Head+and+Shoulders+Shampoo"
   },
   {
-    "id": 236,
     "name": "Gildan Men's T-Shirt",
     "category": "Fashion",
-    "price": 1377.0,
+    "price": 1377,
     "rating": 2.7,
     "stock": 84,
     "description": "Basic everyday T-shirt made from breathable cotton.",
     "image": "https://tse2.mm.bing.net/th?q=Gildan+Men%27s+T-Shirt"
   },
   {
-    "id": 237,
     "name": "L'Oreal Infallible Foundation",
     "category": "Beauty",
     "price": 684.7,
@@ -2360,7 +2124,6 @@
     "image": "https://tse2.mm.bing.net/th?q=LOreal+Infallible+Foundation"
   },
   {
-    "id": 238,
     "name": "Generic Smartphone",
     "category": "Electronics",
     "price": 1545.92,
@@ -2370,17 +2133,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Smartphone"
   },
   {
-    "id": 239,
     "name": "Gucci Foundation",
     "category": "Beauty",
     "price": 1957.88,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 8,
     "description": "Luxury foundation providing smooth coverage and elegant finish.",
     "image": "https://tse2.mm.bing.net/th?q=Gucci+Foundation"
   },
   {
-    "id": 240,
     "name": "Zara Leather Jacket",
     "category": "Fashion",
     "price": 1954.33,
@@ -2389,18 +2150,16 @@
     "description": "Stylish leather jacket crafted for durability and high fashion appeal.",
     "image": "https://tse2.mm.bing.net/th?q=Zara+Leather+Jacket"
   },
-   {
-    "id": 241,
+  {
     "name": "Levi's Leather Jacket",
     "category": "Fashion",
     "price": 1417.52,
-    "rating": 5.0,
+    "rating": 5,
     "stock": 156,
     "description": "Premium leather jacket crafted for durability and bold style.",
     "image": "https://tse2.mm.bing.net/th?q=Levi%27s+Leather+Jacket"
   },
   {
-    "id": 242,
     "name": "CeraVe Face Serum",
     "category": "Beauty",
     "price": 160.91,
@@ -2410,7 +2169,6 @@
     "image": "https://tse2.mm.bing.net/th?q=CeraVe+Face+Serum"
   },
   {
-    "id": 243,
     "name": "T-fal Cookware Set",
     "category": "Home & Kitchen",
     "price": 1794.61,
@@ -2420,7 +2178,6 @@
     "image": "https://tse2.mm.bing.net/th?q=T-fal+Cookware+Set"
   },
   {
-    "id": 244,
     "name": "L'Oreal Conditioner",
     "category": "Beauty",
     "price": 31.42,
@@ -2430,7 +2187,6 @@
     "image": "https://tse2.mm.bing.net/th?q=LOreal+Conditioner"
   },
   {
-    "id": 245,
     "name": "Ray-Ban Sunglasses",
     "category": "Fashion",
     "price": 45.54,
@@ -2440,7 +2196,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Ray-Ban+Sunglasses"
   },
   {
-    "id": 246,
     "name": "Head & Shoulders Shampoo",
     "category": "Beauty",
     "price": 1908.76,
@@ -2450,7 +2205,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Head+and+Shoulders+Shampoo"
   },
   {
-    "id": 247,
     "name": "HP Laptop",
     "category": "Electronics",
     "price": 1649.71,
@@ -2460,7 +2214,6 @@
     "image": "https://tse2.mm.bing.net/th?q=HP+Laptop"
   },
   {
-    "id": 248,
     "name": "Cosori Air Fryer",
     "category": "Home & Kitchen",
     "price": 37.58,
@@ -2470,7 +2223,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Cosori+Air+Fryer"
   },
   {
-    "id": 249,
     "name": "Nike Football",
     "category": "Sports & Outdoors",
     "price": 1044.75,
@@ -2480,7 +2232,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Nike+Football"
   },
   {
-    "id": 250,
     "name": "Neutrogena Moisturizer",
     "category": "Beauty",
     "price": 666.21,
@@ -2490,7 +2241,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Neutrogena+Moisturizer"
   },
   {
-    "id": 251,
     "name": "Modern Table Lamp",
     "category": "Home & Kitchen",
     "price": 461.97,
@@ -2500,7 +2250,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Modern+Table+Lamp"
   },
   {
-    "id": 252,
     "name": "Apple AirPods",
     "category": "Electronics",
     "price": 1600.97,
@@ -2510,17 +2259,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Apple+AirPods"
   },
   {
-    "id": 253,
     "name": "Neutrogena Sunscreen",
     "category": "Beauty",
     "price": 1626.18,
-    "rating": 4.0,
+    "rating": 4,
     "stock": 54,
     "description": "Broad-spectrum sunscreen providing lightweight skin protection.",
     "image": "https://tse2.mm.bing.net/th?q=Neutrogena+Sunscreen"
   },
   {
-    "id": 254,
     "name": "Banana Boat Sunscreen",
     "category": "Beauty",
     "price": 915.99,
@@ -2530,7 +2277,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Banana+Boat+Sunscreen"
   },
   {
-    "id": 255,
     "name": "Logitech Mechanical Keyboard",
     "category": "Electronics",
     "price": 220.42,
@@ -2540,7 +2286,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Logitech+Mechanical+Keyboard"
   },
   {
-    "id": 256,
     "name": "Hanes Men's T-Shirt",
     "category": "Fashion",
     "price": 972.19,
@@ -2550,7 +2295,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Hanes+Men%27s+T-Shirt"
   },
   {
-    "id": 257,
     "name": "Wilson Football",
     "category": "Sports & Outdoors",
     "price": 1471.36,
@@ -2560,7 +2304,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Wilson+Football"
   },
   {
-    "id": 258,
     "name": "Hamilton Beach Electric Kettle",
     "category": "Home & Kitchen",
     "price": 1334.57,
@@ -2570,7 +2313,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Hamilton+Beach+Electric+Kettle"
   },
   {
-    "id": 259,
     "name": "Dyson Vacuum Cleaner",
     "category": "Home & Kitchen",
     "price": 734.62,
@@ -2580,7 +2322,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Dyson+Vacuum+Cleaner"
   },
   {
-    "id": 260,
     "name": "Gucci Sneakers",
     "category": "Fashion",
     "price": 1573.88,
@@ -2590,7 +2331,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Gucci+Sneakers"
   },
   {
-    "id": 261,
     "name": "Nike Water Bottle",
     "category": "Sports & Outdoors",
     "price": 899.05,
@@ -2600,7 +2340,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Nike+Water+Bottle"
   },
   {
-    "id": 262,
     "name": "Olay Moisturizer",
     "category": "Beauty",
     "price": 814.95,
@@ -2610,7 +2349,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Olay+Moisturizer"
   },
   {
-    "id": 263,
     "name": "Panasonic Microwave Oven",
     "category": "Home & Kitchen",
     "price": 402.03,
@@ -2620,7 +2358,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Panasonic+Microwave+Oven"
   },
   {
-    "id": 264,
     "name": "Kettle Electric Kettle",
     "category": "Home & Kitchen",
     "price": 725.35,
@@ -2630,17 +2367,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Electric+Kettle"
   },
   {
-    "id": 265,
     "name": "Adidas Sneakers",
     "category": "Fashion",
     "price": 971.68,
-    "rating": 4.0,
+    "rating": 4,
     "stock": 17,
     "description": "Comfortable athletic sneakers designed for everyday wear.",
     "image": "https://tse2.mm.bing.net/th?q=Adidas+Sneakers"
   },
   {
-    "id": 266,
     "name": "Philips Table Lamp",
     "category": "Home & Kitchen",
     "price": 1376.58,
@@ -2650,7 +2385,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Philips+Table+Lamp"
   },
   {
-    "id": 267,
     "name": "Pantene Conditioner",
     "category": "Beauty",
     "price": 1070.82,
@@ -2660,7 +2394,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Pantene+Conditioner"
   },
   {
-    "id": 268,
     "name": "Samsung Vacuum Cleaner",
     "category": "Home & Kitchen",
     "price": 337.9,
@@ -2670,7 +2403,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Samsung+Vacuum+Cleaner"
   },
   {
-    "id": 269,
     "name": "Kenwood Electric Kettle",
     "category": "Home & Kitchen",
     "price": 25.56,
@@ -2680,7 +2412,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Kenwood+Electric+Kettle"
   },
   {
-    "id": 270,
     "name": "JBL Bluetooth Speaker",
     "category": "Electronics",
     "price": 1432.61,
@@ -2689,28 +2420,25 @@
     "description": "Portable Bluetooth speaker with clear, powerful sound.",
     "image": "https://tse2.mm.bing.net/th?q=JBL+Bluetooth+Speaker"
   },
-   {
-    "id": 271,
+  {
     "name": "Philips Smartwatch",
     "category": "Electronics",
-    "price": 65.00,
+    "price": 65,
     "rating": 2.6,
     "stock": 97,
     "description": "A durable and affordable smartwatch with essential tracking features.",
     "image": "https://tse2.mm.bing.net/th?q=Philips+Smartwatch"
   },
   {
-    "id": 272,
     "name": "Michael Kors Handbag",
     "category": "Fashion",
-    "price": 120.00,
+    "price": 120,
     "rating": 4.4,
     "stock": 169,
     "description": "Stylish designer handbag with premium stitching and elegant finish.",
     "image": "https://tse2.mm.bing.net/th?q=Michael+Kors+Handbag"
   },
   {
-    "id": 273,
     "name": "Sony Gaming Mouse",
     "category": "Electronics",
     "price": 39.99,
@@ -2720,7 +2448,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Sony+Gaming+Mouse"
   },
   {
-    "id": 274,
     "name": "Ninja Blender",
     "category": "Home & Kitchen",
     "price": 89.99,
@@ -2730,47 +2457,42 @@
     "image": "https://tse2.mm.bing.net/th?q=Ninja+Blender"
   },
   {
-    "id": 275,
     "name": "Nike Men's T-Shirt",
     "category": "Fashion",
-    "price": 22.00,
+    "price": 22,
     "rating": 2.8,
     "stock": 133,
     "description": "Comfortable cotton t-shirt with athletic fit and breathable fabric.",
     "image": "https://tse2.mm.bing.net/th?q=Nike+Men%27s+T+Shirt"
   },
   {
-    "id": 276,
     "name": "Puma Men's T-Shirt",
     "category": "Fashion",
-    "price": 25.00,
+    "price": 25,
     "rating": 2.7,
     "stock": 145,
     "description": "Lightweight sports t-shirt ideal for daily wear and workouts.",
     "image": "https://tse2.mm.bing.net/th?q=Puma+Men%27s+T+Shirt"
   },
   {
-    "id": 277,
     "name": "Zara Leather Jacket",
     "category": "Fashion",
-    "price": 110.00,
+    "price": 110,
     "rating": 3.9,
     "stock": 108,
     "description": "Stylish faux leather jacket with modern fit.",
     "image": "https://tse2.mm.bing.net/th?q=Zara+Leather+Jacket"
   },
   {
-    "id": 278,
     "name": "Neutrogena Face Serum",
     "category": "Beauty",
-    "price": 18.50,
+    "price": 18.5,
     "rating": 4.1,
     "stock": 70,
     "description": "Hydrating serum formulated to smooth and moisturize skin.",
     "image": "https://tse2.mm.bing.net/th?q=Neutrogena+Face+Serum"
   },
   {
-    "id": 279,
     "name": "Nivea Moisturizer",
     "category": "Beauty",
     "price": 9.99,
@@ -2780,127 +2502,114 @@
     "image": "https://tse2.mm.bing.net/th?q=Nivea+Moisturizer"
   },
   {
-    "id": 280,
     "name": "Puma Perfume",
     "category": "Beauty",
-    "price": 28.00,
+    "price": 28,
     "rating": 4.1,
     "stock": 200,
     "description": "Fresh and sporty fragrance with long-lasting scent.",
     "image": "https://tse2.mm.bing.net/th?q=Puma+Perfume"
   },
   {
-    "id": 281,
     "name": "Nike Water Bottle",
     "category": "Sports & Outdoors",
-    "price": 12.50,
+    "price": 12.5,
     "rating": 2.9,
     "stock": 105,
     "description": "Reusable BPA-free sports water bottle designed for hydration on the go.",
     "image": "https://tse2.mm.bing.net/th?q=Nike+Water+Bottle"
   },
   {
-    "id": 282,
     "name": "Chanel Lipstick",
     "category": "Beauty",
-    "price": 33.00,
+    "price": 33,
     "rating": 4.5,
     "stock": 96,
     "description": "Luxury lipstick with rich pigment and smooth application.",
     "image": "https://tse2.mm.bing.net/th?q=Chanel+Lipstick"
   },
   {
-    "id": 283,
     "name": "Sony Mechanical Keyboard",
     "category": "Electronics",
-    "price": 69.00,
+    "price": 69,
     "rating": 3.3,
     "stock": 145,
     "description": "Tactile mechanical keyboard built for durability and fast typing.",
     "image": "https://tse2.mm.bing.net/th?q=Sony+Mechanical+Keyboard"
   },
   {
-    "id": 284,
     "name": "LG Air Fryer",
     "category": "Home & Kitchen",
-    "price": 95.00,
+    "price": 95,
     "rating": 2.8,
     "stock": 60,
     "description": "Compact air fryer for healthy crispy meals with less oil.",
     "image": "https://tse2.mm.bing.net/th?q=LG+Air+Fryer"
   },
   {
-    "id": 285,
     "name": "Adidas Men's T-Shirt",
     "category": "Fashion",
-    "price": 20.00,
+    "price": 20,
     "rating": 4.3,
     "stock": 105,
     "description": "Soft and breathable men’s casual tee.",
     "image": "https://tse2.mm.bing.net/th?q=Adidas+Men%27s+T+Shirt"
   },
   {
-    "id": 286,
     "name": "Casio Wristwatch",
     "category": "Fashion",
-    "price": 42.00,
+    "price": 42,
     "rating": 3.5,
     "stock": 188,
     "description": "Durable wristwatch with analog display and classic design.",
     "image": "https://tse2.mm.bing.net/th?q=Casio+Wristwatch"
   },
   {
-    "id": 287,
     "name": "Sony Laptop",
     "category": "Electronics",
-    "price": 499.00,
+    "price": 499,
     "rating": 2.8,
     "stock": 110,
     "description": "Reliable laptop suitable for everyday computing.",
     "image": "https://tse2.mm.bing.net/th?q=Sony+Laptop"
   },
   {
-    "id": 288,
     "name": "Zara Women's Dress",
     "category": "Fashion",
-    "price": 45.00,
+    "price": 45,
     "rating": 4.4,
     "stock": 92,
     "description": "Elegant women’s dress with flattering silhouette.",
     "image": "https://tse2.mm.bing.net/th?q=Zara+Women%27s+Dress"
   },
   {
-    "id": 289,
     "name": "Hamilton Beach Coffee Maker",
     "category": "Home & Kitchen",
-    "price": 65.00,
+    "price": 65,
     "rating": 4.2,
     "stock": 187,
     "description": "Compact coffee maker ideal for home or office use.",
     "image": "https://tse2.mm.bing.net/th?q=Hamilton+Beach+Coffee+Maker"
   },
   {
-    "id": 290,
     "name": "Acer Laptop",
     "category": "Electronics",
-    "price": 450.00,
+    "price": 450,
     "rating": 4.7,
     "stock": 152,
     "description": "Lightweight laptop with solid performance for everyday tasks.",
     "image": "https://tse2.mm.bing.net/th?q=Acer+Laptop"
   },
   {
-    "id": 291,
     "name": "Apple Smartwatch",
     "category": "Electronics",
-    "price": 299.00,
+    "price": 299,
     "rating": 4.9,
     "stock": 32,
     "description": "Premium smartwatch with advanced health and fitness tracking.",
     "image": "https://tse2.mm.bing.net/th?q=Apple+Smartwatch"
   },
-   {
-    "id": 292,
+  {
     "name": "Panasonic Microwave Oven",
     "category": "Home & Kitchen",
     "price": 149.99,
@@ -2910,7 +2619,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Panasonic+Microwave+Oven"
   },
   {
-    "id": 293,
     "name": "Maybelline Liquid Foundation",
     "category": "Beauty",
     "price": 12.99,
@@ -2920,7 +2628,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Maybelline+Liquid+Foundation"
   },
   {
-    "id": 294,
     "name": "Toshiba Microwave Oven",
     "category": "Home & Kitchen",
     "price": 129.99,
@@ -2930,7 +2637,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Toshiba+Microwave+Oven"
   },
   {
-    "id": 295,
     "name": "Sharp Microwave Oven",
     "category": "Home & Kitchen",
     "price": 139.99,
@@ -2940,7 +2646,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Sharp+Microwave+Oven"
   },
   {
-    "id": 296,
     "name": "Generic Moisturizer",
     "category": "Beauty",
     "price": 9.49,
@@ -2950,7 +2655,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Moisturizer"
   },
   {
-    "id": 297,
     "name": "Generic Smartwatch",
     "category": "Electronics",
     "price": 39.99,
@@ -2960,7 +2664,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Smartwatch"
   },
   {
-    "id": 298,
     "name": "HP 10-inch Tablet",
     "category": "Electronics",
     "price": 229.99,
@@ -2970,7 +2673,6 @@
     "image": "https://tse2.mm.bing.net/th?q=HP+Tablet"
   },
   {
-    "id": 299,
     "name": "Puma Sport Smartwatch",
     "category": "Electronics",
     "price": 79.99,
@@ -2980,17 +2682,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Puma+Smartwatch"
   },
   {
-    "id": 300,
     "name": "Herschel Laptop Backpack",
     "category": "Sports & Outdoors",
     "price": 54.99,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 45,
     "description": "Durable and minimalist backpack suitable for school, work, or travel.",
     "image": "https://tse2.mm.bing.net/th?q=Herschel+Backpack"
   },
   {
-    "id": 301,
     "name": "Fitbit Versa 3 Smartwatch",
     "category": "Electronics",
     "price": 149.99,
@@ -3000,7 +2700,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Fitbit+Versa+3"
   },
   {
-    "id": 302,
     "name": "L'Oreal Hydrating Face Serum",
     "category": "Beauty",
     "price": 15.49,
@@ -3010,7 +2709,6 @@
     "image": "https://tse2.mm.bing.net/th?q=LOreal+Face+Serum"
   },
   {
-    "id": 303,
     "name": "Nike Gym Duffel Bag",
     "category": "Fashion",
     "price": 39.99,
@@ -3020,7 +2718,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Nike+Duffel+Bag"
   },
   {
-    "id": 304,
     "name": "Dell Bluetooth Speaker",
     "category": "Electronics",
     "price": 34.99,
@@ -3030,7 +2727,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Dell+Bluetooth+Speaker"
   },
   {
-    "id": 305,
     "name": "Zara Perfume",
     "category": "Beauty",
     "price": 19.99,
@@ -3040,7 +2736,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Zara+Perfume"
   },
   {
-    "id": 306,
     "name": "LG Microwave Oven",
     "category": "Home & Kitchen",
     "price": 159.99,
@@ -3050,7 +2745,6 @@
     "image": "https://tse2.mm.bing.net/th?q=LG+Microwave+Oven"
   },
   {
-    "id": 307,
     "name": "Adidas Dumbbell Set",
     "category": "Sports & Outdoors",
     "price": 49.99,
@@ -3060,7 +2754,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Adidas+Dumbbell+Set"
   },
   {
-    "id": 308,
     "name": "Logitech G Gaming Mouse",
     "category": "Electronics",
     "price": 29.99,
@@ -3070,7 +2763,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Logitech+G+Gaming+Mouse"
   },
   {
-    "id": 309,
     "name": "Giro Bicycle Helmet",
     "category": "Sports & Outdoors",
     "price": 45.99,
@@ -3080,7 +2772,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Giro+Bicycle+Helmet"
   },
   {
-    "id": 310,
     "name": "Guess Handbag",
     "category": "Fashion",
     "price": 69.99,
@@ -3090,7 +2781,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Guess+Handbag"
   },
   {
-    "id": 311,
     "name": "Bowflex SelectTech Dumbbells",
     "category": "Sports & Outdoors",
     "price": 299.99,
@@ -3100,17 +2790,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Bowflex+SelectTech+Dumbbells"
   },
   {
-    "id": 312,
     "name": "Apple HomePod Mini",
     "category": "Electronics",
     "price": 99.99,
-    "rating": 5.0,
+    "rating": 5,
     "stock": 34,
     "description": "Compact smart speaker with high-quality audio and Siri integration.",
     "image": "https://tse2.mm.bing.net/th?q=Apple+HomePod+Mini"
   },
   {
-    "id": 313,
     "name": "Ray-Ban Sunglasses",
     "category": "Fashion",
     "price": 129.99,
@@ -3120,17 +2808,15 @@
     "image": "https://tse2.mm.bing.net/th?q=RayBan+Sunglasses"
   },
   {
-    "id": 314,
     "name": "Adidas Wristwatch",
     "category": "Fashion",
     "price": 69.99,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 102,
     "description": "Stylish casual watch with sporty design cues.",
     "image": "https://tse2.mm.bing.net/th?q=Adidas+Watch"
   },
   {
-    "id": 315,
     "name": "Targus Laptop Backpack",
     "category": "Sports & Outdoors",
     "price": 39.99,
@@ -3140,7 +2826,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Targus+Laptop+Backpack"
   },
   {
-    "id": 316,
     "name": "Chanel Sneakers",
     "category": "Fashion",
     "price": 699.99,
@@ -3150,17 +2835,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Chanel+Sneakers"
   },
   {
-    "id": 317,
     "name": "Fitbit Inspire 3",
     "category": "Electronics",
     "price": 89.99,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 194,
     "description": "Activity tracker with heart rate monitoring and sleep insights.",
     "image": "https://tse2.mm.bing.net/th?q=Fitbit+Inspire+3"
   },
   {
-    "id": 318,
     "name": "Tecno Spark 10 Smartphone",
     "category": "Electronics",
     "price": 129.99,
@@ -3170,7 +2853,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Tecno+Spark+10"
   },
   {
-    "id": 319,
     "name": "Lululemon Yoga Mat",
     "category": "Sports & Outdoors",
     "price": 79.99,
@@ -3180,27 +2862,24 @@
     "image": "https://tse2.mm.bing.net/th?q=Lululemon+Yoga+Mat"
   },
   {
-    "id": 320,
     "name": "Philips Air Fryer",
     "category": "Home & Kitchen",
     "price": 149.99,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 28,
     "description": "Healthy air fryer technology for crispy frying with less oil.",
     "image": "https://tse2.mm.bing.net/th?q=Philips+Air+Fryer"
   },
   {
-    "id": 321,
     "name": "Keurig Coffee Maker",
     "category": "Home & Kitchen",
     "price": 109.99,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 60,
     "description": "Convenient single-serve coffee machine with quick brew functionality.",
     "image": "https://tse2.mm.bing.net/th?q=Keurig+Coffee+Maker"
   },
   {
-    "id": 322,
     "name": "Adidas Match Football",
     "category": "Sports & Outdoors",
     "price": 29.99,
@@ -3210,7 +2889,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Adidas+Football"
   },
   {
-    "id": 323,
     "name": "Gucci Running Shoes",
     "category": "Sports & Outdoors",
     "price": 799.99,
@@ -3220,17 +2898,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Gucci+Sneakers"
   },
   {
-    "id": 324,
     "name": "Gucci Women's Dress",
     "category": "Fashion",
-    "price": 1299.00,
-    "rating": 4.0,
+    "price": 1299,
+    "rating": 4,
     "stock": 85,
     "description": "Elegant luxury dress with high-end tailoring and premium fabrics.",
     "image": "https://tse2.mm.bing.net/th?q=Gucci+Dress"
   },
   {
-    "id": 325,
     "name": "Kenwood Electric Kettle",
     "category": "Home & Kitchen",
     "price": 39.99,
@@ -3240,7 +2916,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Kenwood+Electric+Kettle"
   },
   {
-    "id": 326,
     "name": "LG Tone Free Wireless Earbuds",
     "category": "Electronics",
     "price": 89.99,
@@ -3250,7 +2925,6 @@
     "image": "https://tse2.mm.bing.net/th?q=LG+Tone+Free+Earbuds"
   },
   {
-    "id": 327,
     "name": "Neutrogena Face Serum",
     "category": "Beauty",
     "price": 14.99,
@@ -3260,7 +2934,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Neutrogena+Face+Serum"
   },
   {
-    "id": 328,
     "name": "Samsung Bluetooth Speaker",
     "category": "Electronics",
     "price": 49.99,
@@ -3270,7 +2943,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Samsung+Bluetooth+Speaker"
   },
   {
-    "id": 329,
     "name": "Nivea Moisturizer",
     "category": "Beauty",
     "price": 8.99,
@@ -3280,7 +2952,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Nivea+Moisturizer"
   },
   {
-    "id": 330,
     "name": "Apple Watch SE",
     "category": "Fashion",
     "price": 249.99,
@@ -3289,8 +2960,7 @@
     "description": "Smart wearable watch with fitness tracking, heart monitoring, and Apple ecosystem sync.",
     "image": "https://tse2.mm.bing.net/th?q=Apple+Watch+SE"
   },
-   {
-    "id": 331,
+  {
     "name": "Gucci Backpack",
     "category": "Fashion",
     "price": 129.99,
@@ -3300,7 +2970,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Gucci+Backpack"
   },
   {
-    "id": 332,
     "name": "Xiaomi Smartwatch",
     "category": "Electronics",
     "price": 89.99,
@@ -3310,7 +2979,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Xiaomi+Smartwatch"
   },
   {
-    "id": 333,
     "name": "Gucci Men's T-Shirt",
     "category": "Fashion",
     "price": 74.99,
@@ -3320,7 +2988,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Gucci+Mens+Tshirt"
   },
   {
-    "id": 334,
     "name": "Calvin Klein Perfume",
     "category": "Beauty",
     "price": 59.99,
@@ -3330,7 +2997,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Calvin+Klein+Perfume"
   },
   {
-    "id": 335,
     "name": "Puma Leather Jacket",
     "category": "Fashion",
     "price": 149.99,
@@ -3340,7 +3006,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Puma+Leather+Jacket"
   },
   {
-    "id": 336,
     "name": "Chanel Face Serum",
     "category": "Beauty",
     "price": 98.99,
@@ -3350,7 +3015,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Chanel+Face+Serum"
   },
   {
-    "id": 337,
     "name": "Maybelline Liquid Foundation",
     "category": "Beauty",
     "price": 14.99,
@@ -3360,7 +3024,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Maybelline+Liquid+Foundation"
   },
   {
-    "id": 338,
     "name": "Adjustable Dumbbell Set",
     "category": "Sports & Outdoors",
     "price": 129.99,
@@ -3370,9 +3033,8 @@
     "image": "https://tse2.mm.bing.net/th?q=Adjustable+Dumbbell+Set"
   },
   {
-    "id": 339,
     "name": "Giro Bicycle Helmet",
-       "category": "Sports & Outdoors",
+    "category": "Sports & Outdoors",
     "price": 49.99,
     "rating": 4.2,
     "stock": 37,
@@ -3380,7 +3042,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Giro+Bicycle+Helmet"
   },
   {
-    "id": 340,
     "name": "Bell Cycling Helmet",
     "category": "Sports & Outdoors",
     "price": 39.99,
@@ -3390,7 +3051,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Bell+Cycling+Helmet"
   },
   {
-    "id": 341,
     "name": "Chanel Women's Dress",
     "category": "Fashion",
     "price": 199.99,
@@ -3400,7 +3060,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Chanel+Womens+Dress"
   },
   {
-    "id": 342,
     "name": "SmartFit Pro Smartwatch",
     "category": "Electronics",
     "price": 59.99,
@@ -3410,7 +3069,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Fitness+Smartwatch"
   },
   {
-    "id": 343,
     "name": "Women's Summer Dress",
     "category": "Fashion",
     "price": 34.99,
@@ -3420,7 +3078,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Womens+Summer+Dress"
   },
   {
-    "id": 344,
     "name": "Neutrogena Hydrating Face Serum",
     "category": "Beauty",
     "price": 22.99,
@@ -3430,7 +3087,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Neutrogena+Hydrating+Face+Serum"
   },
   {
-    "id": 345,
     "name": "Maybelline Liquid Foundation",
     "category": "Beauty",
     "price": 12.49,
@@ -3440,7 +3096,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Maybelline+Liquid+Foundation"
   },
   {
-    "id": 346,
     "name": "IKEA LED Table Lamp",
     "category": "Home & Kitchen",
     "price": 24.99,
@@ -3450,7 +3105,6 @@
     "image": "https://tse2.mm.bing.net/th?q=IKEA+LED+Table+Lamp"
   },
   {
-    "id": 347,
     "name": "JBL Portable Bluetooth Speaker",
     "category": "Electronics",
     "price": 49.99,
@@ -3460,7 +3114,6 @@
     "image": "https://tse2.mm.bing.net/th?q=JBL+Portable+Bluetooth+Speaker"
   },
   {
-    "id": 348,
     "name": "Dyson Vacuum Cleaner",
     "category": "Home & Kitchen",
     "price": 299.99,
@@ -3470,7 +3123,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Dyson+Vacuum+Cleaner"
   },
   {
-    "id": 349,
     "name": "Bell Cycling Helmet",
     "category": "Sports & Outdoors",
     "price": 29.99,
@@ -3480,7 +3132,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Bell+Cycling+Helmet"
   },
   {
-    "id": 350,
     "name": "Ray-Ban Sunglasses",
     "category": "Fashion",
     "price": 119.99,
@@ -3490,7 +3141,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Ray+Ban+Sunglasses"
   },
   {
-    "id": 351,
     "name": "Philips Table Lamp",
     "category": "Home & Kitchen",
     "price": 19.99,
@@ -3500,7 +3150,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Philips+LED+Table+Lamp"
   },
   {
-    "id": 352,
     "name": "Pantene Conditioner",
     "category": "Beauty",
     "price": 7.49,
@@ -3510,7 +3159,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Pantene+Conditioner"
   },
   {
-    "id": 353,
     "name": "Sports Water Bottle",
     "category": "Sports & Outdoors",
     "price": 9.99,
@@ -3520,7 +3168,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Sports+Water+Bottle"
   },
   {
-    "id": 354,
     "name": "Nivea Eau de Toilette",
     "category": "Beauty",
     "price": 18.99,
@@ -3530,7 +3177,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Nivea+Perfume"
   },
   {
-    "id": 355,
     "name": "Casio Men's Wristwatch",
     "category": "Fashion",
     "price": 39.99,
@@ -3540,7 +3186,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Casio+Mens+Wristwatch"
   },
   {
-    "id": 356,
     "name": "Levi's Leather Jacket",
     "category": "Fashion",
     "price": 149.99,
@@ -3550,7 +3195,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Levis+Leather+Jacket"
   },
   {
-    "id": 357,
     "name": "Nike Running Shoes",
     "category": "Sports & Outdoors",
     "price": 79.99,
@@ -3560,7 +3204,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Nike+Running+Shoes"
   },
   {
-    "id": 358,
     "name": "Logitech Gaming Mouse",
     "category": "Electronics",
     "price": 39.99,
@@ -3570,7 +3213,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Logitech+Gaming+Mouse"
   },
   {
-    "id": 359,
     "name": "Nivea Eau de Toilette",
     "category": "Beauty",
     "price": 21.99,
@@ -3580,7 +3222,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Nivea+Perfume"
   },
   {
-    "id": 360,
     "name": "Oakley Sunglasses",
     "category": "Fashion",
     "price": 129.99,
@@ -3590,7 +3231,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Oakley+Sunglasses"
   },
   {
-    "id": 361,
     "name": "Ninja Blender",
     "category": "Home & Kitchen",
     "price": 89.99,
@@ -3599,8 +3239,7 @@
     "description": "High-power blender suitable for smoothies and meal prep.",
     "image": "https://tse2.mm.bing.net/th?q=Ninja+Blender"
   },
-   {
-    "id": 362,
+  {
     "name": "Generic Gaming Mouse",
     "category": "Electronics",
     "price": 24.99,
@@ -3610,7 +3249,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Gaming+Mouse"
   },
   {
-    "id": 363,
     "name": "JBL Bluetooth Speaker",
     "category": "Electronics",
     "price": 59.99,
@@ -3620,7 +3258,6 @@
     "image": "https://tse2.mm.bing.net/th?q=JBL+Bluetooth+Speaker"
   },
   {
-    "id": 364,
     "name": "Pantene Conditioner",
     "category": "Beauty",
     "price": 7.99,
@@ -3630,7 +3267,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Pantene+Conditioner"
   },
   {
-    "id": 365,
     "name": "Generic Running Shoes",
     "category": "Sports & Outdoors",
     "price": 39.99,
@@ -3640,7 +3276,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Running+Shoes"
   },
   {
-    "id": 366,
     "name": "Cuisinart Cookware Set",
     "category": "Home & Kitchen",
     "price": 79.99,
@@ -3650,7 +3285,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Cuisinart+Cookware+Set"
   },
   {
-    "id": 367,
     "name": "LG Vacuum Cleaner",
     "category": "Home & Kitchen",
     "price": 129.99,
@@ -3660,17 +3294,15 @@
     "image": "https://tse2.mm.bing.net/th?q=LG+Vacuum+Cleaner"
   },
   {
-    "id": 368,
     "name": "Hanes Men's T-Shirt",
     "category": "Fashion",
     "price": 14.99,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 86,
     "description": "A comfortable and breathable men's cotton t-shirt.",
     "image": "https://tse2.mm.bing.net/th?q=Hanes+Mens+T+Shirt"
   },
   {
-    "id": 369,
     "name": "Ninja Blender",
     "category": "Home & Kitchen",
     "price": 89.99,
@@ -3680,7 +3312,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Ninja+Blender"
   },
   {
-    "id": 370,
     "name": "IKEA Table Lamp",
     "category": "Home & Kitchen",
     "price": 19.99,
@@ -3690,7 +3321,6 @@
     "image": "https://tse2.mm.bing.net/th?q=IKEA+Table+Lamp"
   },
   {
-    "id": 371,
     "name": "Hanes Men's T-Shirt",
     "category": "Fashion",
     "price": 14.99,
@@ -3700,7 +3330,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Hanes+Mens+T+Shirt"
   },
   {
-    "id": 372,
     "name": "Philips Bluetooth Speaker",
     "category": "Electronics",
     "price": 49.99,
@@ -3710,17 +3339,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Philips+Bluetooth+Speaker"
   },
   {
-    "id": 373,
     "name": "Adidas Backpack",
     "category": "Sports & Outdoors",
     "price": 44.99,
-    "rating": 4.0,
+    "rating": 4,
     "stock": 140,
     "description": "A durable backpack designed for daily use and travel.",
     "image": "https://tse2.mm.bing.net/th?q=Adidas+Backpack"
   },
   {
-    "id": 374,
     "name": "Ninja Air Fryer",
     "category": "Home & Kitchen",
     "price": 89.99,
@@ -3730,7 +3357,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Ninja+Air+Fryer"
   },
   {
-    "id": 375,
     "name": "Ray-Ban Sunglasses",
     "category": "Fashion",
     "price": 129.99,
@@ -3740,7 +3366,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Ray+Ban+Sunglasses"
   },
   {
-    "id": 376,
     "name": "Instant Vortex Air Fryer",
     "category": "Home & Kitchen",
     "price": 79.99,
@@ -3750,7 +3375,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Instant+Vortex+Air+Fryer"
   },
   {
-    "id": 377,
     "name": "Head & Shoulders Shampoo",
     "category": "Beauty",
     "price": 9.99,
@@ -3760,7 +3384,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Head+and+Shoulders+Shampoo"
   },
   {
-    "id": 378,
     "name": "Zara Women's Dress",
     "category": "Fashion",
     "price": 49.99,
@@ -3770,7 +3393,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Zara+Womens+Dress"
   },
   {
-    "id": 379,
     "name": "Calvin Klein Perfume",
     "category": "Beauty",
     "price": 59.99,
@@ -3780,7 +3402,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Calvin+Klein+Perfume"
   },
   {
-    "id": 380,
     "name": "Apple Smartwatch",
     "category": "Electronics",
     "price": 329.99,
@@ -3790,7 +3411,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Apple+Watch"
   },
   {
-    "id": 381,
     "name": "Samsung Smartwatch",
     "category": "Electronics",
     "price": 249.99,
@@ -3800,7 +3420,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Samsung+Smartwatch"
   },
   {
-    "id": 382,
     "name": "Calvin Klein Perfume",
     "category": "Beauty",
     "price": 59.99,
@@ -3810,17 +3429,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Calvin+Klein+Perfume"
   },
   {
-    "id": 383,
     "name": "Oakley Sunglasses",
     "category": "Fashion",
     "price": 119.99,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 6,
     "description": "Sport-style sunglasses with UV and glare protection.",
     "image": "https://tse2.mm.bing.net/th?q=Oakley+Sunglasses"
   },
   {
-    "id": 384,
     "name": "Levi's Leather Jacket",
     "category": "Fashion",
     "price": 159.99,
@@ -3830,7 +3447,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Levis+Leather+Jacket"
   },
   {
-    "id": 385,
     "name": "Philips Bluetooth Speaker",
     "category": "Electronics",
     "price": 49.99,
@@ -3840,7 +3456,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Philips+Bluetooth+Speaker"
   },
   {
-    "id": 386,
     "name": "T-fal Cookware Set",
     "category": "Home & Kitchen",
     "price": 69.99,
@@ -3850,7 +3465,6 @@
     "image": "https://tse2.mm.bing.net/th?q=T-fal+Cookware+Set"
   },
   {
-    "id": 387,
     "name": "Samsung Air Fryer",
     "category": "Home & Kitchen",
     "price": 99.99,
@@ -3860,7 +3474,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Samsung+Air+Fryer"
   },
   {
-    "id": 388,
     "name": "Bose Bluetooth Speaker",
     "category": "Electronics",
     "price": 129.99,
@@ -3870,7 +3483,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Bose+Bluetooth+Speaker"
   },
   {
-    "id": 389,
     "name": "Dyson Vacuum Cleaner",
     "category": "Home & Kitchen",
     "price": 299.99,
@@ -3880,317 +3492,285 @@
     "image": "https://tse2.mm.bing.net/th?q=Dyson+Vacuum+Cleaner"
   },
   {
-  "id": 390,
-  "name": "LG Bluetooth Speaker",
-  "category": "Electronics",
-  "price": 49.99,
-  "rating": 4.9,
-  "stock": 173,
-  "description": "A compact Bluetooth speaker with balanced sound quality.",
-  "image": "https://tse2.mm.bing.net/th?q=LG+Bluetooth+Speaker"
-},
-{
-  "id": 391,
-  "name": "Samsung Microwave Oven",
-  "category": "Home & Kitchen",
-  "price": 273.06,
-  "rating": 2.9,
-  "stock": 171,
-  "description": "The Samsung Microwave Oven is a high-quality microwave oven designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
-  "image": "https://tse2.mm.bing.net/th?q=Samsung+Microwave+Oven"
-},
-{
-  "id": 392,
-  "name": "Sony Football",
-  "category": "Sports & Outdoors",
-  "price": 1918.4,
-  "rating": 4.8,
-  "stock": 134,
-  "description": "The Sony Football is a high-quality football designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
-  "image": "https://tse2.mm.bing.net/th?q=Sony+Football"
-},
-{
-  "id": 393,
-  "name": "Samsung Women's Dress",
-  "category": "Fashion",
-  "price": 1447.76,
-  "rating": 2.6,
-  "stock": 176,
-  "description": "The Samsung Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
-  "image": "https://tse2.mm.bing.net/th?q=Samsung+Women's+Dress"
-},
-{
-  "id": 394,
-  "name": "Generic Sneakers",
-  "category": "Fashion",
-  "price": 1344.02,
-  "rating": 4.6,
-  "stock": 90,
-  "description": "The Generic Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
-  "image": "https://tse2.mm.bing.net/th?q=Generic+Sneakers"
-},
-{
-  "id": 395,
-  "name": "Apple Tablet",
-  "category": "Electronics",
-  "price": 1433.23,
-  "rating": 3.1,
-  "stock": 139,
-  "description": "The Apple Tablet is a high-quality tablet designed for performance and durability. Perfect for anyone looking for reliable electronics.",
-  "image": "https://tse2.mm.bing.net/th?q=Apple+Tablet"
-},
-{
-  "id": 396,
-  "name": "HP Sunglasses",
-  "category": "Fashion",
-  "price": 629.77,
-  "rating": 4.6,
-  "stock": 191,
-  "description": "The HP Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
-  "image": "https://tse2.mm.bing.net/th?q=HP+Sunglasses"
-},
-{
-  "id": 397,
-  "name": "Generic Dumbbell Set",
-  "category": "Sports & Outdoors",
-  "price": 143.21,
-  "rating": 4.5,
-  "stock": 98,
-  "description": "The Generic Dumbbell Set is a high-quality dumbbell set designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
-  "image": "https://tse2.mm.bing.net/th?q=Generic+Dumbbell+Set"
-},
-{
-  "id": 398,
-  "name": "LG Yoga Mat",
-  "category": "Sports & Outdoors",
-  "price": 147.07,
-  "rating": 4.8,
-  "stock": 194,
-  "description": "The LG Yoga Mat is a high-quality yoga mat designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
-  "image": "https://tse2.mm.bing.net/th?q=LG+Yoga+Mat"
-},
-{
-  "id": 399,
-  "name": "Apple Tablet",
-  "category": "Electronics",
-  "price": 697.27,
-  "rating": 3.2,
-  "stock": 135,
-  "description": "The Apple Tablet is a high-quality tablet designed for performance and durability. Perfect for anyone looking for reliable electronics.",
-  "image": "https://tse2.mm.bing.net/th?q=Apple+Tablet"
-},
-{
-  "id": 400,
-  "name": "Generic Bicycle Helmet",
-  "category": "Sports & Outdoors",
-  "price": 36.1,
-  "rating": 3.0,
-  "stock": 5,
-  "description": "The Generic Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
-  "image": "https://tse2.mm.bing.net/th?q=Generic+Bicycle+Helmet"
-},
-{
-  "id": 401,
-  "name": "Gucci Table Lamp",
-  "category": "Home & Kitchen",
-  "price": 1810.61,
-  "rating": 2.7,
-  "stock": 41,
-  "description": "The Gucci Table Lamp is a high-quality table lamp designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
-  "image": "https://tse2.mm.bing.net/th?q=Gucci+Table+Lamp"
-},
-{
-  "id": 402,
-  "name": "Apple Sunglasses",
-  "category": "Fashion",
-  "price": 836.8,
-  "rating": 4.1,
-  "stock": 60,
-  "description": "The Apple Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
-  "image": "https://tse2.mm.bing.net/th?q=Apple+Sunglasses"
-},
-{
-  "id": 403,
-  "name": "Nike Moisturizer",
-  "category": "Beauty",
-  "price": 1156.26,
-  "rating": 3.1,
-  "stock": 99,
-  "description": "The Nike Moisturizer is a high-quality moisturizer designed for performance and durability. Perfect for anyone looking for reliable beauty.",
-  "image": "https://tse2.mm.bing.net/th?q=Nike+Moisturizer"
-},
-{
-  "id": 404,
-  "name": "Apple Foundation",
-  "category": "Beauty",
-  "price": 1394.5,
-  "rating": 2.9,
-  "stock": 77,
-  "description": "The Apple Foundation is a high-quality foundation designed for performance and durability. Perfect for anyone looking for reliable beauty.",
-  "image": "https://tse2.mm.bing.net/th?q=Apple+Foundation"
-},
-{
-  "id": 405,
-  "name": "Generic Bluetooth Speaker",
-  "category": "Electronics",
-  "price": 853.34,
-  "rating": 4.3,
-  "stock": 22,
-  "description": "The Generic Bluetooth Speaker is a high-quality bluetooth speaker designed for performance and durability. Perfect for anyone looking for reliable electronics.",
-  "image": "https://tse2.mm.bing.net/th?q=Generic+Bluetooth+Speaker"
-},
-{
-  "id": 406,
-  "name": "Adidas Vacuum Cleaner",
-  "category": "Home & Kitchen",
-  "price": 728.92,
-  "rating": 3.5,
-  "stock": 163,
-  "description": "The Adidas Vacuum Cleaner is a high-quality vacuum cleaner designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
-  "image": "https://tse2.mm.bing.net/th?q=Adidas+Vacuum+Cleaner"
-},
-{
-  "id": 407,
-  "name": "Nike Bicycle Helmet",
-  "category": "Sports & Outdoors",
-  "price": 296.76,
-  "rating": 4.7,
-  "stock": 175,
-  "description": "The Nike Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
-  "image": "https://tse2.mm.bing.net/th?q=Nike+Bicycle+Helmet"
-},
-{
-  "id": 408,
-  "name": "Nike Lipstick",
-  "category": "Beauty",
-  "price": 919.6,
-  "rating": 4.1,
-  "stock": 71,
-  "description": "The Nike Lipstick is a high-quality lipstick designed for performance and durability. Perfect for anyone looking for reliable beauty.",
-  "image": "https://tse2.mm.bing.net/th?q=Nike+Lipstick"
-},
-{
-  "id": 409,
-  "name": "Philips Leather Jacket",
-  "category": "Fashion",
-  "price": 1085.12,
-  "rating": 2.9,
-  "stock": 190,
-  "description": "The Philips Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
-  "image": "https://tse2.mm.bing.net/th?q=Philips+Leather+Jacket"
-},
-{
-  "id": 410,
-  "name": "Philips Conditioner",
-  "category": "Beauty",
-  "price": 1700.69,
-  "rating": 3.2,
-  "stock": 40,
-  "description": "The Philips Conditioner is a high-quality conditioner designed for performance and durability. Perfect for anyone looking for reliable beauty.",
-  "image": "https://tse2.mm.bing.net/th?q=Philips+Conditioner"
-},
-{
-  "id": 411,
-  "name": "Sony Mechanical Keyboard",
-  "category": "Electronics",
-  "price": 643.26,
-  "rating": 3.2,
-  "stock": 28,
-  "description": "The Sony Mechanical Keyboard is a high-quality mechanical keyboard designed for performance and durability. Perfect for anyone looking for reliable electronics.",
-  "image": "https://tse2.mm.bing.net/th?q=Sony+Mechanical+Keyboard"
-},
-{
-  "id": 412,
-  "name": "Gucci Running Shoes",
-  "category": "Sports & Outdoors",
-  "price": 411.46,
-  "rating": 3.7,
-  "stock": 61,
-  "description": "The Gucci Running Shoes is a high-quality running shoes designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
-  "image": "https://tse2.mm.bing.net/th?q=Gucci+Running+Shoes"
-},
-{
-  "id": 413,
-  "name": "Nike Conditioner",
-  "category": "Beauty",
-  "price": 1767.8,
-  "rating": 4.3,
-  "stock": 141,
-  "description": "The Nike Conditioner is a high-quality conditioner designed for performance and durability. Perfect for anyone looking for reliable beauty.",
-  "image": "https://tse2.mm.bing.net/th?q=Nike+Conditioner"
-},
-{
-  "id": 414,
-  "name": "Chanel Yoga Mat",
-  "category": "Sports & Outdoors",
-  "price": 1371.67,
-  "rating": 5.0,
-  "stock": 9,
-  "description": "The Chanel Yoga Mat is a high-quality yoga mat designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
-  "image": "https://tse2.mm.bing.net/th?q=Chanel+Yoga+Mat"
-},
-{
-  "id": 415,
-  "name": "Sony Conditioner",
-  "category": "Beauty",
-  "price": 129.56,
-  "rating": 3.5,
-  "stock": 0,
-  "description": "The Sony Conditioner is a high-quality conditioner designed for performance and durability. Perfect for anyone looking for reliable beauty.",
-  "image": "https://tse2.mm.bing.net/th?q=Sony+Conditioner"
-},
-{
-  "id": 416,
-  "name": "Puma Wireless Earbuds",
-  "category": "Electronics",
-  "price": 681.12,
-  "rating": 2.6,
-  "stock": 8,
-  "description": "The Puma Wireless Earbuds is a high-quality wireless earbuds designed for performance and durability. Perfect for anyone looking for reliable electronics.",
-  "image": "https://tse2.mm.bing.net/th?q=Puma+Wireless+Earbuds"
-},
-{
-  "id": 417,
-  "name": "Generic Football",
-  "category": "Sports & Outdoors",
-  "price": 36.74,
-  "rating": 4.7,
-  "stock": 137,
-  "description": "The Generic Football is a high-quality football designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
-  "image": "https://tse2.mm.bing.net/th?q=Generic+Football"
-},
-{
-  "id": 418,
-  "name": "Gucci Table Lamp",
-  "category": "Home & Kitchen",
-  "price": 804.93,
-  "rating": 3.5,
-  "stock": 3,
-  "description": "The Gucci Table Lamp is a high-quality table lamp designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
-  "image": "https://tse2.mm.bing.net/th?q=Gucci+Table+Lamp"
-},
-{
-  "id": 419,
-  "name": "LG Sunscreen",
-  "category": "Beauty",
-  "price": 1638.66,
-  "rating": 4.0,
-  "stock": 188,
-  "description": "The LG Sunscreen is a high-quality sunscreen designed for performance and durability. Perfect for anyone looking for reliable beauty.",
-  "image": "https://tse2.mm.bing.net/th?q=LG+Sunscreen"
-},
-{
-  "id": 420,
-  "name": "Nike Wristwatch",
-  "category": "Fashion",
-  "price": 803.4,
-  "rating": 4.0,
-  "stock": 52,
-  "description": "The Nike Wristwatch is a high-quality wristwatch designed for performance and durability. Perfect for anyone looking for reliable fashion.",
-  "image": "https://tse2.mm.bing.net/th?q=Nike+Wristwatch"
-},
-   {
-    "id": 421,
+    "name": "LG Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 49.99,
+    "rating": 4.9,
+    "stock": 173,
+    "description": "A compact Bluetooth speaker with balanced sound quality.",
+    "image": "https://tse2.mm.bing.net/th?q=LG+Bluetooth+Speaker"
+  },
+  {
+    "name": "Samsung Microwave Oven",
+    "category": "Home & Kitchen",
+    "price": 273.06,
+    "rating": 2.9,
+    "stock": 171,
+    "description": "The Samsung Microwave Oven is a high-quality microwave oven designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image": "https://tse2.mm.bing.net/th?q=Samsung+Microwave+Oven"
+  },
+  {
+    "name": "Sony Football",
+    "category": "Sports & Outdoors",
+    "price": 1918.4,
+    "rating": 4.8,
+    "stock": 134,
+    "description": "The Sony Football is a high-quality football designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image": "https://tse2.mm.bing.net/th?q=Sony+Football"
+  },
+  {
+    "name": "Samsung Women's Dress",
+    "category": "Fashion",
+    "price": 1447.76,
+    "rating": 2.6,
+    "stock": 176,
+    "description": "The Samsung Women's Dress is a high-quality women's dress designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image": "https://tse2.mm.bing.net/th?q=Samsung+Women's+Dress"
+  },
+  {
+    "name": "Generic Sneakers",
+    "category": "Fashion",
+    "price": 1344.02,
+    "rating": 4.6,
+    "stock": 90,
+    "description": "The Generic Sneakers is a high-quality sneakers designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image": "https://tse2.mm.bing.net/th?q=Generic+Sneakers"
+  },
+  {
+    "name": "Apple Tablet",
+    "category": "Electronics",
+    "price": 1433.23,
+    "rating": 3.1,
+    "stock": 139,
+    "description": "The Apple Tablet is a high-quality tablet designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image": "https://tse2.mm.bing.net/th?q=Apple+Tablet"
+  },
+  {
+    "name": "HP Sunglasses",
+    "category": "Fashion",
+    "price": 629.77,
+    "rating": 4.6,
+    "stock": 191,
+    "description": "The HP Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image": "https://tse2.mm.bing.net/th?q=HP+Sunglasses"
+  },
+  {
+    "name": "Generic Dumbbell Set",
+    "category": "Sports & Outdoors",
+    "price": 143.21,
+    "rating": 4.5,
+    "stock": 98,
+    "description": "The Generic Dumbbell Set is a high-quality dumbbell set designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image": "https://tse2.mm.bing.net/th?q=Generic+Dumbbell+Set"
+  },
+  {
+    "name": "LG Yoga Mat",
+    "category": "Sports & Outdoors",
+    "price": 147.07,
+    "rating": 4.8,
+    "stock": 194,
+    "description": "The LG Yoga Mat is a high-quality yoga mat designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image": "https://tse2.mm.bing.net/th?q=LG+Yoga+Mat"
+  },
+  {
+    "name": "Apple Tablet",
+    "category": "Electronics",
+    "price": 697.27,
+    "rating": 3.2,
+    "stock": 135,
+    "description": "The Apple Tablet is a high-quality tablet designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image": "https://tse2.mm.bing.net/th?q=Apple+Tablet"
+  },
+  {
+    "name": "Generic Bicycle Helmet",
+    "category": "Sports & Outdoors",
+    "price": 36.1,
+    "rating": 3,
+    "stock": 5,
+    "description": "The Generic Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image": "https://tse2.mm.bing.net/th?q=Generic+Bicycle+Helmet"
+  },
+  {
+    "name": "Gucci Table Lamp",
+    "category": "Home & Kitchen",
+    "price": 1810.61,
+    "rating": 2.7,
+    "stock": 41,
+    "description": "The Gucci Table Lamp is a high-quality table lamp designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image": "https://tse2.mm.bing.net/th?q=Gucci+Table+Lamp"
+  },
+  {
+    "name": "Apple Sunglasses",
+    "category": "Fashion",
+    "price": 836.8,
+    "rating": 4.1,
+    "stock": 60,
+    "description": "The Apple Sunglasses is a high-quality sunglasses designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image": "https://tse2.mm.bing.net/th?q=Apple+Sunglasses"
+  },
+  {
+    "name": "Nike Moisturizer",
+    "category": "Beauty",
+    "price": 1156.26,
+    "rating": 3.1,
+    "stock": 99,
+    "description": "The Nike Moisturizer is a high-quality moisturizer designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image": "https://tse2.mm.bing.net/th?q=Nike+Moisturizer"
+  },
+  {
+    "name": "Apple Foundation",
+    "category": "Beauty",
+    "price": 1394.5,
+    "rating": 2.9,
+    "stock": 77,
+    "description": "The Apple Foundation is a high-quality foundation designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image": "https://tse2.mm.bing.net/th?q=Apple+Foundation"
+  },
+  {
+    "name": "Generic Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 853.34,
+    "rating": 4.3,
+    "stock": 22,
+    "description": "The Generic Bluetooth Speaker is a high-quality bluetooth speaker designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image": "https://tse2.mm.bing.net/th?q=Generic+Bluetooth+Speaker"
+  },
+  {
+    "name": "Adidas Vacuum Cleaner",
+    "category": "Home & Kitchen",
+    "price": 728.92,
+    "rating": 3.5,
+    "stock": 163,
+    "description": "The Adidas Vacuum Cleaner is a high-quality vacuum cleaner designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image": "https://tse2.mm.bing.net/th?q=Adidas+Vacuum+Cleaner"
+  },
+  {
+    "name": "Nike Bicycle Helmet",
+    "category": "Sports & Outdoors",
+    "price": 296.76,
+    "rating": 4.7,
+    "stock": 175,
+    "description": "The Nike Bicycle Helmet is a high-quality bicycle helmet designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image": "https://tse2.mm.bing.net/th?q=Nike+Bicycle+Helmet"
+  },
+  {
+    "name": "Nike Lipstick",
+    "category": "Beauty",
+    "price": 919.6,
+    "rating": 4.1,
+    "stock": 71,
+    "description": "The Nike Lipstick is a high-quality lipstick designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image": "https://tse2.mm.bing.net/th?q=Nike+Lipstick"
+  },
+  {
+    "name": "Philips Leather Jacket",
+    "category": "Fashion",
+    "price": 1085.12,
+    "rating": 2.9,
+    "stock": 190,
+    "description": "The Philips Leather Jacket is a high-quality leather jacket designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image": "https://tse2.mm.bing.net/th?q=Philips+Leather+Jacket"
+  },
+  {
+    "name": "Philips Conditioner",
+    "category": "Beauty",
+    "price": 1700.69,
+    "rating": 3.2,
+    "stock": 40,
+    "description": "The Philips Conditioner is a high-quality conditioner designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image": "https://tse2.mm.bing.net/th?q=Philips+Conditioner"
+  },
+  {
+    "name": "Sony Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 643.26,
+    "rating": 3.2,
+    "stock": 28,
+    "description": "The Sony Mechanical Keyboard is a high-quality mechanical keyboard designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image": "https://tse2.mm.bing.net/th?q=Sony+Mechanical+Keyboard"
+  },
+  {
+    "name": "Gucci Running Shoes",
+    "category": "Sports & Outdoors",
+    "price": 411.46,
+    "rating": 3.7,
+    "stock": 61,
+    "description": "The Gucci Running Shoes is a high-quality running shoes designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image": "https://tse2.mm.bing.net/th?q=Gucci+Running+Shoes"
+  },
+  {
+    "name": "Nike Conditioner",
+    "category": "Beauty",
+    "price": 1767.8,
+    "rating": 4.3,
+    "stock": 141,
+    "description": "The Nike Conditioner is a high-quality conditioner designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image": "https://tse2.mm.bing.net/th?q=Nike+Conditioner"
+  },
+  {
+    "name": "Chanel Yoga Mat",
+    "category": "Sports & Outdoors",
+    "price": 1371.67,
+    "rating": 5,
+    "stock": 9,
+    "description": "The Chanel Yoga Mat is a high-quality yoga mat designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image": "https://tse2.mm.bing.net/th?q=Chanel+Yoga+Mat"
+  },
+  {
+    "name": "Sony Conditioner",
+    "category": "Beauty",
+    "price": 129.56,
+    "rating": 3.5,
+    "stock": 0,
+    "description": "The Sony Conditioner is a high-quality conditioner designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image": "https://tse2.mm.bing.net/th?q=Sony+Conditioner"
+  },
+  {
+    "name": "Puma Wireless Earbuds",
+    "category": "Electronics",
+    "price": 681.12,
+    "rating": 2.6,
+    "stock": 8,
+    "description": "The Puma Wireless Earbuds is a high-quality wireless earbuds designed for performance and durability. Perfect for anyone looking for reliable electronics.",
+    "image": "https://tse2.mm.bing.net/th?q=Puma+Wireless+Earbuds"
+  },
+  {
+    "name": "Generic Football",
+    "category": "Sports & Outdoors",
+    "price": 36.74,
+    "rating": 4.7,
+    "stock": 137,
+    "description": "The Generic Football is a high-quality football designed for performance and durability. Perfect for anyone looking for reliable sports & outdoors.",
+    "image": "https://tse2.mm.bing.net/th?q=Generic+Football"
+  },
+  {
+    "name": "Gucci Table Lamp",
+    "category": "Home & Kitchen",
+    "price": 804.93,
+    "rating": 3.5,
+    "stock": 3,
+    "description": "The Gucci Table Lamp is a high-quality table lamp designed for performance and durability. Perfect for anyone looking for reliable home & kitchen.",
+    "image": "https://tse2.mm.bing.net/th?q=Gucci+Table+Lamp"
+  },
+  {
+    "name": "LG Sunscreen",
+    "category": "Beauty",
+    "price": 1638.66,
+    "rating": 4,
+    "stock": 188,
+    "description": "The LG Sunscreen is a high-quality sunscreen designed for performance and durability. Perfect for anyone looking for reliable beauty.",
+    "image": "https://tse2.mm.bing.net/th?q=LG+Sunscreen"
+  },
+  {
+    "name": "Nike Wristwatch",
+    "category": "Fashion",
+    "price": 803.4,
+    "rating": 4,
+    "stock": 52,
+    "description": "The Nike Wristwatch is a high-quality wristwatch designed for performance and durability. Perfect for anyone looking for reliable fashion.",
+    "image": "https://tse2.mm.bing.net/th?q=Nike+Wristwatch"
+  },
+  {
     "name": "Logitech Mechanical Keyboard",
     "category": "Electronics",
     "price": 49.99,
@@ -4200,7 +3780,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Logitech+Mechanical+Keyboard"
   },
   {
-    "id": 422,
     "name": "Hamilton Beach Electric Kettle",
     "category": "Home & Kitchen",
     "price": 24.99,
@@ -4210,7 +3789,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Hamilton+Beach+Electric+Kettle"
   },
   {
-    "id": 423,
     "name": "Zara Women's Dress",
     "category": "Fashion",
     "price": 39.99,
@@ -4220,7 +3798,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Zara+Womens+Dress"
   },
   {
-    "id": 424,
     "name": "Levi's Jeans",
     "category": "Fashion",
     "price": 49.99,
@@ -4230,7 +3807,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Levis+Jeans"
   },
   {
-    "id": 425,
     "name": "Ray-Ban Sunglasses",
     "category": "Fashion",
     "price": 129.99,
@@ -4240,7 +3816,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Ray-Ban+Sunglasses"
   },
   {
-    "id": 426,
     "name": "CAP Barbell Dumbbell Set",
     "category": "Sports & Outdoors",
     "price": 59.99,
@@ -4250,7 +3825,6 @@
     "image": "https://tse2.mm.bing.net/th?q=CAP+Barbell+Dumbbell+Set"
   },
   {
-    "id": 427,
     "name": "Bowflex SelectTech Dumbbell Set",
     "category": "Sports & Outdoors",
     "price": 349.99,
@@ -4260,7 +3834,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Bowflex+SelectTech+Dumbbells"
   },
   {
-    "id": 428,
     "name": "Coleman Camping Tent",
     "category": "Sports & Outdoors",
     "price": 129.99,
@@ -4270,7 +3843,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Coleman+Camping+Tent"
   },
   {
-    "id": 429,
     "name": "Lenovo Laptop",
     "category": "Electronics",
     "price": 499.99,
@@ -4280,7 +3852,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Lenovo+Laptop"
   },
   {
-    "id": 430,
     "name": "Neutrogena Sunscreen",
     "category": "Beauty",
     "price": 12.99,
@@ -4290,7 +3861,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Neutrogena+Sunscreen"
   },
   {
-    "id": 431,
     "name": "Ninja Blender",
     "category": "Home & Kitchen",
     "price": 89.99,
@@ -4300,7 +3870,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Ninja+Blender"
   },
   {
-    "id": 432,
     "name": "ASUS Chromebook",
     "category": "Electronics",
     "price": 199.99,
@@ -4310,17 +3879,15 @@
     "image": "https://tse2.mm.bing.net/th?q=ASUS+Chromebook"
   },
   {
-    "id": 433,
     "name": "CeraVe Moisturizer",
     "category": "Beauty",
     "price": 14.99,
-    "rating": 4.0,
+    "rating": 4,
     "stock": 26,
     "description": "A hydrating facial moisturizer with long-lasting skin nourishment.",
     "image": "https://tse2.mm.bing.net/th?q=CeraVe+Moisturizing+Cream"
   },
   {
-    "id": 434,
     "name": "Samsung Galaxy Tab",
     "category": "Electronics",
     "price": 229.99,
@@ -4330,7 +3897,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Samsung+Galaxy+Tab"
   },
   {
-    "id": 435,
     "name": "Sony WF-C500 Wireless Earbuds",
     "category": "Electronics",
     "price": 59.99,
@@ -4340,7 +3906,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Sony+WF-C500"
   },
   {
-    "id": 436,
     "name": "Michael Kors Handbag",
     "category": "Fashion",
     "price": 149.99,
@@ -4350,7 +3915,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Michael+Kors+Handbag"
   },
   {
-    "id": 437,
     "name": "CAP Barbell Dumbbell Set",
     "category": "Sports & Outdoors",
     "price": 59.99,
@@ -4360,7 +3924,6 @@
     "image": "https://tse2.mm.bing.net/th?q=CAP+Barbell+Dumbbell+Set"
   },
   {
-    "id": 438,
     "name": "Samsung Vacuum Cleaner",
     "category": "Home & Kitchen",
     "price": 179.99,
@@ -4370,7 +3933,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Samsung+Vacuum+Cleaner"
   },
   {
-    "id": 439,
     "name": "Giro Bicycle Helmet",
     "category": "Sports & Outdoors",
     "price": 49.99,
@@ -4380,7 +3942,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Giro+Bicycle+Helmet"
   },
   {
-    "id": 440,
     "name": "Gaiam Yoga Mat",
     "category": "Sports & Outdoors",
     "price": 24.99,
@@ -4390,7 +3951,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Gaiam+Yoga+Mat"
   },
   {
-    "id": 441,
     "name": "Coleman Sundome Camping Tent",
     "category": "Sports & Outdoors",
     "price": 89.99,
@@ -4400,17 +3960,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Coleman+Sundome+Tent"
   },
   {
-    "id": 442,
     "name": "Banana Boat Sunscreen",
     "category": "Beauty",
     "price": 10.99,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 10,
     "description": "UV protection sunscreen ideal for outdoor activities.",
     "image": "https://tse2.mm.bing.net/th?q=Banana+Boat+Sunscreen"
   },
   {
-    "id": 443,
     "name": "Gucci Handbag",
     "category": "Fashion",
     "price": 1299.99,
@@ -4420,7 +3978,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Gucci+Handbag"
   },
   {
-    "id": 444,
     "name": "Maybelline Lipstick",
     "category": "Beauty",
     "price": 7.99,
@@ -4430,7 +3987,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Maybelline+Lipstick"
   },
   {
-    "id": 445,
     "name": "Pantene Conditioner",
     "category": "Beauty",
     "price": 6.99,
@@ -4440,7 +3996,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Pantene+Conditioner"
   },
   {
-    "id": 446,
     "name": "Chanel Sunglasses",
     "category": "Fashion",
     "price": 299.99,
@@ -4450,27 +4005,24 @@
     "image": "https://tse2.mm.bing.net/th?q=Chanel+Sunglasses"
   },
   {
-    "id": 447,
     "name": "Wilson NFL Football",
     "category": "Sports & Outdoors",
     "price": 19.99,
-    "rating": 4.0,
+    "rating": 4,
     "stock": 186,
     "description": "Official-size football designed for recreation and training.",
     "image": "https://tse2.mm.bing.net/th?q=Wilson+NFL+Football"
   },
   {
-    "id": 448,
     "name": "T-fal Nonstick Cookware Set",
     "category": "Home & Kitchen",
     "price": 89.99,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 124,
     "description": "A durable nonstick cookware set suitable for everyday cooking.",
     "image": "https://tse2.mm.bing.net/th?q=T-fal+Nonstick+Cookware+Set"
   },
   {
-    "id": 449,
     "name": "Cosori Air Fryer",
     "category": "Home & Kitchen",
     "price": 119.99,
@@ -4480,17 +4032,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Cosori+Air+Fryer"
   },
   {
-    "id": 450,
     "name": "Apple iPhone",
     "category": "Electronics",
-    "price": 699.00,
+    "price": 699,
     "rating": 4.6,
     "stock": 186,
     "description": "A premium smartphone offering performance, speed, and top-quality camera features.",
     "image": "https://tse2.mm.bing.net/th?q=Apple+iPhone"
   },
-   {
-    "id": 451,
+  {
     "name": "Philips Air Fryer",
     "category": "Home & Kitchen",
     "price": 129.99,
@@ -4500,7 +4050,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Philips+Air+Fryer"
   },
   {
-    "id": 452,
     "name": "Puma Sneakers",
     "category": "Fashion",
     "price": 79.99,
@@ -4510,7 +4059,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Puma+Sneakers"
   },
   {
-    "id": 453,
     "name": "Ray-Ban Sunglasses",
     "category": "Fashion",
     "price": 129.49,
@@ -4520,7 +4068,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Ray-Ban+Sunglasses"
   },
   {
-    "id": 454,
     "name": "Ninja Blender",
     "category": "Home & Kitchen",
     "price": 89.99,
@@ -4530,7 +4077,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Ninja+Blender"
   },
   {
-    "id": 455,
     "name": "KitchenAid Blender",
     "category": "Home & Kitchen",
     "price": 159.99,
@@ -4540,7 +4086,6 @@
     "image": "https://tse2.mm.bing.net/th?q=KitchenAid+Blender"
   },
   {
-    "id": 456,
     "name": "CeraVe Moisturizing Cream",
     "category": "Beauty",
     "price": 19.99,
@@ -4550,7 +4095,6 @@
     "image": "https://tse2.mm.bing.net/th?q=CeraVe+Moisturizing+Cream"
   },
   {
-    "id": 457,
     "name": "Philips Wireless Earbuds",
     "category": "Electronics",
     "price": 49.99,
@@ -4560,7 +4104,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Philips+Wireless+Earbuds"
   },
   {
-    "id": 458,
     "name": "Samsung Smartwatch",
     "category": "Electronics",
     "price": 169.99,
@@ -4570,7 +4113,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Samsung+Smartwatch"
   },
   {
-    "id": 459,
     "name": "Motorola Smartphone",
     "category": "Electronics",
     "price": 139.99,
@@ -4580,7 +4122,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Motorola+Smartphone"
   },
   {
-    "id": 460,
     "name": "Levi's Leather Jacket",
     "category": "Fashion",
     "price": 189.99,
@@ -4590,7 +4131,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Levi%27s+Leather+Jacket"
   },
   {
-    "id": 461,
     "name": "Michael Kors Handbag",
     "category": "Fashion",
     "price": 149.99,
@@ -4600,7 +4140,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Michael+Kors+Handbag"
   },
   {
-    "id": 462,
     "name": "Lenovo Tablet",
     "category": "Electronics",
     "price": 199.99,
@@ -4610,7 +4149,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Lenovo+Tablet"
   },
   {
-    "id": 463,
     "name": "Neutrogena Sunscreen",
     "category": "Beauty",
     "price": 12.49,
@@ -4620,7 +4158,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Neutrogena+Sunscreen"
   },
   {
-    "id": 464,
     "name": "Oakley Sunglasses",
     "category": "Fashion",
     "price": 119.99,
@@ -4630,27 +4167,24 @@
     "image": "https://tse2.mm.bing.net/th?q=Oakley+Sunglasses"
   },
   {
-    "id": 465,
     "name": "Coleman Camping Tent",
     "category": "Sports & Outdoors",
     "price": 89.99,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 27,
     "description": "Durable all-weather camping tent suitable for outdoor adventures.",
     "image": "https://tse2.mm.bing.net/th?q=Coleman+Camping+Tent"
   },
   {
-    "id": 466,
     "name": "Harley-Davidson Leather Jacket",
     "category": "Fashion",
     "price": 229.99,
-    "rating": 4.0,
+    "rating": 4,
     "stock": 119,
     "description": "Premium leather jacket with rugged styling and signature detailing.",
     "image": "https://tse2.mm.bing.net/th?q=Harley+Davidson+Leather+Jacket"
   },
   {
-    "id": 467,
     "name": "JBL Wireless Earbuds",
     "category": "Electronics",
     "price": 59.99,
@@ -4660,7 +4194,6 @@
     "image": "https://tse2.mm.bing.net/th?q=JBL+Wireless+Earbuds"
   },
   {
-    "id": 468,
     "name": "T-fal Cookware Set",
     "category": "Home & Kitchen",
     "price": 69.99,
@@ -4670,7 +4203,6 @@
     "image": "https://tse2.mm.bing.net/th?q=T-fal+Cookware+Set"
   },
   {
-    "id": 469,
     "name": "Men's Cotton T-Shirt",
     "category": "Fashion",
     "price": 14.99,
@@ -4680,7 +4212,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Men%27s+Cotton+T-Shirt"
   },
   {
-    "id": 470,
     "name": "Cuisinart Cookware Set",
     "category": "Home & Kitchen",
     "price": 89.99,
@@ -4690,7 +4221,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Cuisinart+Cookware+Set"
   },
   {
-    "id": 471,
     "name": "Schwinn Bicycle Helmet",
     "category": "Sports & Outdoors",
     "price": 562.71,
@@ -4700,7 +4230,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Schwinn+Bicycle+Helmet"
   },
   {
-    "id": 472,
     "name": "Adidas Yoga Mat",
     "category": "Sports & Outdoors",
     "price": 359.88,
@@ -4710,7 +4239,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Adidas+Yoga+Mat"
   },
   {
-    "id": 473,
     "name": "T-fal Cookware Set",
     "category": "Home & Kitchen",
     "price": 1588.4,
@@ -4720,7 +4248,6 @@
     "image": "https://tse2.mm.bing.net/th?q=T-fal+Cookware+Set"
   },
   {
-    "id": 474,
     "name": "H&M Women's Dress",
     "category": "Fashion",
     "price": 63.28,
@@ -4730,7 +4257,6 @@
     "image": "https://tse2.mm.bing.net/th?q=H%26M+Women%27s+Dress"
   },
   {
-    "id": 475,
     "name": "Cuisinart Cookware Set",
     "category": "Home & Kitchen",
     "price": 1684.76,
@@ -4740,7 +4266,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Cuisinart+Cookware+Set"
   },
   {
-    "id": 476,
     "name": "Dyson Vacuum Cleaner",
     "category": "Home & Kitchen",
     "price": 936.11,
@@ -4750,7 +4275,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Dyson+Vacuum+Cleaner"
   },
   {
-    "id": 477,
     "name": "Keurig Coffee Maker",
     "category": "Home & Kitchen",
     "price": 316.26,
@@ -4760,7 +4284,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Keurig+Coffee+Maker"
   },
   {
-    "id": 478,
     "name": "Nike Football",
     "category": "Sports & Outdoors",
     "price": 1878.84,
@@ -4770,7 +4293,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Nike+Football"
   },
   {
-    "id": 479,
     "name": "Nivea Moisturizer",
     "category": "Beauty",
     "price": 1445.57,
@@ -4780,17 +4302,15 @@
     "image": "https://tse2.mm.bing.net/th?q=Nivea+Moisturizer"
   },
   {
-    "id": 480,
     "name": "Asus Laptop",
     "category": "Electronics",
     "price": 1305.97,
-    "rating": 3.0,
+    "rating": 3,
     "stock": 67,
     "description": "Powerful laptop suitable for work, school, and everyday computing.",
     "image": "https://tse2.mm.bing.net/th?q=Asus+Laptop"
   },
   {
-    "id": 481,
     "name": "Bowflex Dumbbell Set",
     "category": "Sports & Outdoors",
     "price": 1341.87,
@@ -4800,7 +4320,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Bowflex+Dumbbell+Set"
   },
   {
-    "id": 482,
     "name": "Puma Running Shoes",
     "category": "Sports & Outdoors",
     "price": 250.38,
@@ -4810,7 +4329,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Puma+Running+Shoes"
   },
   {
-    "id": 483,
     "name": "Samsung Laptop",
     "category": "Electronics",
     "price": 1746.51,
@@ -4820,7 +4338,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Samsung+Laptop"
   },
   {
-    "id": 484,
     "name": "Generic Gaming Mouse",
     "category": "Electronics",
     "price": 107.83,
@@ -4830,7 +4347,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Gaming+Mouse"
   },
   {
-    "id": 485,
     "name": "Philips Electric Kettle",
     "category": "Home & Kitchen",
     "price": 1144.52,
@@ -4840,7 +4356,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Philips+Electric+Kettle"
   },
   {
-    "id": 486,
     "name": "Adidas Water Bottle",
     "category": "Sports & Outdoors",
     "price": 1161.68,
@@ -4850,7 +4365,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Adidas+Water+Bottle"
   },
   {
-    "id": 487,
     "name": "Schwinn Bicycle Helmet",
     "category": "Sports & Outdoors",
     "price": 818.45,
@@ -4860,7 +4374,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Schwinn+Bicycle+Helmet"
   },
   {
-    "id": 488,
     "name": "Ninja Blender",
     "category": "Home & Kitchen",
     "price": 1392.65,
@@ -4870,7 +4383,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Ninja+Blender"
   },
   {
-    "id": 489,
     "name": "Neutrogena Sunscreen",
     "category": "Beauty",
     "price": 608.81,
@@ -4880,7 +4392,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Neutrogena+Sunscreen"
   },
   {
-    "id": 490,
     "name": "Philips Table Lamp",
     "category": "Home & Kitchen",
     "price": 1777.3,
@@ -4890,7 +4401,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Philips+Table+Lamp"
   },
   {
-    "id": 491,
     "name": "Generic Bicycle Helmet",
     "category": "Sports & Outdoors",
     "price": 813.91,
@@ -4900,7 +4410,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Bicycle+Helmet"
   },
   {
-    "id": 492,
     "name": "Coleman Camping Tent",
     "category": "Sports & Outdoors",
     "price": 1854.29,
@@ -4910,7 +4419,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Coleman+Camping+Tent"
   },
   {
-    "id": 493,
     "name": "L'Oreal Face Serum",
     "category": "Beauty",
     "price": 1036.87,
@@ -4920,7 +4428,6 @@
     "image": "https://tse2.mm.bing.net/th?q=LOreal+Face+Serum"
   },
   {
-    "id": 494,
     "name": "Generic Lipstick",
     "category": "Beauty",
     "price": 677.25,
@@ -4930,7 +4437,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Lipstick"
   },
   {
-    "id": 495,
     "name": "Generic Blender",
     "category": "Home & Kitchen",
     "price": 1157.31,
@@ -4940,7 +4446,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Blender"
   },
   {
-    "id": 496,
     "name": "JBL Bluetooth Speaker",
     "category": "Electronics",
     "price": 853.62,
@@ -4950,7 +4455,6 @@
     "image": "https://tse2.mm.bing.net/th?q=JBL+Bluetooth+Speaker"
   },
   {
-    "id": 497,
     "name": "Fossil Handbag",
     "category": "Fashion",
     "price": 1945.06,
@@ -4960,7 +4464,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Fossil+Handbag"
   },
   {
-    "id": 498,
     "name": "Adidas Sports Bag",
     "category": "Fashion",
     "price": 1849.36,
@@ -4970,7 +4473,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Adidas+Sports+Bag"
   },
   {
-    "id": 499,
     "name": "Ray-Ban Sunglasses",
     "category": "Fashion",
     "price": 1571.97,
@@ -4980,7 +4482,6 @@
     "image": "https://tse2.mm.bing.net/th?q=Ray-Ban+Sunglasses"
   },
   {
-    "id": 500,
     "name": "Stainless Steel Water Bottle",
     "category": "Sports & Outdoors",
     "price": 1137.97,
